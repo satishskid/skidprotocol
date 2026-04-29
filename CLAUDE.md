@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-29 · v0.3 · A1 + B1-05 drafted
+> Last updated: 2026-04-29 · v0.4 · A1 + B1-05 + B1-01 drafted
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -179,13 +179,14 @@ moves between states.
 
 ### v1.0 complete, awaiting editorial pass
 - A1 — SKIDS Screening (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/A1-skids-screening/STATUS.md for editorial-pass questions)
+- B1-01 — Vision Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-01-vision/STATUS.md for editorial-pass questions)
 - B1-05 — Skin Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-05-skin/STATUS.md for editorial-pass questions)
 
 ### Drafting now
 - (none — between sessions)
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
-- B1-01 Vision · B1-02 Hearing & Ear · B1-03 Throat & Airway
+- B1-02 Hearing & Ear · B1-03 Throat & Airway
 - B1-04 Oral Health · B1-06 Allergy
 - B1-07 Sleep · B1-08 Behavioural · B1-09 Nutrition & Growth
 - B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
@@ -202,38 +203,41 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-01 Vision**
+**Recommended next protocol to write: B1-09 Nutrition & Growth**
 
 Why:
-- A1 and B1-05 Skin are now drafted (DRAFT_COMPLETE). The voice, the
-  three-tier severity grading (Mild / Moderate / Severe with §7
-  refractory), and the §9 Companion structure are now patterns the
-  rest of the B1 library inherits.
-- B1-01 Vision is the cleanest exemplar of the *device-driven B1*
-  pattern. Welch Allyn Spot Vision is already referenced from A1 §4.4
-  as the in-clinic device; B1-01's job is to specify the full B1
-  workflow that takes A1's Orange vision flag through to corrective
-  intervention or onward Tier 3 referral (pediatric ophthalmology
-  for strabismus, cataract, retinal disease).
-- Vision has a simpler therapeutic kit than Skin (spectacles, myopia
-  control with low-dose atropine, vision-therapy referrals) — locks
-  in the device-protocol pattern before tackling more complex B1
-  protocols.
+- A1, B1-05 Skin, and B1-01 Vision are now drafted (DRAFT_COMPLETE).
+  The voice, three-tier severity grading, §9 Companion structure,
+  in-clinic dispensing pattern (B1-05 dispensary, B1-01 spectacles),
+  and allied-staff dependency pattern (B1-01 optometrist) are all
+  established.
+- B1-09 Nutrition & Growth has the highest A1 cross-reference density
+  in the library. A1 §6.1 already prescribes vitamin D and iron
+  supplementation that B1-09 governs; A1 §5 routes growth Yellow /
+  Orange flags directly here; A1's MUAC-Red SAM trigger (§7.2) is
+  primarily a B1-09 hand-off.
+- Tests the A1-to-B1 hand-off pattern thoroughly — particularly the
+  shared-management of supplementation across A1 (universal
+  prophylactic) and B1-09 (therapeutic dosing in deficiency).
+- Allied-staff dependency on the SKIDS dietitian; tests the dietitian
+  workflow that B1-08, B1-10, and B1-13 will all reuse.
+- Indian-context salience: high prevalence of stunting, wasting,
+  anaemia, and emerging childhood obesity makes B1-09 commercially
+  high-signal alongside B1-05 Skin.
 
-Alternatives in priority order if B1-01 is blocked:
-- B1-09 Nutrition & Growth (highest A1 cross-reference density;
-  validates the A1-to-B1 hand-off).
-- B1-08 Behavioural (tests the LISSUN partnership and the cultural-
-  sensitivities pattern around mental-health stigma).
-- B1-06 Allergy (direct co-management with B1-05 for AD with
-  food / aeroallergen triggers; tests cross-protocol shared
-  management).
+Alternatives in priority order if B1-09 is blocked:
+- B1-08 Behavioural (LISSUN partnership; M-CHAT-R / Vanderbilt
+  scales already referenced from A1; cultural-sensitivities pattern
+  around mental-health stigma).
+- B1-06 Allergy (cross-care with B1-05 for AD with food /
+  aeroallergen triggers; tests cross-protocol shared management).
+- B1-22 Vaccination (operationally dense; reconciles IAP IIS with
+  every periodic A1 visit).
 
-When starting B1-01: read `protocols/A1-skids-screening/PROTOCOL.md`
-and `protocols/B1-05-skin/PROTOCOL.md` as voice anchors. B1-05's §5
-three-tier severity structure (Mild / Moderate / Severe / §7 Refractory)
-is the standard inheritance for every B1 protocol; deviate only with
-a clinical reason.
+When starting B1-09: read all three completed protocols as voice
+anchors. The A1 §6.1 supplementation references and the A1 §5 growth
+flag thresholds should propagate forward unchanged unless there is a
+clinical reason to diverge.
 
 ---
 
@@ -398,6 +402,27 @@ See `docs/future-tools.md` for full notes.
                    AAD-Tinea-2014, Cochrane-CD003871, Cochrane-CD009864,
                    Stevens-2014-IDSA. §5 NEXT WORK ITEM now points to
                    B1-01 Vision.
+
+2026-04-29  v0.4   B1-01 Vision Clinic drafted (DRAFT_COMPLETE). All 12
+                   sections at or near target depth. First device-and-
+                   allied-staff-driven B1 protocol; establishes the
+                   in-clinic optometrist dependency pattern, the
+                   in-clinic spectacle dispensing pattern, and the
+                   IMI-2021-aligned myopia-control programme (low-dose
+                   atropine 0.01% / 0.05% with documented progression
+                   criteria). Covers refractive error (Mild / Moderate
+                   / High), progressive myopia, allergic conjunctivitis,
+                   bacterial conjunctivitis, convergence insufficiency,
+                   colour-vision testing, and external lid disease. §7
+                   includes leukocoria as a hard §7.1 trigger. Five
+                   [NEEDS EXPANSION] markers plus six judgement-calls
+                   flagged in protocols/B1-01-vision/STATUS.md. New
+                   citations added to shared/citations.bib:
+                   AAP-AAO-2016-Vision, AAPOS-Vision-2024, IMI-2021,
+                   AAO-Conj-2018, AAP-Conj-2013, IAP-Vision-2022,
+                   NPCB-2017, Cochrane-CD009078, PEDIG-Amblyopia. §5
+                   NEXT WORK ITEM now points to B1-09 Nutrition &
+                   Growth.
 ```
 
 ---

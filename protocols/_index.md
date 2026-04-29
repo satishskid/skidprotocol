@@ -3,7 +3,7 @@
 The single source of truth for the status of every protocol in the SKIDS
 Clinical Protocol Library.
 
-**Last updated:** 2026-04-29 (A1 + B1-05 drafted)
+**Last updated:** 2026-04-29 (A1 + B1-05 + B1-01 drafted)
 
 ---
 
@@ -32,7 +32,7 @@ DEPLOYED                 Live in Companion software at SKIDS clinics
 
 | ID | Name | Status | Owner | Last update |
 |---|---|---|---|---|
-| B1-01 | Vision Clinic | NOT_STARTED | TBD | — |
+| B1-01 | Vision Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-29 |
 | B1-02 | Hearing & Ear Clinic | NOT_STARTED | TBD | — |
 | B1-03 | Throat & Airway Clinic | NOT_STARTED | TBD | — |
 | B1-04 | Oral Health Clinic | NOT_STARTED | TBD | — |
@@ -88,9 +88,9 @@ Per `CLAUDE.md` §5 NEXT WORK ITEM:
 ## Aggregate progress
 
 ```
-NOT_STARTED:               25 / 27   (92.6%)
+NOT_STARTED:               24 / 27   (88.9%)
 IN_PROGRESS:                0 / 27   (0%)
-DRAFT_COMPLETE:             2 / 27   (7.4%)
+DRAFT_COMPLETE:             3 / 27   (11.1%)
 APPROVED:                   0 / 27   (0%)
 DEPLOYED:                   0 / 27   (0%)
 ```
