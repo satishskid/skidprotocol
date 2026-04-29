@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-29 · v0.4 · A1 + B1-05 + B1-01 drafted
+> Last updated: 2026-04-29 · v0.5 · A1 + B1-01 + B1-05 + B1-09 drafted
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -181,6 +181,7 @@ moves between states.
 - A1 — SKIDS Screening (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/A1-skids-screening/STATUS.md for editorial-pass questions)
 - B1-01 — Vision Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-01-vision/STATUS.md for editorial-pass questions)
 - B1-05 — Skin Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-05-skin/STATUS.md for editorial-pass questions)
+- B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-09-nutrition-and-growth/STATUS.md for editorial-pass questions)
 
 ### Drafting now
 - (none — between sessions)
@@ -188,7 +189,7 @@ moves between states.
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
 - B1-02 Hearing & Ear · B1-03 Throat & Airway
 - B1-04 Oral Health · B1-06 Allergy
-- B1-07 Sleep · B1-08 Behavioural · B1-09 Nutrition & Growth
+- B1-07 Sleep · B1-08 Behavioural
 - B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
 - B1-13 Adolescent · B1-14 Pulmonology / Asthma · B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
@@ -203,41 +204,42 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-09 Nutrition & Growth**
+**Recommended next protocol to write: B1-08 Behavioural**
 
 Why:
-- A1, B1-05 Skin, and B1-01 Vision are now drafted (DRAFT_COMPLETE).
-  The voice, three-tier severity grading, §9 Companion structure,
-  in-clinic dispensing pattern (B1-05 dispensary, B1-01 spectacles),
-  and allied-staff dependency pattern (B1-01 optometrist) are all
-  established.
-- B1-09 Nutrition & Growth has the highest A1 cross-reference density
-  in the library. A1 §6.1 already prescribes vitamin D and iron
-  supplementation that B1-09 governs; A1 §5 routes growth Yellow /
-  Orange flags directly here; A1's MUAC-Red SAM trigger (§7.2) is
-  primarily a B1-09 hand-off.
-- Tests the A1-to-B1 hand-off pattern thoroughly — particularly the
-  shared-management of supplementation across A1 (universal
-  prophylactic) and B1-09 (therapeutic dosing in deficiency).
-- Allied-staff dependency on the SKIDS dietitian; tests the dietitian
-  workflow that B1-08, B1-10, and B1-13 will all reuse.
-- Indian-context salience: high prevalence of stunting, wasting,
-  anaemia, and emerging childhood obesity makes B1-09 commercially
-  high-signal alongside B1-05 Skin.
+- A1, B1-01 Vision, B1-05 Skin, and B1-09 Nutrition & Growth are
+  now drafted (DRAFT_COMPLETE). Four protocols at this point cover
+  the device-driven (B1-01), dispensary-driven (B1-05), and
+  allied-staff-driven (B1-01 optometrist, B1-09 dietitian) patterns.
+- B1-08 Behavioural is the deepest test of the LISSUN external-
+  partner integration — already referenced from A1 §7.1 (suicidality
+  emergency handoff to LISSUN-pre-notified named ER) and from
+  B1-09 §7.3 (eating-disorder routing).
+- Reuses the M-CHAT-R, Vanderbilt, SDQ, CBCL scales already
+  referenced from A1 §4.3.
+- Tests the cultural-sensitivities pattern around mental-health
+  stigma (already framed in A1 §10.5 and B1-09 §10.5).
+- Tests the joint-care pattern with B1-13 Adolescent (psychosocial
+  HEEADSSS) and B2-02 Neurology (suspected pediatric epilepsy or
+  neurological developmental cause).
+- Behavioural is the protocol where the cultural-stigma framing is
+  most operationally consequential — getting it right here sets the
+  pattern for B1-13.
 
-Alternatives in priority order if B1-09 is blocked:
-- B1-08 Behavioural (LISSUN partnership; M-CHAT-R / Vanderbilt
-  scales already referenced from A1; cultural-sensitivities pattern
-  around mental-health stigma).
-- B1-06 Allergy (cross-care with B1-05 for AD with food /
-  aeroallergen triggers; tests cross-protocol shared management).
+Alternatives in priority order:
+- B1-06 Allergy (cross-care with B1-05 AD-with-food-trigger, with
+  B1-09 CMPA, with B1-14 asthma; tests cross-protocol shared
+  management most thoroughly).
 - B1-22 Vaccination (operationally dense; reconciles IAP IIS with
-  every periodic A1 visit).
+  every periodic A1 visit; the most structurally cross-cutting
+  protocol after A1).
+- B1-13 Adolescent (HEEADSSS, contraception counselling cultural
+  complexity, psychosocial domain depth).
 
-When starting B1-09: read all three completed protocols as voice
-anchors. The A1 §6.1 supplementation references and the A1 §5 growth
-flag thresholds should propagate forward unchanged unless there is a
-clinical reason to diverge.
+When starting B1-08: read A1, B1-09 (for the cultural-sensitivities
+section pattern), and B1-01 (for the §6 dispensary pattern with a
+restricted-prescription framing — ADHD pharmacotherapy needs the
+restricted-prescription handling that B1-05 betamethasone uses).
 
 ---
 
@@ -423,6 +425,30 @@ See `docs/future-tools.md` for full notes.
                    NPCB-2017, Cochrane-CD009078, PEDIG-Amblyopia. §5
                    NEXT WORK ITEM now points to B1-09 Nutrition &
                    Growth.
+
+2026-04-29  v0.5   B1-09 Nutrition & Growth Clinic drafted
+                   (DRAFT_COMPLETE). All 12 sections at or near target
+                   depth. Highest A1 cross-reference density protocol:
+                   inherits A1 §6.1 prophylactic supplementation, A1 §5
+                   growth and MUAC flag thresholds, A1 vaccination-
+                   visit POC Hb. Establishes the SKIDS dietitian
+                   allied-staff dependency pattern (parallel to B1-01
+                   optometrist) that B1-08, B1-10, and B1-13 will
+                   reuse. Covers growth faltering, IDA, vitamin D / A
+                   / B12 / zinc deficiency, picky eating / behavioural
+                   feeding, CMPA management (joint with B1-06),
+                   secondary lactose intolerance, breastfeeding and
+                   complementary-feeding programmes, and adolescent
+                   nutrition. SAM is hard out-of-scope to §7.1 partner
+                   SAM ward; severe IDA to §7.1 / §7.2; refractory
+                   faltering at 12 weeks to §7.3 pediatric GI. Four
+                   [NEEDS EXPANSION] markers plus six judgement-calls
+                   flagged in protocols/B1-09-nutrition-and-growth/STATUS.md.
+                   New citations added to shared/citations.bib:
+                   WHO-SAM-2013, WHO-IYCF-2023, IAP-Growth-2015,
+                   IAP-IDA-2021, IAP-VitaminD-2017, ICMR-RDA-2020,
+                   ESPGHAN-CF-2017, Cochrane-CD009085. §5 NEXT WORK
+                   ITEM now points to B1-08 Behavioural.
 ```
 
 ---
