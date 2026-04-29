@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-29 · v0.5 · A1 + B1-01 + B1-05 + B1-09 drafted
+> Last updated: 2026-04-29 · v0.6 · A1 + B1-01 + B1-05 + B1-08 + B1-09 drafted
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -181,6 +181,7 @@ moves between states.
 - A1 — SKIDS Screening (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/A1-skids-screening/STATUS.md for editorial-pass questions)
 - B1-01 — Vision Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-01-vision/STATUS.md for editorial-pass questions)
 - B1-05 — Skin Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-05-skin/STATUS.md for editorial-pass questions)
+- B1-08 — Behavioural Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-08-behavioural/STATUS.md for editorial-pass questions)
 - B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-09-nutrition-and-growth/STATUS.md for editorial-pass questions)
 
 ### Drafting now
@@ -189,7 +190,7 @@ moves between states.
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
 - B1-02 Hearing & Ear · B1-03 Throat & Airway
 - B1-04 Oral Health · B1-06 Allergy
-- B1-07 Sleep · B1-08 Behavioural
+- B1-07 Sleep
 - B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
 - B1-13 Adolescent · B1-14 Pulmonology / Asthma · B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
@@ -204,42 +205,47 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-08 Behavioural**
+**Recommended next protocol to write: B1-06 Allergy**
 
 Why:
-- A1, B1-01 Vision, B1-05 Skin, and B1-09 Nutrition & Growth are
-  now drafted (DRAFT_COMPLETE). Four protocols at this point cover
-  the device-driven (B1-01), dispensary-driven (B1-05), and
-  allied-staff-driven (B1-01 optometrist, B1-09 dietitian) patterns.
-- B1-08 Behavioural is the deepest test of the LISSUN external-
-  partner integration — already referenced from A1 §7.1 (suicidality
-  emergency handoff to LISSUN-pre-notified named ER) and from
-  B1-09 §7.3 (eating-disorder routing).
-- Reuses the M-CHAT-R, Vanderbilt, SDQ, CBCL scales already
-  referenced from A1 §4.3.
-- Tests the cultural-sensitivities pattern around mental-health
-  stigma (already framed in A1 §10.5 and B1-09 §10.5).
-- Tests the joint-care pattern with B1-13 Adolescent (psychosocial
-  HEEADSSS) and B2-02 Neurology (suspected pediatric epilepsy or
-  neurological developmental cause).
-- Behavioural is the protocol where the cultural-stigma framing is
-  most operationally consequential — getting it right here sets the
-  pattern for B1-13.
+- A1 and four B1 protocols (B1-01, B1-05, B1-08, B1-09) are now
+  drafted. Five at this point cover the screening, device-driven,
+  dispensary-driven, allied-staff-driven, external-partnership
+  (LISSUN), and adolescent-privacy patterns.
+- B1-06 Allergy is the deepest test of the cross-protocol shared-
+  management pattern in the library:
+    * Co-manages atopic dermatitis with food / aeroallergen triggers
+      with B1-05 (B1-05 §3 / §6 already references this).
+    * Co-manages CMPA with B1-09 (B1-09 §5.6 / §6.2 already
+      references this).
+    * Will co-manage asthma triggers with B1-14 Pulmonology when
+      B1-14 is drafted.
+- Locks in the adrenaline auto-injector + anaphylaxis action plan
+  operational pattern that affects A1 §7.1 (anaphylaxis without
+  action plan is a §7.1 trigger; B1-06 is the protocol that ensures
+  every at-risk family has an action plan in place).
+- Establishes specific IgE testing, skin-prick testing, and oral-
+  food-challenge workflows — important new device-and-allied-staff
+  patterns.
 
 Alternatives in priority order:
-- B1-06 Allergy (cross-care with B1-05 AD-with-food-trigger, with
-  B1-09 CMPA, with B1-14 asthma; tests cross-protocol shared
-  management most thoroughly).
+- B1-13 Adolescent (natural follow-on from B1-08; inherits privacy
+  framework; HEEADSSS and contraception counselling cultural
+  complexity).
+- B1-07 Sleep (cross-care with B1-08 behavioural sleep; BEARS scale
+  already in A1; melatonin cautious-use per CLAUDE.md §7.2).
 - B1-22 Vaccination (operationally dense; reconciles IAP IIS with
-  every periodic A1 visit; the most structurally cross-cutting
-  protocol after A1).
-- B1-13 Adolescent (HEEADSSS, contraception counselling cultural
-  complexity, psychosocial domain depth).
+  every periodic A1 visit).
+- B1-14 Pulmonology / Asthma (closes the atopic march triad once
+  B1-06 done — AD, food allergy, asthma).
 
-When starting B1-08: read A1, B1-09 (for the cultural-sensitivities
-section pattern), and B1-01 (for the §6 dispensary pattern with a
-restricted-prescription framing — ADHD pharmacotherapy needs the
-restricted-prescription handling that B1-05 betamethasone uses).
+When starting B1-06: read A1, B1-05 (for AD cross-care), B1-09 (for
+CMPA cross-care), and B1-08 (for the LISSUN partnership-style
+external-resource pattern, applicable here for severe / complex
+allergy referral to pediatric allergy specialists). The §7
+adrenaline-auto-injector pattern should be drafted carefully — it
+affects A1 §7.1 and so the cross-protocol consistency check at
+editorial pass will scrutinise it.
 
 ---
 
@@ -449,6 +455,34 @@ See `docs/future-tools.md` for full notes.
                    IAP-IDA-2021, IAP-VitaminD-2017, ICMR-RDA-2020,
                    ESPGHAN-CF-2017, Cochrane-CD009085. §5 NEXT WORK
                    ITEM now points to B1-08 Behavioural.
+
+2026-04-29  v0.6   B1-08 Behavioural Clinic drafted (DRAFT_COMPLETE).
+                   All 12 sections at or near target depth. Most
+                   sensitive protocol so far — establishes the LISSUN
+                   external-therapy-partnership integration pattern,
+                   the ADHD-pharmacotherapy cardiac-screen Companion
+                   hard-block, the adolescent privacy / confidentiality
+                   framework operational depth, and the suicidality
+                   §7.1 protocol (safety plan + lethal-means counselling
+                   + LISSUN psychiatrist pre-notification + child-not-
+                   discharged-unaccompanied retention rule). Covers
+                   ADHD (Vanderbilt-graded), autism screening (M-CHAT-
+                   R/F to §7.3), adolescent depression and anxiety
+                   (PHQ-A / GAD-7 with SSRI initiation per GLAD-PC),
+                   disruptive behaviour, OCD / tic mild, adjustment /
+                   PTSD, adolescent substance use (CRAFFT brief
+                   intervention). Mental-health stigma cultural
+                   framing applies functional language at screening
+                   visits and formal diagnostic labels at confirmation
+                   with consent. Three [NEEDS EXPANSION] markers plus
+                   seven judgement-calls flagged in
+                   protocols/B1-08-behavioural/STATUS.md. New citations
+                   added to shared/citations.bib: AAP-Anxiety-2020,
+                   AAP-Depression-2018, AAP-Suicide-2024,
+                   IAP-Behaviour-2022, WHO-mhGAP-2023, NICE-ADHD-2018,
+                   Robins-MCHATR-2014, Wolraich-Vanderbilt,
+                   Goodman-SDQ-2001, PHQ-A-Validation. §5 NEXT WORK
+                   ITEM now points to B1-06 Allergy.
 ```
 
 ---
