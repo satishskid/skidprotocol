@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-29 · v0.1.1 · Gate 1 (bootstrap, corrected)
+> Last updated: 2026-04-29 · v0.2 · A1 SKIDS Screening drafted
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -178,13 +178,12 @@ moves between states.
 - (none yet)
 
 ### v1.0 complete, awaiting editorial pass
-- (none yet)
+- A1 — SKIDS Screening (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/A1-skids-screening/STATUS.md for editorial-pass questions)
 
 ### Drafting now
 - (none — between sessions)
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
-- A1 SKIDS Screening
 - B1-01 Vision · B1-02 Hearing & Ear · B1-03 Throat & Airway
 - B1-04 Oral Health · B1-05 Skin · B1-06 Allergy
 - B1-07 Sleep · B1-08 Behavioural · B1-09 Nutrition & Growth
@@ -202,25 +201,29 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: A1 SKIDS Screening**
+**Recommended next protocol to write: B1-05 Skin**
 
 Why:
-- A1 is the front door of the SKIDS clinical system. Every B1 protocol
-  assumes the child has been through A1. Authoring B1 protocols before
-  A1 inverts the dependency and forces backfilling.
-- A1 establishes the §9 Companion workflow conventions (PHR generation,
-  flag-routing, hand-off to specialty clinics) that every B1 protocol
-  inherits.
-- A1 establishes the voice anchor for the rest of the library.
+- A1 is now drafted (DRAFT_COMPLETE). The flag-tier vocabulary
+  (Green / Yellow / Orange / Red) and the Companion §9 conventions
+  established in A1 are the inheritance every B1 protocol uses.
+- B1-05 Skin has highest commercial signal under the prevalence ×
+  felt-need × dispensable rubric (top tier on all three filters).
+- Skin has the most diverse therapeutic kit (topicals, orals,
+  behavioural, parent-applied) — sets the pattern for every other
+  B1 protocol's §6.
+- Visible problem → visible solution arc demonstrates the SKIDS model.
+- Once Skin is locked, Vision, Allergy, Sleep, Behavioural, and
+  Nutrition all inherit the established pattern with ~40% less
+  authoring time.
 
-After A1: B1-05 Skin (highest commercial signal under the prevalence
-× felt-need × dispensable rubric; most diverse therapeutic kit; sets
-the pattern for the remaining B1 protocols).
+Alternative if Skin is blocked: B1-01 Vision (next-strongest exemplar;
+device-driven workflow, simpler therapeutic kit).
 
-Alternative if A1 is blocked on a clinical or operational decision
-needed from Dr. Satish Prasad Rath: flag the question in
-`protocols/A1-skids-screening/STATUS.md` and start B1-05 Skin in
-parallel.
+When starting B1-05 Skin: read `protocols/A1-skids-screening/PROTOCOL.md`
+as the voice anchor in addition to `docs/01-voice-and-style-guide.md`.
+A1's §5 flag tiers and §9 Companion structure should propagate to B1-05
+unchanged unless there is a clinical reason to diverge.
 
 ---
 
@@ -230,9 +233,8 @@ parallel.
 
 1. Read this file (`CLAUDE.md`) end-to-end.
 2. Read `docs/01-voice-and-style-guide.md` if you haven't recently.
-3. Read the most recently completed protocol as a voice anchor. Until
-   the first protocol is drafted, use `shared/voice-samples.md` and
-   `docs/01-voice-and-style-guide.md` as the voice anchor instead.
+3. Read the most recently completed protocol as a voice anchor —
+   currently `protocols/A1-skids-screening/PROTOCOL.md` (DRAFT_COMPLETE).
 4. Check `§4 STATUS TRACKER` above to confirm what's done and what's next.
 5. Open the relevant protocol's STATUS.md to see if there are notes from
    the previous session.
@@ -355,6 +357,18 @@ See `docs/future-tools.md` for full notes.
                    (NOT_STARTED), no PROTOCOL.md. Reverted A1 to the
                    Stubbed list, set §5 NEXT WORK ITEM to A1, and
                    corrected the v0.1 log entry above.
+
+2026-04-29  v0.2   A1 SKIDS Screening drafted (DRAFT_COMPLETE). All 12
+                   sections at or near target depth. Establishes the
+                   four-tier flag vocabulary (Green / Yellow / Orange /
+                   Red) and the Companion §9 conventions for every B1
+                   protocol to inherit. Five [NEEDS EXPANSION] markers
+                   for the editorial pass — see
+                   protocols/A1-skids-screening/STATUS.md. New citations
+                   added to shared/citations.bib: AAP-BF-4E,
+                   AAP-Period-2024, IAP-Period-2024, Owens-2005-BEARS,
+                   CDC-Milestones-2022, RBSK-2013. §5 NEXT WORK ITEM
+                   now points to B1-05 Skin.
 ```
 
 ---

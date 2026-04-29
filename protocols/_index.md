@@ -3,7 +3,7 @@
 The single source of truth for the status of every protocol in the SKIDS
 Clinical Protocol Library.
 
-**Last updated:** 2026-04-29 (Gate 1 bootstrap complete)
+**Last updated:** 2026-04-29 (A1 drafted)
 
 ---
 
@@ -24,7 +24,7 @@ DEPLOYED                 Live in Companion software at SKIDS clinics
 
 | ID | Name | Status | Owner | Last update |
 |---|---|---|---|---|
-| A1 | SKIDS Screening | NOT_STARTED | TBD | — |
+| A1 | SKIDS Screening | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-29 |
 
 ---
 
@@ -88,9 +88,9 @@ Per `CLAUDE.md` §5 NEXT WORK ITEM:
 ## Aggregate progress
 
 ```
-NOT_STARTED:               27 / 27   (100%)
+NOT_STARTED:               26 / 27   (96.3%)
 IN_PROGRESS:                0 / 27   (0%)
-DRAFT_COMPLETE:             0 / 27   (0%)
+DRAFT_COMPLETE:             1 / 27   (3.7%)
 APPROVED:                   0 / 27   (0%)
 DEPLOYED:                   0 / 27   (0%)
 ```
