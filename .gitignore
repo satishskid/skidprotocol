@@ -1,0 +1,29 @@
+# GSD session-local state
+.planning/
+.gsd/
+
+# Graphify outputs (regenerated)
+graphify-out/
+
+# Frontend Slides outputs (when added later)
+slides-out/
+
+# Editor and OS
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python (if scripts get added)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (if any)
+node_modules/
+
+# Local notes that shouldn't be committed
+NOTES.local.md
+TODO.local.md
