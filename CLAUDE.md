@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-29 · v0.2 · A1 SKIDS Screening drafted
+> Last updated: 2026-04-29 · v0.3 · A1 + B1-05 drafted
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -179,13 +179,14 @@ moves between states.
 
 ### v1.0 complete, awaiting editorial pass
 - A1 — SKIDS Screening (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/A1-skids-screening/STATUS.md for editorial-pass questions)
+- B1-05 — Skin Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-05-skin/STATUS.md for editorial-pass questions)
 
 ### Drafting now
 - (none — between sessions)
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
 - B1-01 Vision · B1-02 Hearing & Ear · B1-03 Throat & Airway
-- B1-04 Oral Health · B1-05 Skin · B1-06 Allergy
+- B1-04 Oral Health · B1-06 Allergy
 - B1-07 Sleep · B1-08 Behavioural · B1-09 Nutrition & Growth
 - B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
 - B1-13 Adolescent · B1-14 Pulmonology / Asthma · B1-15 Gastrointestinal
@@ -201,29 +202,38 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-05 Skin**
+**Recommended next protocol to write: B1-01 Vision**
 
 Why:
-- A1 is now drafted (DRAFT_COMPLETE). The flag-tier vocabulary
-  (Green / Yellow / Orange / Red) and the Companion §9 conventions
-  established in A1 are the inheritance every B1 protocol uses.
-- B1-05 Skin has highest commercial signal under the prevalence ×
-  felt-need × dispensable rubric (top tier on all three filters).
-- Skin has the most diverse therapeutic kit (topicals, orals,
-  behavioural, parent-applied) — sets the pattern for every other
-  B1 protocol's §6.
-- Visible problem → visible solution arc demonstrates the SKIDS model.
-- Once Skin is locked, Vision, Allergy, Sleep, Behavioural, and
-  Nutrition all inherit the established pattern with ~40% less
-  authoring time.
+- A1 and B1-05 Skin are now drafted (DRAFT_COMPLETE). The voice, the
+  three-tier severity grading (Mild / Moderate / Severe with §7
+  refractory), and the §9 Companion structure are now patterns the
+  rest of the B1 library inherits.
+- B1-01 Vision is the cleanest exemplar of the *device-driven B1*
+  pattern. Welch Allyn Spot Vision is already referenced from A1 §4.4
+  as the in-clinic device; B1-01's job is to specify the full B1
+  workflow that takes A1's Orange vision flag through to corrective
+  intervention or onward Tier 3 referral (pediatric ophthalmology
+  for strabismus, cataract, retinal disease).
+- Vision has a simpler therapeutic kit than Skin (spectacles, myopia
+  control with low-dose atropine, vision-therapy referrals) — locks
+  in the device-protocol pattern before tackling more complex B1
+  protocols.
 
-Alternative if Skin is blocked: B1-01 Vision (next-strongest exemplar;
-device-driven workflow, simpler therapeutic kit).
+Alternatives in priority order if B1-01 is blocked:
+- B1-09 Nutrition & Growth (highest A1 cross-reference density;
+  validates the A1-to-B1 hand-off).
+- B1-08 Behavioural (tests the LISSUN partnership and the cultural-
+  sensitivities pattern around mental-health stigma).
+- B1-06 Allergy (direct co-management with B1-05 for AD with
+  food / aeroallergen triggers; tests cross-protocol shared
+  management).
 
-When starting B1-05 Skin: read `protocols/A1-skids-screening/PROTOCOL.md`
-as the voice anchor in addition to `docs/01-voice-and-style-guide.md`.
-A1's §5 flag tiers and §9 Companion structure should propagate to B1-05
-unchanged unless there is a clinical reason to diverge.
+When starting B1-01: read `protocols/A1-skids-screening/PROTOCOL.md`
+and `protocols/B1-05-skin/PROTOCOL.md` as voice anchors. B1-05's §5
+three-tier severity structure (Mild / Moderate / Severe / §7 Refractory)
+is the standard inheritance for every B1 protocol; deviate only with
+a clinical reason.
 
 ---
 
@@ -369,6 +379,25 @@ See `docs/future-tools.md` for full notes.
                    AAP-Period-2024, IAP-Period-2024, Owens-2005-BEARS,
                    CDC-Milestones-2022, RBSK-2013. §5 NEXT WORK ITEM
                    now points to B1-05 Skin.
+
+2026-04-29  v0.3   B1-05 Skin Clinic drafted (DRAFT_COMPLETE). All 12
+                   sections at or near target depth. First B1-tier
+                   protocol; establishes the three-tier severity grading
+                   inheritance pattern (Mild / Moderate / Severe / §7
+                   Refractory) for the rest of the B1 library. Covers
+                   atopic dermatitis (SCORAD), acne (IGA-Acne), common
+                   pediatric infectious dermatoses (impetigo, scabies,
+                   tinea, pediculosis, candidal intertrigo), reactive
+                   dermatoses, and lesion surveillance. Embeds an
+                   antimicrobial-stewardship 3-month-cap on oral
+                   antibiotics for acne. Six [NEEDS EXPANSION] markers
+                   plus six judgement-calls flagged in
+                   protocols/B1-05-skin/STATUS.md. New citations added
+                   to shared/citations.bib: AAD-2024-AD, AAD-2024-Acne,
+                   IAP-Atopic-2023, IADVL-Scabies-2021, CDC-Scabies-2024,
+                   AAD-Tinea-2014, Cochrane-CD003871, Cochrane-CD009864,
+                   Stevens-2014-IDSA. §5 NEXT WORK ITEM now points to
+                   B1-01 Vision.
 ```
 
 ---
