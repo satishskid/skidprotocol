@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v0.8 · 7 protocols drafted (A1 + B1-01 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09)
+> Last updated: 2026-04-30 · v0.9 · 8 protocols drafted (A1 + B1-01 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -185,6 +185,7 @@ moves between states.
 - B1-07 — Sleep Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-08 — Behavioural Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
+- B1-13 — Adolescent Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 
 ### Drafting now
 - (none — between sessions)
@@ -192,7 +193,7 @@ moves between states.
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
 - B1-02 Hearing & Ear · B1-03 Throat & Airway · B1-04 Oral Health
 - B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
-- B1-13 Adolescent · B1-14 Pulmonology / Asthma · B1-15 Gastrointestinal
+- B1-14 Pulmonology / Asthma · B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
 - B1-19 Infections · B1-20 Bedwetting · B1-21 Constipation
 - B1-22 Vaccination · B1-23 Developmental Surveillance
@@ -205,47 +206,33 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-13 Adolescent**
+**Recommended next protocol to write: B1-22 Vaccination**
 
 Why:
-- A1 and four B1 protocols (B1-01, B1-05, B1-08, B1-09) are now
-  drafted. Five at this point cover the screening, device-driven,
-  dispensary-driven, allied-staff-driven, external-partnership
-  (LISSUN), and adolescent-privacy patterns.
-- B1-06 Allergy is the deepest test of the cross-protocol shared-
-  management pattern in the library:
-    * Co-manages atopic dermatitis with food / aeroallergen triggers
-      with B1-05 (B1-05 §3 / §6 already references this).
-    * Co-manages CMPA with B1-09 (B1-09 §5.6 / §6.2 already
-      references this).
-    * Will co-manage asthma triggers with B1-14 Pulmonology when
-      B1-14 is drafted.
-- Locks in the adrenaline auto-injector + anaphylaxis action plan
-  operational pattern that affects A1 §7.1 (anaphylaxis without
-  action plan is a §7.1 trigger; B1-06 is the protocol that ensures
-  every at-risk family has an action plan in place).
-- Establishes specific IgE testing, skin-prick testing, and oral-
-  food-challenge workflows — important new device-and-allied-staff
-  patterns.
+- Eight protocols now drafted (A1, B1-01, B1-05, B1-06, B1-07,
+  B1-08, B1-09, B1-13 = 29.6%). The library covers screening,
+  device-driven, dispensary-driven, allied-staff-driven, external-
+  partnership (LISSUN), adolescent-privacy, and cross-protocol
+  shared-management patterns.
+- B1-22 Vaccination is operationally dense: reconciles IAP IIS
+  2024-25 with every periodic A1 visit, defines the vaccine
+  dispensary and cold-chain operational model, covers catch-up
+  scheduling, HPV programme (cross with B1-13), travel vaccines,
+  and adverse-event documentation.
+- Every A1 periodic visit references vaccination status; B1-22 is
+  the protocol that defines what "up to date" means and what
+  happens when the child is not.
 
 Alternatives in priority order:
-- B1-13 Adolescent (natural follow-on from B1-08; inherits privacy
-  framework; HEEADSSS and contraception counselling cultural
-  complexity).
-- B1-07 Sleep (cross-care with B1-08 behavioural sleep; BEARS scale
-  already in A1; melatonin cautious-use per CLAUDE.md §7.2).
-- B1-22 Vaccination (operationally dense; reconciles IAP IIS with
-  every periodic A1 visit).
-- B1-14 Pulmonology / Asthma (closes the atopic march triad once
-  B1-06 done — AD, food allergy, asthma).
+- B1-14 Pulmonology / Asthma (closes the atopic march triad —
+  AD via B1-05, food allergy via B1-06, asthma via B1-14).
+- B1-02 Hearing & Ear (device-driven, A1 cross-reference dense).
+- B1-10 Obesity & Metabolic (cross with B1-09, B1-13).
+- B1-03 Throat & Airway.
 
-When starting B1-06: read A1, B1-05 (for AD cross-care), B1-09 (for
-CMPA cross-care), and B1-08 (for the LISSUN partnership-style
-external-resource pattern, applicable here for severe / complex
-allergy referral to pediatric allergy specialists). The §7
-adrenaline-auto-injector pattern should be drafted carefully — it
-affects A1 §7.1 and so the cross-protocol consistency check at
-editorial pass will scrutinise it.
+When starting B1-22: read A1 (for periodic-visit vaccination
+reconciliation pattern), B1-13 (for HPV programme cross-reference),
+and IAP IIS 2024-25 (the authoritative Indian immunisation schedule).
 
 ---
 
@@ -479,6 +466,25 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v0.9   B1-13 Adolescent Clinic drafted (DRAFT_COMPLETE).
+                   Eighth protocol; most culturally complex in the
+                   library. Establishes the HEEADSSS private-interview
+                   framework, contraception counselling and provision
+                   pattern (barrier + COC/POP/DMPA/EC; LARC routed to
+                   gynaecology partner), STI testing and treatment
+                   in primary care (uncomplicated gonorrhoea/chlamydia/
+                   trichomoniasis per CDC-STI-2021), POCSO mandatory-
+                   reporting confidentiality override, adolescent-
+                   private Companion login, and menstrual-health
+                   management (dysmenorrhoea, menorrhagia, amenorrhoea,
+                   PCOS workup routing). Five [NEEDS EXPANSION] markers
+                   + seven judgement calls flagged in
+                   protocols/B1-13-adolescent/STATUS.md. New citations
+                   added to shared/citations.bib: IAP-Adolescent-2023,
+                   POCSO-2012, WHO-Adolescent-2024, CDC-STI-2021,
+                   ACOG-Adolescent-2017, ICMR-NMHS-2016, NCERT-AEP.
+                   §5 NEXT WORK ITEM now points to B1-22 Vaccination.
 
 2026-04-29  v0.6   B1-08 Behavioural Clinic drafted (DRAFT_COMPLETE).
                    All 12 sections at or near target depth. Most

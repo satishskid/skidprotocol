@@ -3,7 +3,7 @@
 The single source of truth for the status of every protocol in the SKIDS
 Clinical Protocol Library.
 
-**Last updated:** 2026-04-30 (A1 + B1-01 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 drafted)
+**Last updated:** 2026-04-30 (A1 + B1-01 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13 drafted)
 
 ---
 
@@ -44,7 +44,7 @@ DEPLOYED                 Live in Companion software at SKIDS clinics
 | B1-10 | Obesity & Metabolic Clinic | NOT_STARTED | TBD | — |
 | B1-11 | Speech & Language Clinic | NOT_STARTED | TBD | — |
 | B1-12 | Learning Clinic | NOT_STARTED | TBD | — |
-| B1-13 | Adolescent Clinic | NOT_STARTED | TBD | — |
+| B1-13 | Adolescent Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
 | B1-14 | Pulmonology / Asthma Clinic | NOT_STARTED | TBD | — |
 | B1-15 | Gastrointestinal Clinic | NOT_STARTED | TBD | — |
 | B1-16 | Cardiac Clinic | NOT_STARTED | TBD | — |
@@ -88,9 +88,9 @@ Per `CLAUDE.md` §5 NEXT WORK ITEM:
 ## Aggregate progress
 
 ```
-NOT_STARTED:               20 / 27   (74.1%)
+NOT_STARTED:               19 / 27   (70.4%)
 IN_PROGRESS:                0 / 27   (0%)
-DRAFT_COMPLETE:             7 / 27   (25.9%)
+DRAFT_COMPLETE:             8 / 27   (29.6%)
 APPROVED:                   0 / 27   (0%)
 DEPLOYED:                   0 / 27   (0%)
 ```
