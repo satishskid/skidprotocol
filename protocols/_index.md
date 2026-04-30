@@ -3,7 +3,7 @@
 The single source of truth for the status of every protocol in the SKIDS
 Clinical Protocol Library.
 
-**Last updated:** 2026-04-30 (A1 + B1-01 – B1-16 + B1-20 – B1-23 drafted; 21/27)
+**Last updated:** 2026-04-30 (ALL 27 PROTOCOLS DRAFTED — 27/27 = 100%)
 
 ---
 
@@ -48,9 +48,9 @@ DEPLOYED                 Live in Companion software at SKIDS clinics
 | B1-14 | Pulmonology / Asthma Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
 | B1-15 | Gastrointestinal Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
 | B1-16 | Cardiac Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
-| B1-17 | Kidney & Urology Clinic | NOT_STARTED | TBD | — |
-| B1-18 | Blood Clinic | NOT_STARTED | TBD | — |
-| B1-19 | Infections Clinic | NOT_STARTED | TBD | — |
+| B1-17 | Kidney & Urology Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
+| B1-18 | Blood Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
+| B1-19 | Infections Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
 | B1-20 | Bedwetting Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
 | B1-21 | Constipation Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
 | B1-22 | Vaccination Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
@@ -62,9 +62,9 @@ DEPLOYED                 Live in Companion software at SKIDS clinics
 
 | ID | Name | Status | Owner | Last update |
 |---|---|---|---|---|
-| B2-01 | Endocrine Clinic | NOT_STARTED | TBD | — |
-| B2-02 | Neurology Clinic | NOT_STARTED | TBD | — |
-| B2-03 | Rheumatology Clinic | NOT_STARTED | TBD | — |
+| B2-01 | Endocrine Clinic | DRAFT_COMPLETE | Named pediatric endocrinologist (Tier 2) | 2026-04-30 |
+| B2-02 | Neurology Clinic | DRAFT_COMPLETE | Named pediatric neurologist (Tier 2) | 2026-04-30 |
+| B2-03 | Rheumatology Clinic | DRAFT_COMPLETE | Named pediatric rheumatologist (Tier 2) | 2026-04-30 |
 
 ---
 
@@ -88,9 +88,9 @@ Per `CLAUDE.md` §5 NEXT WORK ITEM:
 ## Aggregate progress
 
 ```
-NOT_STARTED:                6 / 27   (22.2%)
+NOT_STARTED:                0 / 27   (0%)
 IN_PROGRESS:                0 / 27   (0%)
-DRAFT_COMPLETE:            21 / 27   (77.8%)
+DRAFT_COMPLETE:            27 / 27   (100.0%)
 APPROVED:                   0 / 27   (0%)
 DEPLOYED:                   0 / 27   (0%)
 ```

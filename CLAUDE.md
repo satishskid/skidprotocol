@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v2.2 · 21 protocols drafted (A1 + B1-01 – B1-16 + B1-20 – B1-23; 77.8%)
+> Last updated: 2026-04-30 · v3.0 · ALL 27 PROTOCOLS DRAFTED (100%) — awaiting editorial pass
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -197,15 +197,20 @@ moves between states.
 - B1-21 — Constipation Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-11 — Speech & Language Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-12 — Learning Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-17 — Kidney & Urology Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-18 — Blood Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-19 — Infections Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-22 — Vaccination Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-23 — Developmental Surveillance (drafted 2026-04-30; DRAFT_COMPLETE)
+- B2-01 — Endocrine Clinic (drafted 2026-04-30; DRAFT_COMPLETE; Tier 2)
+- B2-02 — Neurology Clinic (drafted 2026-04-30; DRAFT_COMPLETE; Tier 2)
+- B2-03 — Rheumatology Clinic (drafted 2026-04-30; DRAFT_COMPLETE; Tier 2)
 
 ### Drafting now
-- (none — between sessions)
+- (none — ALL PROTOCOLS DRAFTED)
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
-- B1-17 Kidney & Urology · B1-18 Blood · B1-19 Infections
-- B2-01 Endocrine · B2-02 Neurology · B2-03 Rheumatology
+- (none — ALL PROTOCOLS DRAFTED)
 
 ### Editorial pass complete, awaiting deployment
 - (none yet)
@@ -214,25 +219,26 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-17 Kidney & Urology**
+**ALL 27 PROTOCOLS DRAFTED. NEXT PHASE: EDITORIAL PASS.**
 
-Why:
-- Twenty-one protocols now drafted (77.8%). All Tier 1 B1 protocols
-  are drafted except B1-17 Kidney & Urology, B1-18 Blood, and
-  B1-19 Infections. Plus 3 Tier 2 (B2-01, B2-02, B2-03).
-  Only 6 protocols remain.
-- B1-17 Kidney & Urology receives hypertension co-referrals from
-  B1-16, urodynamic referrals from B1-20, UTI management, and
-  structural renal disease screening.
+The first-draft phase of the SKIDS Clinical Protocol Library is
+complete. All 27 protocols (1 A1 screening + 23 Tier 1 B1 + 3 Tier 2
+B2) have DRAFT_COMPLETE status.
 
-Alternatives in priority order:
-- B1-18 Blood (anaemia beyond IDA, bleeding disorders, B1-09 cross).
-- B1-19 Infections (common infections, antimicrobial stewardship).
-- B2-01 Endocrine (first Tier 2 protocol).
-
-When starting B1-17: read B1-16 (hypertension co-referral), B1-20
-(urodynamic referral), A1 (BP screening, urinalysis), and AAP/IAP
-nephrology guidelines.
+Next steps:
+1. Editorial pass by Dr. Satish Prasad Rath (interim) + named
+   subspecialist per protocol — working through [NEEDS EXPANSION]
+   markers and judgement calls flagged in each STATUS.md.
+2. Cross-protocol consistency check — verify all cross-references
+   are bidirectional and threshold-consistent.
+3. Citation verification — all "Last verified: pending" entries in
+   citations.bib need source verification before any protocol
+   reaches APPROVED status.
+4. Companion software specification review with SKIDS Tech Team
+   (Shahid, Raghab Panda) — confirm §9 screen specs are
+   implementable.
+5. Manager-asset derivation from completed protocols (Layer 2B).
+6. Parent-facing content derivation (Layer 2A).
 
 ---
 
@@ -466,6 +472,28 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v3.0   LIBRARY COMPLETE. Final batch: B1-17 Kidney &
+                   Urology, B1-18 Blood, B1-19 Infections, B2-01
+                   Endocrine (Tier 2), B2-02 Neurology (Tier 2), B2-03
+                   Rheumatology (Tier 2). All 27 protocols now at
+                   DRAFT_COMPLETE. B1-17: HTN secondary-cause workup,
+                   UTI per AAP 2011, NS ISKDC protocol, CAKUT. B1-18:
+                   anaemia beyond IDA, thal-trait ID, ITP, bleeding
+                   disorders, malignancy triage. B1-19: recurrent-
+                   infection evaluation (JMF PID), antimicrobial
+                   stewardship, TB/NTEP, dengue/malaria/typhoid, FUO.
+                   B2-01: T1DM (ISPAD), T2DM, thyroid, GH, puberty,
+                   PCOS, DSD, CAH. B2-02: epilepsy (ILAE), headache
+                   (ICHD-3), regression workup, NMD, CP, movement
+                   disorders. B2-03: JIA (ACR/ILAR), SLE, DM, vasculitis,
+                   PFAPA, uveitis surveillance, MAS. New citations:
+                   AAP-UTI-2011, ISKDC-NS, IAP-Nephrology-2020,
+                   IAP-Thalassemia-2019, AAP-ITP-2011, IAP-Infections-2022,
+                   WHO-Dengue-2009, NVBDCP-Malaria-2021, JMF-PID,
+                   ISPAD-2022, IAP-Endocrine-2021, ILAE-2017, ICHD-3-2018,
+                   IAP-Epilepsy-2021, ACR-JIA-2019, EULAR-SLE-2019,
+                   IAP-Rheumatology-2020. Next phase: editorial pass.
 
 2026-04-30  v2.2   Batch draft: B1-20 Bedwetting, B1-21 Constipation,
                    B1-11 Speech & Language, B1-12 Learning, B1-16
