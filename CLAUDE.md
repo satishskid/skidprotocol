@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v1.1 · 10 protocols drafted (A1 + B1-01 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13 + B1-14 + B1-22)
+> Last updated: 2026-04-30 · v1.2 · 11 protocols drafted (A1 + B1-01 + B1-02 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13 + B1-14 + B1-22)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -185,6 +185,7 @@ moves between states.
 - B1-07 — Sleep Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-08 — Behavioural Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
+- B1-02 — Hearing & Ear Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-13 — Adolescent Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-14 — Pulmonology / Asthma Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-22 — Vaccination Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
@@ -193,7 +194,7 @@ moves between states.
 - (none — between sessions)
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
-- B1-02 Hearing & Ear · B1-03 Throat & Airway · B1-04 Oral Health
+- B1-03 Throat & Airway · B1-04 Oral Health
 - B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
 - B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
@@ -208,33 +209,34 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-02 Hearing & Ear**
+**Recommended next protocol to write: B1-03 Throat & Airway**
 
 Why:
-- Ten protocols now drafted (A1, B1-01, B1-05, B1-06, B1-07,
-  B1-08, B1-09, B1-13, B1-14, B1-22 = 37.0%). The library covers
-  screening, device-driven (vision, spirometry), dispensary-driven,
-  allied-staff-driven, external-partnership (LISSUN), adolescent-
-  privacy, cross-protocol shared-management (atopic march triad
-  complete), and operational-logistics (vaccination/cold-chain)
+- Eleven protocols now drafted (A1, B1-01, B1-02, B1-05, B1-06,
+  B1-07, B1-08, B1-09, B1-13, B1-14, B1-22 = 40.7%). The library
+  covers screening, device-driven (vision, spirometry, OAE/
+  audiometry), dispensary-driven, allied-staff-driven, external-
+  partnership (LISSUN), adolescent-privacy, cross-protocol shared-
+  management (atopic march triad complete), operational-logistics
+  (vaccination/cold-chain), and ENT surgical-partner handoff
   patterns.
-- B1-02 Hearing & Ear is the next device-driven protocol: OAE/
-  AABR screening, tympanometry, and audiometry establish the
-  hearing-device operational pattern. Dense A1 cross-references
-  (UNHS reconciliation, hearing flag routing).
-- ENT surgeon partnership (Tier 3) for adenotonsillectomy,
-  grommets, cochlear — establishes the surgical-partner handoff
-  pattern that B1-03 and B1-04 will reuse.
+- B1-03 Throat & Airway shares the ENT surgeon partner with B1-02
+  and reuses the surgical-referral pattern. Covers pharyngitis
+  (RADT / culture), adenotonsillar hypertrophy (cross with B1-02
+  OME and B1-07 OSA), croup, recurrent tonsillitis, and
+  streptococcal management.
+- Completing B1-02 + B1-03 gives SKIDS a complete ENT-domain
+  coverage set.
 
 Alternatives in priority order:
 - B1-10 Obesity & Metabolic (cross with B1-09, B1-13, B1-14).
-- B1-03 Throat & Airway (shares ENT surgeon partner with B1-02).
+- B1-04 Oral Health (pedodontist partner pattern).
 - B1-23 Developmental Surveillance (cross with A1 milestones).
 - B1-15 Gastrointestinal.
 
-When starting B1-02: read A1 (for hearing screening and newborn
-OAE/AABR reconciliation), B1-07 (for OSA/adenotonsillar cross-
-care), and AAP/AAO-HNS hearing guidelines.
+When starting B1-03: read A1 (for throat/airway flag routing),
+B1-02 (for adenotonsillar/ENT cross-care), B1-07 (for OSA/
+adenotonsillar cross-care), and AAP pharyngitis / croup guidelines.
 
 ---
 
@@ -468,6 +470,21 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v1.2   B1-02 Hearing & Ear Clinic drafted
+                   (DRAFT_COMPLETE). Eleventh protocol (40.7%).
+                   Establishes OAE-based hearing surveillance aligned
+                   with JCIH 1-3-6, tympanometry and pure-tone
+                   audiometry, AOM management per AAP 2013 (watchful
+                   waiting for non-severe ≥ 2y), OME 3-month watchful
+                   waiting with grommet routing, cerumen management,
+                   hearing-loss classification (WHO) and hearing-aid /
+                   cochlear-implant candidacy routing, and ENT surgical-
+                   partner handoff pattern (grommets, adenoidectomy,
+                   cochlear implant). One [NEEDS EXPANSION] marker +
+                   six judgement calls. New citations: JCIH-2019,
+                   AAO-HNS-2016-OME, WHO-Hearing-2021, IAP-Hearing-2020.
+                   §5 NEXT WORK ITEM now points to B1-03 Throat & Airway.
 
 2026-04-30  v1.1   B1-14 Pulmonology / Asthma Clinic drafted
                    (DRAFT_COMPLETE). Tenth protocol (37.0%); closes
