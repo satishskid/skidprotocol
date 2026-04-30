@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v1.0 · 9 protocols drafted (A1 + B1-01 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13 + B1-22)
+> Last updated: 2026-04-30 · v1.1 · 10 protocols drafted (A1 + B1-01 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13 + B1-14 + B1-22)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -186,6 +186,7 @@ moves between states.
 - B1-08 — Behavioural Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-13 — Adolescent Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-14 — Pulmonology / Asthma Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-22 — Vaccination Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 
 ### Drafting now
@@ -194,7 +195,7 @@ moves between states.
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
 - B1-02 Hearing & Ear · B1-03 Throat & Airway · B1-04 Oral Health
 - B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
-- B1-14 Pulmonology / Asthma · B1-15 Gastrointestinal
+- B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
 - B1-19 Infections · B1-20 Bedwetting · B1-21 Constipation
 - B1-23 Developmental Surveillance
@@ -207,32 +208,33 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-14 Pulmonology / Asthma**
+**Recommended next protocol to write: B1-02 Hearing & Ear**
 
 Why:
-- Nine protocols now drafted (A1, B1-01, B1-05, B1-06, B1-07,
-  B1-08, B1-09, B1-13, B1-22 = 33.3%). The library covers
-  screening, device-driven, dispensary-driven, allied-staff-driven,
-  external-partnership (LISSUN), adolescent-privacy, cross-protocol
-  shared-management, and operational-logistics (vaccination/cold-
-  chain) patterns.
-- B1-14 Pulmonology / Asthma closes the atopic march triad:
-  atopic dermatitis (B1-05), food/aeroallergen allergy (B1-06),
-  and asthma (B1-14). GINA-based stepwise management, peak-flow
-  monitoring, ICS dosing, spacer technique, and asthma action
-  plans are the core.
-- B1-06 §6 already references "asthma triggers" cross-care with
-  B1-14; drafting B1-14 closes that cross-reference.
+- Ten protocols now drafted (A1, B1-01, B1-05, B1-06, B1-07,
+  B1-08, B1-09, B1-13, B1-14, B1-22 = 37.0%). The library covers
+  screening, device-driven (vision, spirometry), dispensary-driven,
+  allied-staff-driven, external-partnership (LISSUN), adolescent-
+  privacy, cross-protocol shared-management (atopic march triad
+  complete), and operational-logistics (vaccination/cold-chain)
+  patterns.
+- B1-02 Hearing & Ear is the next device-driven protocol: OAE/
+  AABR screening, tympanometry, and audiometry establish the
+  hearing-device operational pattern. Dense A1 cross-references
+  (UNHS reconciliation, hearing flag routing).
+- ENT surgeon partnership (Tier 3) for adenotonsillectomy,
+  grommets, cochlear — establishes the surgical-partner handoff
+  pattern that B1-03 and B1-04 will reuse.
 
 Alternatives in priority order:
-- B1-02 Hearing & Ear (device-driven, A1 cross-reference dense).
-- B1-10 Obesity & Metabolic (cross with B1-09, B1-13).
-- B1-03 Throat & Airway.
+- B1-10 Obesity & Metabolic (cross with B1-09, B1-13, B1-14).
+- B1-03 Throat & Airway (shares ENT surgeon partner with B1-02).
 - B1-23 Developmental Surveillance (cross with A1 milestones).
+- B1-15 Gastrointestinal.
 
-When starting B1-14: read A1 (for respiratory flag routing),
-B1-06 (for aeroallergen / atopic march cross-care), and GINA 2024
-(the governing asthma guideline).
+When starting B1-02: read A1 (for hearing screening and newborn
+OAE/AABR reconciliation), B1-07 (for OSA/adenotonsillar cross-
+care), and AAP/AAO-HNS hearing guidelines.
 
 ---
 
@@ -466,6 +468,24 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v1.1   B1-14 Pulmonology / Asthma Clinic drafted
+                   (DRAFT_COMPLETE). Tenth protocol (37.0%); closes
+                   the atopic-march triad (B1-05 AD + B1-06 allergy +
+                   B1-14 asthma). Establishes GINA 2024 stepwise
+                   management (Steps 1–4 in Tier 1; Step 5 → §7.3),
+                   spirometry / peak-flow device protocol, pre/post-
+                   bronchodilator reversibility testing, asthma action
+                   plan generation (traffic-light format), spacer
+                   technique training, acute exacerbation in-clinic
+                   management, mAPI for recurrent wheeze in under-5s,
+                   chronic cough workup (cough-variant asthma, PBB,
+                   post-nasal drip, TB), and B1-06 asthma_status PHR
+                   communication object. Shared governance with B1-06.
+                   Three [NEEDS EXPANSION] markers + six judgement calls
+                   in protocols/B1-14-pulmonology-asthma/STATUS.md.
+                   New citations: IAP-Asthma-2021, GINA-U5-2024.
+                   §5 NEXT WORK ITEM now points to B1-02 Hearing & Ear.
 
 2026-04-30  v1.0   B1-22 Vaccination Clinic drafted (DRAFT_COMPLETE).
                    Ninth protocol (33.3%); most operationally dense
