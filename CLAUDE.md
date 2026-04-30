@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v1.3 · 12 protocols drafted (A1 + B1-01 + B1-02 + B1-03 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13 + B1-14 + B1-22)
+> Last updated: 2026-04-30 · v1.4 · 13 protocols drafted (A1 + B1-01 – B1-03 + B1-05 – B1-10 + B1-13 + B1-14 + B1-22)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -187,6 +187,7 @@ moves between states.
 - B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-02 — Hearing & Ear Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-03 — Throat & Airway Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-10 — Obesity & Metabolic Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-13 — Adolescent Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-14 — Pulmonology / Asthma Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-22 — Vaccination Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
@@ -196,7 +197,7 @@ moves between states.
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
 - B1-04 Oral Health
-- B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
+- B1-11 Speech & Language · B1-12 Learning
 - B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
 - B1-19 Infections · B1-20 Bedwetting · B1-21 Constipation
@@ -210,29 +211,28 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-10 Obesity & Metabolic**
+**Recommended next protocol to write: B1-04 Oral Health**
 
 Why:
-- Twelve protocols now drafted (A1, B1-01, B1-02, B1-03, B1-05,
-  B1-06, B1-07, B1-08, B1-09, B1-13, B1-14, B1-22 = 44.4%). ENT
-  domain now complete (B1-02 + B1-03). Atopic march complete.
-- B1-10 Obesity & Metabolic crosses with B1-09 (nutrition/growth),
-  B1-13 (adolescent obesity), B1-14 (asthma + obesity comorbidity),
-  and routes to B2-01 Endocrine for PCOS / T2DM / metabolic
-  syndrome.
-- Establishes the obesity-management programme pattern (lifestyle,
-  dietitian, exercise, motivational interviewing) that is a major
-  SKIDS commercial offering.
+- Thirteen protocols now drafted (48.1%). Approaching the halfway
+  mark. ENT domain complete, atopic march complete, nutrition-
+  obesity-metabolic axis complete (B1-09 + B1-10).
+- B1-04 Oral Health establishes the pedodontist Tier 3 partner
+  pattern (restoration, orthodontics, surgical dental). Crosses
+  with A1 (oral screening), B1-09 (dietary sugar impact on teeth),
+  and B1-22 (fluoride supplementation).
+- Completes the head-and-neck screening domain (B1-01 vision +
+  B1-02 hearing + B1-03 throat + B1-04 oral).
 
 Alternatives in priority order:
-- B1-04 Oral Health (pedodontist partner pattern).
 - B1-23 Developmental Surveillance (cross with A1 milestones).
 - B1-15 Gastrointestinal.
-- B1-11 Speech & Language (cross with B1-02 hearing-related delay).
+- B1-11 Speech & Language (cross with B1-02 hearing).
+- B1-12 Learning (cross with B1-08 behavioural).
 
-When starting B1-10: read B1-09 (nutrition/growth cross-care),
-B1-13 (adolescent obesity), B1-14 (asthma-obesity comorbidity),
-and AAP/IAP obesity guidelines.
+When starting B1-04: read A1 (oral screening at periodic visits),
+B1-09 (dietary sugar guidance), and AAPD / IAP oral-health
+guidelines.
 
 ---
 
@@ -466,6 +466,23 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v1.4   B1-10 Obesity & Metabolic Clinic drafted
+                   (DRAFT_COMPLETE). Thirteenth protocol (48.1%).
+                   Establishes SKIDS Healthy Weight Programme (12-week
+                   structured family-based lifestyle intervention),
+                   metabolic-risk screening (fasting glucose, HbA1c,
+                   lipids, ALT, TSH), pre-diabetes management within
+                   B1-10, dyslipidaemia dietary trial, NAFLD lifestyle
+                   trial, SKIDS dietitian-led dietary modification
+                   (calorie-appropriate not restrictive), motivational
+                   interviewing, and multi-protocol cross-care (B1-09
+                   nutrition, B1-13 adolescent PCOS, B1-14 asthma-
+                   obesity, B2-01 T2DM routing). One [NEEDS EXPANSION]
+                   marker + five judgement calls. New citations:
+                   AAP-Obesity-2023, IAP-Obesity-2022, AAP-T2DM-2013,
+                   AAP-Lipid-2011, NASPGHAN-NAFLD-2017.
+                   §5 NEXT WORK ITEM now points to B1-04 Oral Health.
 
 2026-04-30  v1.3   B1-03 Throat & Airway Clinic drafted
                    (DRAFT_COMPLETE). Twelfth protocol (44.4%);

@@ -1,30 +1,36 @@
 # Status: B1-10-obesity-and-metabolic Obesity & Metabolic Clinic
 
-**Current state:** NOT_STARTED
-**Author:** TBD
+**Current state:** DRAFT_COMPLETE
+**Author:** Claude (AI assistant) — first draft
 **Date created:** 2026-04-29
-**Date started:** —
-**Estimated completion:** 0 of 12 sections
+**Date started:** 2026-04-30
+**Date draft completed:** 2026-04-30
+**Estimated completion:** 12 of 12 sections
 
-## Notes for the next session
+## Sections completed
 
-This protocol has not yet been started. To begin authoring:
+All 12 sections complete.
 
-1. Read CLAUDE.md fully (the project memory)
-2. Read SPECS.md (the editorial bar)
-3. Read docs/01-voice-and-style-guide.md (the voice)
-4. Read docs/05-referral-trigger-discipline.md (the §7 standard)
-5. Read workflows/how-to-write-a-protocol.md (the authoring checklist)
-6. Read the most recently completed protocol as a voice anchor
-   (start with A1 SKIDS Screening once it is complete)
-7. Copy docs/00-protocol-template.md to this directory as PROTOCOL.md
-8. Begin §1 Service definition
+## [NEEDS EXPANSION IN EDITORIAL PASS] markers
 
-## Open clinical questions for editorial review
+1. §2 — IAP-Obesity-2022: confirm exact title and year.
 
-(none yet — populate as authoring proceeds)
+## Judgement calls for editorial review
 
-## Tier classification
+1. **Overweight (85th–94th) in B1-10 scope.** A1 triggers at ≥ 95th; B1-10 also accepts overweight with risk factors or rapid weight gain. Editorial reviewer to confirm.
+2. **Calorie-appropriate not calorie-restrictive.** Protocol uses calorie-appropriate for < 12 years; modest deficit only for ≥ 14 years with severe obesity and completed growth. Editorial reviewer to confirm.
+3. **Weight-loss pharmacotherapy out of Tier 1.** AAP 2023 permits pharmacotherapy ≥ 12 years. SKIDS routes to §7.3. Editorial reviewer to confirm.
+4. **Pre-diabetes managed at B1-10; T2DM routed to B2-01.** The boundary is FPG ≥ 126 / HbA1c ≥ 6.5%. Editorial reviewer to confirm.
+5. **Dyslipidaemia pharmacotherapy routed to B1-16.** B1-10 manages dietary trial; statin candidacy routed to cardiology. Editorial reviewer to confirm.
 
-See docs/04-tier-system.md. This protocol is classified per the locked
-tier map in CLAUDE.md §3 TIER MAP.
+## Cross-protocol references made
+
+- A1: BMI flag routing, BP screening, lipid screening, growth charting
+- B1-08: psychosocial impact, depression, eating disorder
+- B1-09: dietitian shared, nutrition cross-care, adolescent overweight
+- B1-13: adolescent PCOS + obesity, body image, SCOFF
+- B1-14: asthma-obesity comorbidity
+- B1-15 GI: NAFLD routing
+- B1-16 Cardiac: hypertension, dyslipidaemia pharmacotherapy
+- B1-17 Kidney: hypertension co-referral
+- B2-01 Endocrine: T2DM, PCOS hormonal, secondary obesity, metformin
