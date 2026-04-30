@@ -1,30 +1,36 @@
 # Status: B1-04-oral-health Oral Health Clinic
 
-**Current state:** NOT_STARTED
-**Author:** TBD
+**Current state:** DRAFT_COMPLETE
+**Author:** Claude (AI assistant) — first draft
 **Date created:** 2026-04-29
-**Date started:** —
-**Estimated completion:** 0 of 12 sections
+**Date started:** 2026-04-30
+**Date draft completed:** 2026-04-30
+**Estimated completion:** 12 of 12 sections
 
-## Notes for the next session
+## Sections completed
 
-This protocol has not yet been started. To begin authoring:
+All 12 sections complete.
 
-1. Read CLAUDE.md fully (the project memory)
-2. Read SPECS.md (the editorial bar)
-3. Read docs/01-voice-and-style-guide.md (the voice)
-4. Read docs/05-referral-trigger-discipline.md (the §7 standard)
-5. Read workflows/how-to-write-a-protocol.md (the authoring checklist)
-6. Read the most recently completed protocol as a voice anchor
-   (start with A1 SKIDS Screening once it is complete)
-7. Copy docs/00-protocol-template.md to this directory as PROTOCOL.md
-8. Begin §1 Service definition
+## [NEEDS EXPANSION IN EDITORIAL PASS] markers
 
-## Open clinical questions for editorial review
+1. §2 — IAP-OralHealth-2019: confirm exact title and year.
+2. §2 Departure 3 — fluoride supplementation policy by region (water fluoride variability in India).
+3. §6.2 — CPP-ACP product availability in India and SKIDS dispensary stocking decision.
 
-(none yet — populate as authoring proceeds)
+## Judgement calls for editorial review
 
-## Tier classification
+1. **Fluoride varnish by pediatrician.** Protocol has pediatricians applying fluoride varnish per AAP/AAPD. Less common in India. Editorial reviewer to confirm SKIDS position.
+2. **No dental X-rays at SKIDS.** Clinical visual inspection only; X-rays at pedodontist partner. Editorial reviewer to confirm.
+3. **No systemic fluoride supplements.** Protocol uses topical fluoride only due to fluorosis risk variability. Editorial reviewer to confirm by region.
+4. **Cavitated caries = always pedodontist.** B1-04 manages prevention; pedodontist manages restoration. Editorial reviewer to confirm scope boundary.
+5. **CPP-ACP for WSL remineralisation.** Evidence-based but product availability uncertain. Editorial reviewer to confirm.
 
-See docs/04-tier-system.md. This protocol is classified per the locked
-tier map in CLAUDE.md §3 TIER MAP.
+## Cross-protocol references made
+
+- A1: oral screening, AAPD CAT, Orange/Red flag routing
+- B1-03: shared dispensary (amoxicillin for dental abscess)
+- B1-08: dental anxiety/phobia cross-care
+- B1-09: dietary sugar counselling, nutritional deficiency in recurrent aphthae
+- B1-10: SSB-caries-obesity intersection
+- B1-11: tongue thrust with speech impact
+- B2-01: delayed eruption with endocrine cause

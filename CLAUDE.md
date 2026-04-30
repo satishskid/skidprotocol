@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v1.4 · 13 protocols drafted (A1 + B1-01 – B1-03 + B1-05 – B1-10 + B1-13 + B1-14 + B1-22)
+> Last updated: 2026-04-30 · v1.5 · 14 protocols drafted (A1 + B1-01 – B1-10 + B1-13 + B1-14 + B1-22)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -187,6 +187,7 @@ moves between states.
 - B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-02 — Hearing & Ear Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-03 — Throat & Airway Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-04 — Oral Health Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-10 — Obesity & Metabolic Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-13 — Adolescent Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-14 — Pulmonology / Asthma Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
@@ -196,7 +197,6 @@ moves between states.
 - (none — between sessions)
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
-- B1-04 Oral Health
 - B1-11 Speech & Language · B1-12 Learning
 - B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
@@ -211,28 +211,27 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-04 Oral Health**
+**Recommended next protocol to write: B1-23 Developmental Surveillance**
 
 Why:
-- Thirteen protocols now drafted (48.1%). Approaching the halfway
-  mark. ENT domain complete, atopic march complete, nutrition-
-  obesity-metabolic axis complete (B1-09 + B1-10).
-- B1-04 Oral Health establishes the pedodontist Tier 3 partner
-  pattern (restoration, orthodontics, surgical dental). Crosses
-  with A1 (oral screening), B1-09 (dietary sugar impact on teeth),
-  and B1-22 (fluoride supplementation).
-- Completes the head-and-neck screening domain (B1-01 vision +
-  B1-02 hearing + B1-03 throat + B1-04 oral).
+- Fourteen protocols now drafted (51.9%). Past the halfway mark.
+  Head-and-neck domain complete (B1-01 + B1-02 + B1-03 + B1-04).
+  Pedodontist Tier 3 partner pattern established.
+- B1-23 Developmental Surveillance crosses heavily with A1
+  (CDC milestones at every periodic visit), B1-08 (autism
+  screening via M-CHAT-R/F), B1-11 Speech (speech-language delay),
+  and B1-12 Learning. Defines the surveillance-to-diagnosis
+  pathway.
 
 Alternatives in priority order:
-- B1-23 Developmental Surveillance (cross with A1 milestones).
 - B1-15 Gastrointestinal.
 - B1-11 Speech & Language (cross with B1-02 hearing).
 - B1-12 Learning (cross with B1-08 behavioural).
+- B1-20 Bedwetting / B1-21 Constipation (operationally simpler).
 
-When starting B1-04: read A1 (oral screening at periodic visits),
-B1-09 (dietary sugar guidance), and AAPD / IAP oral-health
-guidelines.
+When starting B1-23: read A1 (milestone screening at periodic
+visits, CDC-Milestones-2022), B1-08 (M-CHAT-R/F, autism routing),
+and AAP developmental surveillance guidance.
 
 ---
 
@@ -466,6 +465,22 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v1.5   B1-04 Oral Health Clinic drafted
+                   (DRAFT_COMPLETE). Fourteenth protocol (51.9%);
+                   past the halfway mark. Completes head-and-neck
+                   domain (B1-01 + B1-02 + B1-03 + B1-04). Establishes
+                   pedodontist Tier 3 partner pattern, AAPD CAT caries-
+                   risk assessment, fluoride varnish by pediatrician
+                   (from first eruption, 2–4×/year), dietary-sugar
+                   counselling for caries, WSL remineralisation,
+                   dental-trauma triage per IADT, malocclusion screening,
+                   oral mucosal management, and habit-cessation programme.
+                   Three [NEEDS EXPANSION] markers + five judgement calls.
+                   New citations: AAPD-Caries-2023, AAPD-Fluoride-2023,
+                   AAP-Fluoride-2020, IADT-2020, IAP-OralHealth-2019,
+                   WHO-OralHealth-2022.
+                   §5 NEXT WORK ITEM now points to B1-23 Dev Surveillance.
 
 2026-04-30  v1.4   B1-10 Obesity & Metabolic Clinic drafted
                    (DRAFT_COMPLETE). Thirteenth protocol (48.1%).
