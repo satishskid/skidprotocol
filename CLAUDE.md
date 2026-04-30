@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-29 · v0.6 · A1 + B1-01 + B1-05 + B1-08 + B1-09 drafted
+> Last updated: 2026-04-30 · v0.7 · A1 + B1-01 + B1-05 + B1-06 + B1-08 + B1-09 drafted
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -178,19 +178,19 @@ moves between states.
 - (none yet)
 
 ### v1.0 complete, awaiting editorial pass
-- A1 — SKIDS Screening (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/A1-skids-screening/STATUS.md for editorial-pass questions)
-- B1-01 — Vision Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-01-vision/STATUS.md for editorial-pass questions)
-- B1-05 — Skin Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-05-skin/STATUS.md for editorial-pass questions)
-- B1-08 — Behavioural Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-08-behavioural/STATUS.md for editorial-pass questions)
-- B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE; see protocols/B1-09-nutrition-and-growth/STATUS.md for editorial-pass questions)
+- A1 — SKIDS Screening (drafted 2026-04-29; DRAFT_COMPLETE)
+- B1-01 — Vision Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
+- B1-05 — Skin Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
+- B1-06 — Allergy Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-08 — Behavioural Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
+- B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 
 ### Drafting now
 - (none — between sessions)
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
 - B1-02 Hearing & Ear · B1-03 Throat & Airway
-- B1-04 Oral Health · B1-06 Allergy
-- B1-07 Sleep
+- B1-04 Oral Health · B1-07 Sleep
 - B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
 - B1-13 Adolescent · B1-14 Pulmonology / Asthma · B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
@@ -205,7 +205,7 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-06 Allergy**
+**Recommended next protocol to write: B1-07 Sleep**
 
 Why:
 - A1 and four B1 protocols (B1-01, B1-05, B1-08, B1-09) are now
@@ -455,6 +455,21 @@ See `docs/future-tools.md` for full notes.
                    IAP-IDA-2021, IAP-VitaminD-2017, ICMR-RDA-2020,
                    ESPGHAN-CF-2017, Cochrane-CD009085. §5 NEXT WORK
                    ITEM now points to B1-08 Behavioural.
+
+2026-04-30  v0.7   B1-06 Allergy Clinic drafted (DRAFT_COMPLETE). Sixth
+                   protocol; closes A1 §7.1 anaphylaxis-without-action-
+                   plan loop. Establishes adrenaline auto-injector
+                   dispensing pattern (weight-banded), action plan
+                   generation pattern, in-clinic OFC low-risk pattern
+                   with resuscitation-kit hard-block, SLIT initiation
+                   in primary care for monosensitised cases. Five
+                   [NEEDS EXPANSION] markers + six judgement calls.
+                   New citations: ARIA-2020, NIAID-Food-2010,
+                   NIAID-Peanut-2017, EAACI-Food-2014,
+                   WAO-Anaphylaxis-2020, EAACI-Urticaria-2022,
+                   ICON-Rhinitis-2017, IAP-Allergy-2022,
+                   Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
+                   now points to B1-07 Sleep.
 
 2026-04-29  v0.6   B1-08 Behavioural Clinic drafted (DRAFT_COMPLETE).
                    All 12 sections at or near target depth. Most

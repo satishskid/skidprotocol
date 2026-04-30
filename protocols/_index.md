@@ -3,7 +3,7 @@
 The single source of truth for the status of every protocol in the SKIDS
 Clinical Protocol Library.
 
-**Last updated:** 2026-04-29 (A1 + B1-01 + B1-05 + B1-08 + B1-09 drafted)
+**Last updated:** 2026-04-30 (A1 + B1-01 + B1-05 + B1-06 + B1-08 + B1-09 drafted)
 
 ---
 
@@ -37,7 +37,7 @@ DEPLOYED                 Live in Companion software at SKIDS clinics
 | B1-03 | Throat & Airway Clinic | NOT_STARTED | TBD | — |
 | B1-04 | Oral Health Clinic | NOT_STARTED | TBD | — |
 | B1-05 | Skin Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-29 |
-| B1-06 | Allergy Clinic | NOT_STARTED | TBD | — |
+| B1-06 | Allergy Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
 | B1-07 | Sleep Clinic | NOT_STARTED | TBD | — |
 | B1-08 | Behavioural Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) + LISSUN clinical lead pending | 2026-04-29 |
 | B1-09 | Nutrition & Growth Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-29 |
@@ -88,9 +88,9 @@ Per `CLAUDE.md` §5 NEXT WORK ITEM:
 ## Aggregate progress
 
 ```
-NOT_STARTED:               22 / 27   (81.5%)
+NOT_STARTED:               21 / 27   (77.8%)
 IN_PROGRESS:                0 / 27   (0%)
-DRAFT_COMPLETE:             5 / 27   (18.5%)
+DRAFT_COMPLETE:             6 / 27   (22.2%)
 APPROVED:                   0 / 27   (0%)
 DEPLOYED:                   0 / 27   (0%)
 ```
