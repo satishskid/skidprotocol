@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v1.5 · 14 protocols drafted (A1 + B1-01 – B1-10 + B1-13 + B1-14 + B1-22)
+> Last updated: 2026-04-30 · v1.6 · 15 protocols drafted (A1 + B1-01 – B1-10 + B1-13 + B1-14 + B1-22 + B1-23)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -192,6 +192,7 @@ moves between states.
 - B1-13 — Adolescent Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-14 — Pulmonology / Asthma Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-22 — Vaccination Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-23 — Developmental Surveillance (drafted 2026-04-30; DRAFT_COMPLETE)
 
 ### Drafting now
 - (none — between sessions)
@@ -201,7 +202,6 @@ moves between states.
 - B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
 - B1-19 Infections · B1-20 Bedwetting · B1-21 Constipation
-- B1-23 Developmental Surveillance
 - B2-01 Endocrine · B2-02 Neurology · B2-03 Rheumatology
 
 ### Editorial pass complete, awaiting deployment
@@ -211,27 +211,27 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-23 Developmental Surveillance**
+**Recommended next protocol to write: B1-15 Gastrointestinal**
 
 Why:
-- Fourteen protocols now drafted (51.9%). Past the halfway mark.
-  Head-and-neck domain complete (B1-01 + B1-02 + B1-03 + B1-04).
-  Pedodontist Tier 3 partner pattern established.
-- B1-23 Developmental Surveillance crosses heavily with A1
-  (CDC milestones at every periodic visit), B1-08 (autism
-  screening via M-CHAT-R/F), B1-11 Speech (speech-language delay),
-  and B1-12 Learning. Defines the surveillance-to-diagnosis
-  pathway.
+- Fifteen protocols now drafted (55.6%). B1-23 completes the
+  developmental-surveillance-to-diagnosis pathway and closes the
+  A1-to-B1-08/B1-23 developmental-routing loop.
+- B1-15 Gastrointestinal covers abdominal pain, GORD, functional
+  GI disorders (Rome IV), coeliac disease, IBD screening, and
+  routes to pediatric GI (Tier 3). Cross-references B1-09
+  (malabsorption, CMPA), B1-06 (food allergy), B1-10 (NAFLD),
+  and B1-21 (constipation when drafted).
 
 Alternatives in priority order:
-- B1-15 Gastrointestinal.
-- B1-11 Speech & Language (cross with B1-02 hearing).
-- B1-12 Learning (cross with B1-08 behavioural).
-- B1-20 Bedwetting / B1-21 Constipation (operationally simpler).
+- B1-11 Speech & Language (cross with B1-02, B1-23).
+- B1-12 Learning (cross with B1-08, B1-23).
+- B1-20 Bedwetting (operationally simpler).
+- B1-21 Constipation (operationally simpler).
 
-When starting B1-23: read A1 (milestone screening at periodic
-visits, CDC-Milestones-2022), B1-08 (M-CHAT-R/F, autism routing),
-and AAP developmental surveillance guidance.
+When starting B1-15: read B1-09 (malabsorption, CMPA cross-care),
+B1-06 (food allergy cross-care), B1-10 (NAFLD routing), and
+NASPGHAN / Rome IV guidelines.
 
 ---
 
@@ -465,6 +465,21 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v1.6   B1-23 Developmental Surveillance drafted
+                   (DRAFT_COMPLETE). Fifteenth protocol (55.6%).
+                   Establishes ASQ-3 + Trivandrum DST dual-track
+                   developmental screening, DASII for Indian infants,
+                   VSMS adaptive-behaviour assessment, five-domain
+                   developmental assessment, early-intervention
+                   initiation before formal diagnosis, developmental-
+                   regression §7.2 bridge to neurology, established-
+                   diagnosis monitoring programmes (Down syndrome, CP,
+                   ASD), and shared DBP governance with B1-08. One
+                   [NEEDS EXPANSION] marker + five judgement calls.
+                   New citations: AAP-DevScreen-2020, IAP-Development-2020,
+                   DASII, VSMS.
+                   §5 NEXT WORK ITEM now points to B1-15 Gastrointestinal.
 
 2026-04-30  v1.5   B1-04 Oral Health Clinic drafted
                    (DRAFT_COMPLETE). Fourteenth protocol (51.9%);

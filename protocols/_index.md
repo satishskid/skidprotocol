@@ -3,7 +3,7 @@
 The single source of truth for the status of every protocol in the SKIDS
 Clinical Protocol Library.
 
-**Last updated:** 2026-04-30 (A1 + B1-01 – B1-10 + B1-13 + B1-14 + B1-22 drafted)
+**Last updated:** 2026-04-30 (A1 + B1-01 – B1-10 + B1-13 + B1-14 + B1-22 + B1-23 drafted)
 
 ---
 
@@ -54,7 +54,7 @@ DEPLOYED                 Live in Companion software at SKIDS clinics
 | B1-20 | Bedwetting Clinic | NOT_STARTED | TBD | — |
 | B1-21 | Constipation Clinic | NOT_STARTED | TBD | — |
 | B1-22 | Vaccination Clinic | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
-| B1-23 | Developmental Surveillance | NOT_STARTED | TBD | — |
+| B1-23 | Developmental Surveillance | DRAFT_COMPLETE | Dr. Satish Prasad Rath (interim) | 2026-04-30 |
 
 ---
 
@@ -88,9 +88,9 @@ Per `CLAUDE.md` §5 NEXT WORK ITEM:
 ## Aggregate progress
 
 ```
-NOT_STARTED:               13 / 27   (48.1%)
+NOT_STARTED:               12 / 27   (44.4%)
 IN_PROGRESS:                0 / 27   (0%)
-DRAFT_COMPLETE:            14 / 27   (51.9%)
+DRAFT_COMPLETE:            15 / 27   (55.6%)
 APPROVED:                   0 / 27   (0%)
 DEPLOYED:                   0 / 27   (0%)
 ```

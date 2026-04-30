@@ -1,30 +1,36 @@
 # Status: B1-23-developmental-surveillance Developmental Surveillance
 
-**Current state:** NOT_STARTED
-**Author:** TBD
+**Current state:** DRAFT_COMPLETE
+**Author:** Claude (AI assistant) — first draft
 **Date created:** 2026-04-29
-**Date started:** —
-**Estimated completion:** 0 of 12 sections
+**Date started:** 2026-04-30
+**Date draft completed:** 2026-04-30
+**Estimated completion:** 12 of 12 sections
 
-## Notes for the next session
+## Sections completed
 
-This protocol has not yet been started. To begin authoring:
+All 12 sections complete.
 
-1. Read CLAUDE.md fully (the project memory)
-2. Read SPECS.md (the editorial bar)
-3. Read docs/01-voice-and-style-guide.md (the voice)
-4. Read docs/05-referral-trigger-discipline.md (the §7 standard)
-5. Read workflows/how-to-write-a-protocol.md (the authoring checklist)
-6. Read the most recently completed protocol as a voice anchor
-   (start with A1 SKIDS Screening once it is complete)
-7. Copy docs/00-protocol-template.md to this directory as PROTOCOL.md
-8. Begin §1 Service definition
+## [NEEDS EXPANSION IN EDITORIAL PASS] markers
 
-## Open clinical questions for editorial review
+1. §2 — IAP-Development-2020: confirm exact title and year.
 
-(none yet — populate as authoring proceeds)
+## Judgement calls for editorial review
 
-## Tier classification
+1. **ASQ-3 + Trivandrum DST dual-track.** Both tools used; more concerning result drives flag. Editorial reviewer to confirm.
+2. **DASII over Bayley.** DASII preferred for Indian infants; Bayley results accepted from external centres. Editorial reviewer to confirm.
+3. **Formal autism diagnosis out of B1-23 scope.** B1-23 assesses developmental delay; autism diagnosis routes to §7.3. Editorial reviewer to confirm.
+4. **Start therapy before formal diagnosis.** Protocol initiates early intervention while awaiting formal diagnostic assessment. Per AAP 2020. Editorial reviewer to confirm SKIDS position.
+5. **Shared governance with B1-08.** DBP may govern both B1-23 and B1-08. Editorial reviewer to confirm.
 
-See docs/04-tier-system.md. This protocol is classified per the locked
-tier map in CLAUDE.md §3 TIER MAP.
+## Cross-protocol references made
+
+- A1: ASQ-3, Trivandrum DST, CDC milestones, developmental Orange flag routing, §7.2 regression
+- B1-01: vision screen for developmental assessment
+- B1-02: hearing screen for language-delay workup
+- B1-08: M-CHAT-R/F autism screening, behavioural-developmental overlap, shared DBP governance
+- B1-09: nutritional status in developmental conditions
+- B1-11 Speech: speech-language therapy cross-care
+- B1-12 Learning: school-age learning concern cross-care
+- B1-16 Cardiac: Down syndrome echocardiography
+- B2-02 Neurology: regression, seizures, neurodegenerative disease
