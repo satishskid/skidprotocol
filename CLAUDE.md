@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v0.9 · 8 protocols drafted (A1 + B1-01 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13)
+> Last updated: 2026-04-30 · v1.0 · 9 protocols drafted (A1 + B1-01 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13 + B1-22)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -186,6 +186,7 @@ moves between states.
 - B1-08 — Behavioural Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-13 — Adolescent Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-22 — Vaccination Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 
 ### Drafting now
 - (none — between sessions)
@@ -196,7 +197,7 @@ moves between states.
 - B1-14 Pulmonology / Asthma · B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
 - B1-19 Infections · B1-20 Bedwetting · B1-21 Constipation
-- B1-22 Vaccination · B1-23 Developmental Surveillance
+- B1-23 Developmental Surveillance
 - B2-01 Endocrine · B2-02 Neurology · B2-03 Rheumatology
 
 ### Editorial pass complete, awaiting deployment
@@ -206,33 +207,32 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-22 Vaccination**
+**Recommended next protocol to write: B1-14 Pulmonology / Asthma**
 
 Why:
-- Eight protocols now drafted (A1, B1-01, B1-05, B1-06, B1-07,
-  B1-08, B1-09, B1-13 = 29.6%). The library covers screening,
-  device-driven, dispensary-driven, allied-staff-driven, external-
-  partnership (LISSUN), adolescent-privacy, and cross-protocol
-  shared-management patterns.
-- B1-22 Vaccination is operationally dense: reconciles IAP IIS
-  2024-25 with every periodic A1 visit, defines the vaccine
-  dispensary and cold-chain operational model, covers catch-up
-  scheduling, HPV programme (cross with B1-13), travel vaccines,
-  and adverse-event documentation.
-- Every A1 periodic visit references vaccination status; B1-22 is
-  the protocol that defines what "up to date" means and what
-  happens when the child is not.
+- Nine protocols now drafted (A1, B1-01, B1-05, B1-06, B1-07,
+  B1-08, B1-09, B1-13, B1-22 = 33.3%). The library covers
+  screening, device-driven, dispensary-driven, allied-staff-driven,
+  external-partnership (LISSUN), adolescent-privacy, cross-protocol
+  shared-management, and operational-logistics (vaccination/cold-
+  chain) patterns.
+- B1-14 Pulmonology / Asthma closes the atopic march triad:
+  atopic dermatitis (B1-05), food/aeroallergen allergy (B1-06),
+  and asthma (B1-14). GINA-based stepwise management, peak-flow
+  monitoring, ICS dosing, spacer technique, and asthma action
+  plans are the core.
+- B1-06 §6 already references "asthma triggers" cross-care with
+  B1-14; drafting B1-14 closes that cross-reference.
 
 Alternatives in priority order:
-- B1-14 Pulmonology / Asthma (closes the atopic march triad —
-  AD via B1-05, food allergy via B1-06, asthma via B1-14).
 - B1-02 Hearing & Ear (device-driven, A1 cross-reference dense).
 - B1-10 Obesity & Metabolic (cross with B1-09, B1-13).
 - B1-03 Throat & Airway.
+- B1-23 Developmental Surveillance (cross with A1 milestones).
 
-When starting B1-22: read A1 (for periodic-visit vaccination
-reconciliation pattern), B1-13 (for HPV programme cross-reference),
-and IAP IIS 2024-25 (the authoritative Indian immunisation schedule).
+When starting B1-14: read A1 (for respiratory flag routing),
+B1-06 (for aeroallergen / atopic march cross-care), and GINA 2024
+(the governing asthma guideline).
 
 ---
 
@@ -466,6 +466,25 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v1.0   B1-22 Vaccination Clinic drafted (DRAFT_COMPLETE).
+                   Ninth protocol (33.3%); most operationally dense
+                   in the library. Establishes IAP IIS 2024-25
+                   reconciliation workflow, catch-up scheduling per
+                   IAP minimum intervals, cold-chain management
+                   protocol, HPV programme delivery (2-dose / 3-dose
+                   per age; boys and girls), travel-vaccine counselling,
+                   AEFI documentation and WHO-classification reporting,
+                   vaccine-hesitancy motivational-interviewing framework,
+                   special-population modified schedules (preterm,
+                   immunocompromised, post-transplant), and anaphylaxis
+                   management at vaccination station. Five [NEEDS
+                   EXPANSION] markers + six judgement calls flagged in
+                   protocols/B1-22-vaccination/STATUS.md. New citations
+                   added to shared/citations.bib: WHO-AEFI-2019,
+                   IAP-AEFI-2020, IAP-IIS-HPV, WHO-HPV-2022,
+                   IAP-Catch-Up, CDC-Travel-2024. §5 NEXT WORK ITEM
+                   now points to B1-14 Pulmonology / Asthma.
 
 2026-04-30  v0.9   B1-13 Adolescent Clinic drafted (DRAFT_COMPLETE).
                    Eighth protocol; most culturally complex in the
