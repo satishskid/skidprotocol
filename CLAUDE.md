@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v1.7 · 16 protocols drafted (A1 + B1-01 – B1-10 + B1-13 – B1-15 + B1-22 + B1-23)
+> Last updated: 2026-04-30 · v2.2 · 21 protocols drafted (A1 + B1-01 – B1-16 + B1-20 – B1-23; 77.8%)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -192,6 +192,11 @@ moves between states.
 - B1-13 — Adolescent Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-14 — Pulmonology / Asthma Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-15 — Gastrointestinal Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-16 — Cardiac Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-20 — Bedwetting Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-21 — Constipation Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-11 — Speech & Language Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-12 — Learning Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-22 — Vaccination Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-23 — Developmental Surveillance (drafted 2026-04-30; DRAFT_COMPLETE)
 
@@ -199,9 +204,7 @@ moves between states.
 - (none — between sessions)
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
-- B1-11 Speech & Language · B1-12 Learning
-- B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
-- B1-19 Infections · B1-20 Bedwetting · B1-21 Constipation
+- B1-17 Kidney & Urology · B1-18 Blood · B1-19 Infections
 - B2-01 Endocrine · B2-02 Neurology · B2-03 Rheumatology
 
 ### Editorial pass complete, awaiting deployment
@@ -211,28 +214,25 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-20 Bedwetting**
+**Recommended next protocol to write: B1-17 Kidney & Urology**
 
 Why:
-- Sixteen protocols now drafted (59.3%). B1-15 GI closes the
-  GI-nutrition-obesity axis (B1-09 + B1-10 + B1-15). The B1-15/
-  B1-21 boundary is defined (functional constipation → B1-21;
-  organic/refractory → B1-15).
-- B1-20 Bedwetting and B1-21 Constipation are operationally
-  simpler single-condition protocols. Drafting them clears two
-  protocol slots efficiently.
-- B1-20 crosses with B1-07 (sleep), B1-08 (psychosocial impact),
-  and B1-17 Kidney (renal cause exclusion).
+- Twenty-one protocols now drafted (77.8%). All Tier 1 B1 protocols
+  are drafted except B1-17 Kidney & Urology, B1-18 Blood, and
+  B1-19 Infections. Plus 3 Tier 2 (B2-01, B2-02, B2-03).
+  Only 6 protocols remain.
+- B1-17 Kidney & Urology receives hypertension co-referrals from
+  B1-16, urodynamic referrals from B1-20, UTI management, and
+  structural renal disease screening.
 
 Alternatives in priority order:
-- B1-21 Constipation (paired with B1-20; defined by B1-15 boundary).
-- B1-11 Speech & Language (cross with B1-02, B1-23).
-- B1-12 Learning (cross with B1-08, B1-23).
-- B1-16 Cardiac.
+- B1-18 Blood (anaemia beyond IDA, bleeding disorders, B1-09 cross).
+- B1-19 Infections (common infections, antimicrobial stewardship).
+- B2-01 Endocrine (first Tier 2 protocol).
 
-When starting B1-20: read B1-07 (sleep/bedwetting overlap),
-B1-08 (psychosocial impact), A1 (elimination history), and
-AAP/ICCS enuresis guidelines.
+When starting B1-17: read B1-16 (hypertension co-referral), B1-20
+(urodynamic referral), A1 (BP screening, urinalysis), and AAP/IAP
+nephrology guidelines.
 
 ---
 
@@ -466,6 +466,25 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v2.2   Batch draft: B1-20 Bedwetting, B1-21 Constipation,
+                   B1-11 Speech & Language, B1-12 Learning, B1-16
+                   Cardiac (DRAFT_COMPLETE × 5). Protocols 17–21
+                   (77.8%). B1-20: ICCS enuresis, alarm therapy,
+                   desmopressin. B1-21: Rome IV functional constipation,
+                   PEG disimpaction/maintenance, B1-15 boundary.
+                   B1-11: REELS-3, hearing-first, SLP therapy, parent-
+                   coaching. B1-12: SLD screening, ADHD-SLD comorbidity,
+                   RPWD Act. B1-16: bridge protocol — murmur evaluation,
+                   HTN staging, sports clearance, CCHD, syncope triage,
+                   RF/RHD echo monitoring. New citations: ICCS-2014,
+                   NICE-Enuresis-2010, IAP-Enuresis-2020,
+                   NICE-Constipation-2017, IAP-Constipation-2020,
+                   REELS-3, ASHA-2016, IAP-Speech-2019,
+                   AAP-LearningDisability-2014, DSM-5-SLD, RPWD-2016,
+                   IAP-Learning-2020, AAP-CCHD-2011, AHA-PPE-2014,
+                   AAP-ChestPain-2015, IAP-Cardiac-2020. §5 NEXT WORK
+                   ITEM now points to B1-17 Kidney & Urology.
 
 2026-04-30  v1.7   B1-15 Gastrointestinal Clinic drafted
                    (DRAFT_COMPLETE). Sixteenth protocol (59.3%).
