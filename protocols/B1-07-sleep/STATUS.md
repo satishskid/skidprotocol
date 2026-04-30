@@ -1,30 +1,24 @@
-# Status: B1-07-sleep Sleep Clinic
+# Status: B1-07 Sleep Clinic
 
-**Current state:** NOT_STARTED
-**Author:** TBD
-**Date created:** 2026-04-29
-**Date started:** —
-**Estimated completion:** 0 of 12 sections
+**Current state:** DRAFT_COMPLETE
+**Author:** Claude (AI first draft)
+**Date drafted:** 2026-04-30
+**Estimated completion:** 12 of 12 sections drafted
 
-## Notes for the next session
+Seventh protocol. Slightly more compressed than prior protocols
+(some sections dense rather than fully expanded) but all 12 sections
+present at usable depth. Domains: behavioural insomnia of childhood,
+sleep-onset insomnia, OSA screening and routing, parasomnia, RLS,
+adolescent delayed sleep-phase. Establishes melatonin cautious-use
+framework per CLAUDE.md §7.2 (≥ 6y minimum, ≥ 12y for non-ASD,
+pharmaceutical-grade only, ≤ 12-week course at B1-07).
 
-This protocol has not yet been started. To begin authoring:
+§7 routing: §7.1 witnessed apnoea-with-compromise / suspected
+nocturnal seizure; §7.2 high-suspicion OSA / suspected narcolepsy;
+§7.3 refractory presentations across pathways.
 
-1. Read CLAUDE.md fully (the project memory)
-2. Read SPECS.md (the editorial bar)
-3. Read docs/01-voice-and-style-guide.md (the voice)
-4. Read docs/05-referral-trigger-discipline.md (the §7 standard)
-5. Read workflows/how-to-write-a-protocol.md (the authoring checklist)
-6. Read the most recently completed protocol as a voice anchor
-   (start with A1 SKIDS Screening once it is complete)
-7. Copy docs/00-protocol-template.md to this directory as PROTOCOL.md
-8. Begin §1 Service definition
+New citations: AAP-Sleep-2016, AASM-OSA-2012, IAP-Sleep-2020,
+AAP-Melatonin-2022, Mindell-Sleep-2017.
 
-## Open clinical questions for editorial review
-
-(none yet — populate as authoring proceeds)
-
-## Tier classification
-
-See docs/04-tier-system.md. This protocol is classified per the locked
-tier map in CLAUDE.md §3 TIER MAP.
+Next: B1-13 Adolescent (natural follow-on; uses HEEADSSS and
+privacy framework already established in A1 / B1-08).

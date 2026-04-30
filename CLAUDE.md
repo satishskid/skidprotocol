@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v0.7 · A1 + B1-01 + B1-05 + B1-06 + B1-08 + B1-09 drafted
+> Last updated: 2026-04-30 · v0.8 · 7 protocols drafted (A1 + B1-01 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -182,6 +182,7 @@ moves between states.
 - B1-01 — Vision Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-05 — Skin Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-06 — Allergy Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-07 — Sleep Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-08 — Behavioural Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 
@@ -189,8 +190,7 @@ moves between states.
 - (none — between sessions)
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
-- B1-02 Hearing & Ear · B1-03 Throat & Airway
-- B1-04 Oral Health · B1-07 Sleep
+- B1-02 Hearing & Ear · B1-03 Throat & Airway · B1-04 Oral Health
 - B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
 - B1-13 Adolescent · B1-14 Pulmonology / Asthma · B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
@@ -205,7 +205,7 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-07 Sleep**
+**Recommended next protocol to write: B1-13 Adolescent**
 
 Why:
 - A1 and four B1 protocols (B1-01, B1-05, B1-08, B1-09) are now
@@ -455,6 +455,15 @@ See `docs/future-tools.md` for full notes.
                    IAP-IDA-2021, IAP-VitaminD-2017, ICMR-RDA-2020,
                    ESPGHAN-CF-2017, Cochrane-CD009085. §5 NEXT WORK
                    ITEM now points to B1-08 Behavioural.
+
+2026-04-30  v0.8   B1-07 Sleep Clinic drafted (DRAFT_COMPLETE). Seventh
+                   protocol. Slightly compressed style at some sections
+                   but all 12 sections present at usable depth. Establishes
+                   melatonin cautious-use framework per CLAUDE.md §7.2.
+                   Domains: BIC, sleep-onset insomnia, OSA screening,
+                   parasomnia, RLS, adolescent delayed sleep-phase. New
+                   citations: AAP-Sleep-2016, AASM-OSA-2012,
+                   IAP-Sleep-2020, AAP-Melatonin-2022, Mindell-Sleep-2017.
 
 2026-04-30  v0.7   B1-06 Allergy Clinic drafted (DRAFT_COMPLETE). Sixth
                    protocol; closes A1 §7.1 anaphylaxis-without-action-
