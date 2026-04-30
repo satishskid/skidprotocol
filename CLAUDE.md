@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v1.6 · 15 protocols drafted (A1 + B1-01 – B1-10 + B1-13 + B1-14 + B1-22 + B1-23)
+> Last updated: 2026-04-30 · v1.7 · 16 protocols drafted (A1 + B1-01 – B1-10 + B1-13 – B1-15 + B1-22 + B1-23)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -191,6 +191,7 @@ moves between states.
 - B1-10 — Obesity & Metabolic Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-13 — Adolescent Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-14 — Pulmonology / Asthma Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-15 — Gastrointestinal Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-22 — Vaccination Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-23 — Developmental Surveillance (drafted 2026-04-30; DRAFT_COMPLETE)
 
@@ -199,7 +200,6 @@ moves between states.
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
 - B1-11 Speech & Language · B1-12 Learning
-- B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
 - B1-19 Infections · B1-20 Bedwetting · B1-21 Constipation
 - B2-01 Endocrine · B2-02 Neurology · B2-03 Rheumatology
@@ -211,27 +211,28 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-15 Gastrointestinal**
+**Recommended next protocol to write: B1-20 Bedwetting**
 
 Why:
-- Fifteen protocols now drafted (55.6%). B1-23 completes the
-  developmental-surveillance-to-diagnosis pathway and closes the
-  A1-to-B1-08/B1-23 developmental-routing loop.
-- B1-15 Gastrointestinal covers abdominal pain, GORD, functional
-  GI disorders (Rome IV), coeliac disease, IBD screening, and
-  routes to pediatric GI (Tier 3). Cross-references B1-09
-  (malabsorption, CMPA), B1-06 (food allergy), B1-10 (NAFLD),
-  and B1-21 (constipation when drafted).
+- Sixteen protocols now drafted (59.3%). B1-15 GI closes the
+  GI-nutrition-obesity axis (B1-09 + B1-10 + B1-15). The B1-15/
+  B1-21 boundary is defined (functional constipation → B1-21;
+  organic/refractory → B1-15).
+- B1-20 Bedwetting and B1-21 Constipation are operationally
+  simpler single-condition protocols. Drafting them clears two
+  protocol slots efficiently.
+- B1-20 crosses with B1-07 (sleep), B1-08 (psychosocial impact),
+  and B1-17 Kidney (renal cause exclusion).
 
 Alternatives in priority order:
+- B1-21 Constipation (paired with B1-20; defined by B1-15 boundary).
 - B1-11 Speech & Language (cross with B1-02, B1-23).
 - B1-12 Learning (cross with B1-08, B1-23).
-- B1-20 Bedwetting (operationally simpler).
-- B1-21 Constipation (operationally simpler).
+- B1-16 Cardiac.
 
-When starting B1-15: read B1-09 (malabsorption, CMPA cross-care),
-B1-06 (food allergy cross-care), B1-10 (NAFLD routing), and
-NASPGHAN / Rome IV guidelines.
+When starting B1-20: read B1-07 (sleep/bedwetting overlap),
+B1-08 (psychosocial impact), A1 (elimination history), and
+AAP/ICCS enuresis guidelines.
 
 ---
 
@@ -465,6 +466,21 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v1.7   B1-15 Gastrointestinal Clinic drafted
+                   (DRAFT_COMPLETE). Sixteenth protocol (59.3%).
+                   Closes GI-nutrition-obesity axis. Establishes Rome IV
+                   FAPD classification, GORD management with PPI
+                   stewardship (4–8 week limit), coeliac screening
+                   (tTG-IgA + no-biopsy pathway), H. pylori test-and-
+                   treat (dyspeptic symptoms only), chronic diarrhoea
+                   structured differential, GI bleeding triage, NAFLD
+                   hepatological workup (with B1-10), and B1-15/B1-21
+                   constipation boundary. Three [NEEDS EXPANSION] markers
+                   + five judgement calls. New citations: Rome-IV-2016,
+                   NASPGHAN-GORD-2018, ESPGHAN-Coeliac-2020,
+                   NASPGHAN-Hp-2017, IAP-GI-2021.
+                   §5 NEXT WORK ITEM now points to B1-20 Bedwetting.
 
 2026-04-30  v1.6   B1-23 Developmental Surveillance drafted
                    (DRAFT_COMPLETE). Fifteenth protocol (55.6%).
