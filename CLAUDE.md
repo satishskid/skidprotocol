@@ -1,7 +1,7 @@
 # SKIDS CLINICAL PROTOCOL LIBRARY
 
 > **READ THIS FILE FIRST, EVERY SESSION, BEFORE DOING ANYTHING ELSE.**
-> Last updated: 2026-04-30 · v1.2 · 11 protocols drafted (A1 + B1-01 + B1-02 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13 + B1-14 + B1-22)
+> Last updated: 2026-04-30 · v1.3 · 12 protocols drafted (A1 + B1-01 + B1-02 + B1-03 + B1-05 + B1-06 + B1-07 + B1-08 + B1-09 + B1-13 + B1-14 + B1-22)
 
 This is the project memory for the SKIDS Clinical Protocol Library — a
 multi-session, multi-author work spanning roughly 17 focused sessions to
@@ -186,6 +186,7 @@ moves between states.
 - B1-08 — Behavioural Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-09 — Nutrition & Growth Clinic (drafted 2026-04-29; DRAFT_COMPLETE)
 - B1-02 — Hearing & Ear Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
+- B1-03 — Throat & Airway Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-13 — Adolescent Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-14 — Pulmonology / Asthma Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
 - B1-22 — Vaccination Clinic (drafted 2026-04-30; DRAFT_COMPLETE)
@@ -194,7 +195,7 @@ moves between states.
 - (none — between sessions)
 
 ### Stubbed (project structure exists, no PROTOCOL.md yet)
-- B1-03 Throat & Airway · B1-04 Oral Health
+- B1-04 Oral Health
 - B1-10 Obesity & Metabolic · B1-11 Speech & Language · B1-12 Learning
 - B1-15 Gastrointestinal
 - B1-16 Cardiac · B1-17 Kidney & Urology · B1-18 Blood
@@ -209,34 +210,29 @@ moves between states.
 
 ## §5 NEXT WORK ITEM
 
-**Recommended next protocol to write: B1-03 Throat & Airway**
+**Recommended next protocol to write: B1-10 Obesity & Metabolic**
 
 Why:
-- Eleven protocols now drafted (A1, B1-01, B1-02, B1-05, B1-06,
-  B1-07, B1-08, B1-09, B1-13, B1-14, B1-22 = 40.7%). The library
-  covers screening, device-driven (vision, spirometry, OAE/
-  audiometry), dispensary-driven, allied-staff-driven, external-
-  partnership (LISSUN), adolescent-privacy, cross-protocol shared-
-  management (atopic march triad complete), operational-logistics
-  (vaccination/cold-chain), and ENT surgical-partner handoff
-  patterns.
-- B1-03 Throat & Airway shares the ENT surgeon partner with B1-02
-  and reuses the surgical-referral pattern. Covers pharyngitis
-  (RADT / culture), adenotonsillar hypertrophy (cross with B1-02
-  OME and B1-07 OSA), croup, recurrent tonsillitis, and
-  streptococcal management.
-- Completing B1-02 + B1-03 gives SKIDS a complete ENT-domain
-  coverage set.
+- Twelve protocols now drafted (A1, B1-01, B1-02, B1-03, B1-05,
+  B1-06, B1-07, B1-08, B1-09, B1-13, B1-14, B1-22 = 44.4%). ENT
+  domain now complete (B1-02 + B1-03). Atopic march complete.
+- B1-10 Obesity & Metabolic crosses with B1-09 (nutrition/growth),
+  B1-13 (adolescent obesity), B1-14 (asthma + obesity comorbidity),
+  and routes to B2-01 Endocrine for PCOS / T2DM / metabolic
+  syndrome.
+- Establishes the obesity-management programme pattern (lifestyle,
+  dietitian, exercise, motivational interviewing) that is a major
+  SKIDS commercial offering.
 
 Alternatives in priority order:
-- B1-10 Obesity & Metabolic (cross with B1-09, B1-13, B1-14).
 - B1-04 Oral Health (pedodontist partner pattern).
 - B1-23 Developmental Surveillance (cross with A1 milestones).
 - B1-15 Gastrointestinal.
+- B1-11 Speech & Language (cross with B1-02 hearing-related delay).
 
-When starting B1-03: read A1 (for throat/airway flag routing),
-B1-02 (for adenotonsillar/ENT cross-care), B1-07 (for OSA/
-adenotonsillar cross-care), and AAP pharyngitis / croup guidelines.
+When starting B1-10: read B1-09 (nutrition/growth cross-care),
+B1-13 (adolescent obesity), B1-14 (asthma-obesity comorbidity),
+and AAP/IAP obesity guidelines.
 
 ---
 
@@ -470,6 +466,22 @@ See `docs/future-tools.md` for full notes.
                    ICON-Rhinitis-2017, IAP-Allergy-2022,
                    Cochrane-CD001936, LEAP-2015. §5 NEXT WORK ITEM
                    now points to B1-07 Sleep.
+
+2026-04-30  v1.3   B1-03 Throat & Airway Clinic drafted
+                   (DRAFT_COMPLETE). Twelfth protocol (44.4%);
+                   completes ENT domain (B1-02 + B1-03). Establishes
+                   RADT-guided GAS pharyngitis management with RF
+                   prevention (9-day window), McIsaac scoring, Brodsky
+                   tonsillar grading, Paradise criteria for tonsillectomy
+                   candidacy, Westley croup scoring with dexamethasone +
+                   nebulised adrenaline protocol, peritonsillar cellulitis
+                   management, RF secondary prophylaxis (benzathine
+                   penicillin G 3-weekly), stridor assessment and
+                   epiglottitis §7.1, and post-tonsillectomy follow-up.
+                   Two [NEEDS EXPANSION] markers + five judgement calls.
+                   New citations: AAP-GAS-2012, AAP-Tonsillectomy-2011,
+                   AAP-Croup-2021, IAP-RF-2008, WHO-RF-2004.
+                   §5 NEXT WORK ITEM now points to B1-10 Obesity.
 
 2026-04-30  v1.2   B1-02 Hearing & Ear Clinic drafted
                    (DRAFT_COMPLETE). Eleventh protocol (40.7%).
