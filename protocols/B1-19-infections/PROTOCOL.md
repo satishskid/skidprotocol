@@ -185,19 +185,306 @@ Per WHO-Dengue-2009:
 
 ---
 
-## §8–§12 (Compressed)
+## §8 Follow-up schedule
 
-**§8:** Dengue: daily monitoring during febrile phase (platelet, Hct); day 7 post-defervescence recheck. Malaria: day 3 smear clearance; day 28 follow-up. PID screening: results at 2 weeks; referral if abnormal. FUO: weekly until resolved or diagnosed.
+### 8.1 Follow-up frequency
 
-**§9:** Standard pattern. Key: dengue daily-monitoring tracker (platelet trend graph); malaria RDT result logging; PID warning-sign checklist; antimicrobial-prescribing audit fields.
+| Condition | First follow-up | Subsequent | Annual review |
+|---|---|---|---|
+| Viral URTI (managed with stewardship counselling) | As needed (no scheduled follow-up) | — | Via A1 periodic |
+| Dengue without warning signs | Daily during febrile phase (platelet + Hct) | Day 7 post-defervescence recheck; day 14 if platelet recovery incomplete | — |
+| Dengue post-warning-signs (discharged from hospital) | 48 hours post-discharge | Weekly × 2 weeks; then as needed | — |
+| Malaria (uncomplicated) | Day 3 (smear clearance confirmation) | Day 7, day 28 (relapse screen) | — |
+| Recurrent-infection evaluation (PID screening) | 2 weeks (results review) | If PID confirmed → §7.3; if normal → 3 months then discharge to A1 | Yes (if recurrence pattern persists) |
+| FUO | Weekly until resolved or diagnosed | Phase 2 workup if unresolved at 3 weeks → §7.3 | — |
+| Typhoid (culture-confirmed) | Day 7 (clinical response) | Day 14 (end-of-course); repeat blood culture if febrile at day 7 | — |
+| TB screening (referred to NTEP) | Post-NTEP referral: 4-week check that NTEP enrolment occurred | Quarterly coordination with NTEP for treatment adherence | Yes |
+| Lymphadenitis under workup | 2 weeks (antibiotic response) | 4 weeks if persistent → further workup or §7.3 | — |
 
-**§10:** Recurrent infections: "Most children who seem to be 'always sick' have a normal immune system — they are simply exposed to many viruses, especially if they attend daycare. The tests we're doing check whether the immune system is working properly. In most cases, it is." Dengue: "Dengue is a viral illness transmitted by mosquitoes. Most children recover fully in 7–10 days. The critical period is when the fever breaks — that's when we watch most carefully for warning signs. Daily monitoring is essential." Antimicrobial stewardship: "Antibiotics work against bacteria, not viruses. Most childhood fevers and colds are caused by viruses. Using antibiotics when they're not needed creates resistant bacteria that are harder to treat later."
+### 8.2 What to recheck at each follow-up
 
-**§10.5 Cultural:** Antibiotic expectation for every fever — the biggest stewardship challenge in Indian outpatient practice. Dengue fear/panic — platelet count anxiety; counsel that platelet count alone does not determine severity. Malaria prophylaxis myths — no vaccine/prophylaxis needed for endemic residents; focus on mosquito-bite prevention.
+- *Dengue:* platelet count trend (graphed), haematocrit trend, warning-sign checklist, hydration status, appetite recovery.
+- *Malaria:* peripheral smear (day 3 clearance mandatory for P. falciparum); G6PD status confirmed before primaquine; day 28 smear for P. vivax relapse.
+- *Recurrent infections:* infection log update (new infections since last visit), PID screening lab results, anatomical/allergy evaluation status.
+- *FUO:* fever curve, Phase 1 lab results, differential narrowing, weight trajectory.
+- *Typhoid:* defervescence timeline, appetite, antibiotic adherence.
 
-**§11:** Tiering: common infection management = Basic; recurrent-infection evaluation + FUO = Advanced; PID + tropical + multi-protocol = Premium.
+### 8.3 Treatment success criteria
 
-**§12:** Metrics: antibiotic-prescribing appropriateness ≥ 85% (no antibiotic for viral URTI); dengue warning-sign recognition 100%; TB screening completed for all contacts identified; PID screening initiated for all children meeting ≥ 2 JMF criteria.
+- *Dengue:* platelet recovery to > 100,000/µL, no warning signs, appetite normalised, afebrile ≥ 48 hours.
+- *Malaria:* smear clearance by day 3; no relapse at day 28.
+- *Recurrent infections:* PID excluded on screening labs; infection frequency reduced to age-appropriate norms (< 6–8 URTIs/year for daycare-age).
+- *FUO:* diagnosis established and treated; or fever resolved spontaneously with no concerning features at 4-week follow-up.
+- *Typhoid:* afebrile by day 7; completed antibiotic course; no relapse at 4 weeks.
+
+### 8.4 Step-down and discharge criteria
+
+- Dengue: discharge from B1-19 active follow-up once platelet > 100,000 and afebrile ≥ 72 hours.
+- Malaria: discharge after day 28 negative smear. P. vivax: counsel on relapse risk; re-present if febrile.
+- Recurrent infections with normal PID screening: discharge to A1 surveillance after 3-month review with no new significant infections.
+- FUO resolved: discharge to A1 with documentation of final diagnosis and treatment.
+
+### 8.5 Disenrolment / loss-to-follow-up
+
+A child on active dengue daily monitoring or active malaria treatment who misses a scheduled follow-up is contacted by the clinic Manager immediately (phone). For dengue, same-day phone contact is mandatory. Loss-to-follow-up during active antimicrobial therapy (typhoid, malaria) is a §12 quarterly-review trigger.
+
+---
+
+## §9 Companion software workflow
+
+### 9.1 Doctor Module screens
+
+**Screen 1: Pre-consult summary** (auto-loaded when doctor opens a B1-19 visit)
+
+Reads from PHR:
+- `child_id`, name, DOB, age, sex.
+- A1 routing context (which flag fired, parent description).
+- Prior B1-19 visits — diagnoses, infection log, antimicrobial courses.
+- Active medications and known drug allergies.
+- Cross-protocol context (B1-02/B1-03 ENT infections, B1-05 SSTI, B1-06 allergy/immunodeficiency, B1-17 UTI).
+- Vaccination status (from A1 / B1-22).
+
+Renders:
+- Infection timeline (chronological log of all documented infections).
+- PID warning-sign count.
+- Active diagnoses and current antimicrobial regimen.
+- Doctor's button: "Begin §4 workup."
+
+**Screen 2: Infection history and JMF assessment (§4.1–§4.2)**
+
+Structured form:
+- `presenting_concern_freetext`: verbatim parent words.
+- `infection_log_12_months`: array of `{type, site, organism_if_known, hospitalised, antibiotic_given, duration}`.
+- `jmf_warning_signs`: 10-item checklist with count (≥ 2 triggers PID screening).
+- `antibiotic_courses_12_months`: integer + detail.
+- `tb_contact_history`: boolean + free-text.
+- `travel_history`: free-text (relevant for tropical infections).
+- `daycare_school_attendance`: boolean (contextualises recurrent infection frequency).
+
+**Screen 3: Diagnostic workup (§4.3–§4.6)**
+
+Condition-specific panels:
+- FUO: Phase 1 and Phase 2 lab order templates with auto-checklist.
+- TB: Mantoux/IGRA order + chest X-ray order + result entry.
+- Dengue: daily monitoring tracker — platelet count, haematocrit, warning-sign checklist (7 items per WHO-Dengue-2009), fluid intake log.
+- Malaria: RDT result + peripheral smear species + G6PD status entry. **Companion hard-block:** primaquine cannot be prescribed without documented G6PD-normal result.
+
+**Screen 4: Severity grading (§5)**
+
+Auto-determines severity tier from Screen 2–3 inputs. Doctor confirms or overrides with documented reason. §7 banner surfaces if Severe or Beyond Tier 1.
+
+**Screen 5: Therapeutic plan (§6)**
+
+Pre-fills per §6 tier:
+- `prescription_items`: drug, dose, frequency, duration.
+- `dispensary_items`: RDT kits, antimalarials, antibiotics, ORS.
+- `antimicrobial_stewardship_flag`: auto-flags if antibiotic prescribed for viral URTI (requires override with documented reason).
+- `follow_up_schedule`: per §8 condition-specific cadence.
+
+**Screen 6: §7 review** (renders only if §7 trigger fires)
+
+Standard §7 handoff packet. For §7.1 (sepsis, severe dengue, cerebral malaria): mandatory phone-call-confirmed checkbox; child-not-discharged-unescorted rule.
+
+**Screen 7: Follow-up scheduling (§8)**
+
+Auto-suggests next visit per §8.1. For dengue daily monitoring, auto-schedules consecutive daily slots.
+
+### 9.2 Data logged to PHR
+
+| Field | Type | Source |
+|---|---|---|
+| `visit_id` | UUID | auto |
+| `protocol_id` | string | "B1-19-infections" |
+| `infection_log` | array of objects | doctor / Screen 2 |
+| `jmf_warning_sign_count` | integer | Screen 2 |
+| `pid_screening_results` | structured (Ig levels, complement, lymphocyte subsets) | lab results |
+| `dengue_daily_tracker` | array of `{date, platelet, hct, warning_signs_present}` | daily entry |
+| `malaria_smear_results` | array of `{date, species, parasitaemia, clearance}` | lab results |
+| `g6pd_status` | enum (normal / deficient / unknown) | lab result |
+| `mantoux_igra_result` | structured | lab result |
+| `antimicrobial_prescribed` | array of `{drug, dose, duration, indication}` | per visit |
+| `antimicrobial_stewardship_override` | boolean + reason | if antibiotic for viral illness |
+| `referral_fired` | boolean | per visit |
+| `next_followup_date` | date | per visit |
+
+### 9.3 Alerts
+
+| Trigger | Recipient | Channel | Payload |
+|---|---|---|---|
+| §7.1 fires (sepsis, severe dengue, cerebral malaria) | Manager + named ped supervisor + receiving ER | Companion + WhatsApp + phone mandatory | child_id, trigger, urgency=emergency |
+| §7.2 fires (dengue warning signs, complicated malaria) | Manager + receiving hospital | Companion + WhatsApp | urgency=urgent |
+| Dengue daily monitoring: warning sign checked positive | Ped + Manager | Companion alert (immediate) | child_id, warning sign(s), current platelet/Hct |
+| Dengue daily monitoring missed | Manager | Phone (same day) | child_id, missed date |
+| Antimicrobial prescribed for viral URTI (override used) | Protocol owner | Companion alert (audit feed) | child_id, drug, documented reason |
+| PID screening ≥ 2 JMF signs but labs not ordered within 7 days | Ped + protocol owner | Companion alert | child_id, jmf_count |
+
+### 9.4 Parent app rendering
+
+After B1-19 consult, parent.skids.clinic shows:
+- Post-visit summary per §10.3.
+- Diagnosis card with plain-language explainer.
+- Dengue home monitoring checklist (if dengue without warning signs): daily platelet/Hct reminder, warning-sign recognition guide, hydration tracker.
+- Antimicrobial stewardship education module (activated for all B1-19 visits).
+- Next visit reminder.
+
+---
+
+## §10 Parent-facing communication
+
+### 10.1 Scripted explanations
+
+When evaluating recurrent infections:
+
+> "Most children who seem to be 'always sick' have a normal immune system — they are simply exposed to many viruses, especially if they attend daycare. Children in group care settings get 6 to 8 colds a year, and that is normal. The tests we're doing check whether the immune system is working properly. In most cases, it is. We'll have the results in about two weeks."
+
+When managing dengue without warning signs:
+
+> "Dengue is a viral illness transmitted by mosquitoes. Most children recover fully in 7 to 10 days. The critical period is when the fever breaks — that's when we watch most carefully for warning signs. [Child] needs to come in every day while the fever lasts so we can check the platelet count and blood concentration. Give paracetamol for fever — no ibuprofen, no aspirin. Push fluids. If [he/she] develops severe stomach pain, persistent vomiting, bleeding from the gums or nose, or becomes very drowsy, come to the clinic immediately — don't wait for tomorrow's appointment."
+
+When prescribing antimicrobial stewardship counselling:
+
+> "Antibiotics work against bacteria, not viruses. Most childhood fevers and colds are caused by viruses. Using antibiotics when they're not needed creates resistant bacteria that are harder to treat later. I know it can feel like we should 'do something,' and we are — we're making sure [child] stays hydrated, comfortable, and monitored. If at any point this turns bacterial, we will start antibiotics immediately."
+
+When §7.1 fires (sepsis / severe dengue / cerebral malaria):
+
+> "I'm very concerned about [child]'s condition. [He/She] needs to be at the hospital right now. I've already called [partner ER] and they are expecting [him/her]. Let's get [him/her] there immediately. I'll stay in touch with the hospital team."
+
+### 10.2 Post-visit summary template
+
+```
+[Child's name]'s SKIDS Infections Clinic visit on [date]
+
+Diagnosis: [plain-language diagnosis]
+Severity: [Mild / Moderate / Severe]
+
+What we are doing:
+   - [investigation or treatment item]
+   - [item]
+
+What you need to do at home:
+   - [hydration / monitoring / medication adherence item]
+   - [warning signs to watch for]
+
+When to come back:
+   - [next scheduled visit with specific date/time]
+   - [emergency return criteria]
+
+Next visit: [date]
+```
+
+### 10.3 parent.skids.clinic content activated
+
+| Diagnosis / scenario | Content activated |
+|---|---|
+| Viral URTI (no antibiotics) | "Why your child doesn't need antibiotics for this cold" article; hydration and comfort care guide |
+| Dengue (home monitoring) | "Dengue — daily monitoring and warning signs" interactive guide; daily checklist tool; hydration tracker |
+| Malaria (treatment) | "Malaria treatment — completing the course" guide; primaquine and G6PD explainer |
+| Recurrent infections (PID workup) | "Why we're testing your child's immune system" article |
+| TB contact screening | "TB screening — what the test means" guide; NTEP referral pathway explainer |
+| FUO under investigation | "Fever without a diagnosis — what happens next" article |
+| Typhoid | "Typhoid — completing the antibiotic course" guide |
+
+### 10.4 Cultural sensitivities
+
+- *Antibiotic expectation for every fever.* The single biggest antimicrobial-stewardship challenge in Indian outpatient practice. Families expect a prescription; leaving without one feels like an incomplete visit. Counter with: explicit explanation of why antibiotics are withheld, what to watch for, and the specific threshold at which antibiotics would be started. Document the stewardship conversation.
+- *Dengue fear and platelet-count anxiety.* Families fixate on the platelet number. Counsel explicitly: platelet count alone does not determine severity; the warning signs (clinical) matter more than the number. A platelet count of 80,000 with no warning signs is safer than 120,000 with persistent vomiting and abdominal pain.
+- *Malaria prophylaxis myths.* No vaccine or prophylaxis is needed for endemic-area residents; focus on mosquito-bite prevention (bed nets, repellents, elimination of standing water). Dispel myths about specific foods or drinks preventing malaria.
+- *TB stigma.* Families may resist TB screening or NTEP referral due to social stigma. Frame TB as a treatable infection, not a character failing. Emphasise that early detection and DOTS treatment leads to complete cure.
+- *Traditional fever remedies.* Sponging with cold water, herbal preparations, religious remedies — engage respectfully; most are not harmful. The risk is delaying medical evaluation for a child with warning signs. Counsel that home remedies can continue alongside medical monitoring.
+
+---
+
+## §11 Manager handoff
+
+### 11.1 Manager Console renders
+
+After every B1-19 visit, the Manager Console card per child shows:
+- Child name, age, sex.
+- Diagnosis (plain language).
+- Severity tier (Mild / Moderate / Severe).
+- Active monitoring status (e.g., "dengue daily monitoring — day 3 of 7").
+- Recommended subscription tier (per §11.2).
+- Expected B1-19 visit count over the next 3 months.
+- Concurrent active B1 protocols.
+- Parent contact details.
+- Suggested next action.
+
+### 11.2 Subscription tier match
+
+| Severity profile | Recommended subscription |
+|---|---|
+| Single common infection, stewardship counselling (1–2 visits) | Basic ₹2,999 — per-visit pricing adequate |
+| Recurrent-infection evaluation, FUO workup, dengue/malaria management (3–6 visits) | Advanced ₹6,999 — covers workup visits and lab costs |
+| PID screening + tropical infection management + multi-protocol cross-care (e.g., B1-06 + B1-19) | Premium ₹12,999 — unlimited visits, priority §7 partner handoff |
+
+### 11.3 Top parent objections and responses
+
+| Objection | Manager response |
+|---|---|
+| "Every doctor gives antibiotics for fever — why doesn't yours?" | "Our doctors follow national and international guidelines for when antibiotics actually help. Most fevers in children are viral, and antibiotics don't work on viruses. If the fever turns out to be bacterial, we start antibiotics immediately. This approach protects your child from antibiotic side effects and resistance." |
+| "Why do we need daily visits for dengue?" | "The critical phase of dengue happens when the fever breaks. Daily blood tests let us catch warning signs before they become dangerous. This monitoring is what keeps [child] safe at home instead of in the hospital." |
+| "The immune-system tests are expensive — is this really necessary?" | "If [child] meets the criteria for frequent serious infections, these tests are the only way to rule out an immune-system problem. Most children test normal, and that's reassuring. If a problem is found early, treatment is much more effective." |
+
+### 11.4 Follow-up cadence (manager-driven)
+
+| Touchpoint | Channel | Trigger |
+|---|---|---|
+| Daily monitoring reminder (dengue) | WhatsApp + phone | Each morning during febrile phase |
+| Antimicrobial course completion check | Phone | At prescribed end date if no follow-up scheduled |
+| PID screening results available | WhatsApp | Lab results received |
+| NTEP referral follow-up | Phone | 2 weeks post-referral (confirm DOTS enrolment) |
+| Missed follow-up (active treatment) | Phone | Same day for dengue; 3 days for malaria/typhoid |
+| Subscription renewal | WhatsApp + Manager Console | 30 days before end |
+
+---
+
+## §12 Quality and audit
+
+### 12.1 Outcome metrics
+
+B1-19 is working well when:
+
+- Antibiotic-prescribing appropriateness ≥ 85%: no antibiotic prescribed for viral URTI without documented bacterial complication.
+- Dengue warning-sign recognition rate = 100%: every child with dengue has daily warning-sign checklist completed; no child with warning signs managed at home.
+- TB screening completion rate ≥ 95%: all children with identified TB contacts have Mantoux/IGRA completed and documented.
+- PID screening initiated for 100% of children meeting ≥ 2 JMF criteria within 7 days of identification.
+- Malaria smear clearance confirmed at day 3 for 100% of P. falciparum cases.
+- G6PD status documented before primaquine dispensing = 100% (Companion hard-block enforces this).
+- Dengue daily monitoring adherence ≥ 95% (no missed daily visits during febrile phase).
+- §7.1 emergency triggers result in same-day handoff in 100% of cases.
+- Antimicrobial stewardship override rate < 5%: fewer than 5% of viral URTI visits result in an antibiotic prescription with override.
+
+### 12.2 Quarterly case review
+
+The protocol owner reviews every quarter:
+- A random sample of 30 B1-19 visits, balanced across infection types.
+- All §7 referrals (every tier).
+- All antimicrobial prescriptions — indication, spectrum, duration, culture-guided where applicable.
+- All antimicrobial stewardship overrides (antibiotic for viral illness with documented reason).
+- All dengue cases — daily monitoring compliance, warning-sign recognition, appropriate §7.2/§7.1 escalation.
+- All PID screening cases — JMF criteria met, labs ordered, referral if abnormal.
+- All loss-to-follow-up cases on active antimicrobial therapy.
+
+Output: 1-page report to SKIDS clinical operations, with any recommended protocol updates flagged.
+
+### 12.3 Pediatrician certification on this protocol
+
+To deliver B1-19, a SKIDS pediatrician must:
+- Complete the B1-19 onboarding chapter (4 hours).
+- Pass a structured case-vignette assessment (15 cases across infection types: recurrent infections, dengue, malaria, FUO, TB screening, typhoid).
+- Demonstrate dengue warning-sign assessment proficiency (5 simulated cases scored against protocol owner).
+- Demonstrate malaria smear interpretation and treatment protocol knowledge.
+- Demonstrate antimicrobial-stewardship counselling skills (observed family conversation).
+- Maintain a minimum case load of 30 B1-19 visits per quarter.
+- Complete annual continuing education (4 hours covering antimicrobial-resistance updates, dengue/malaria national protocol updates, PID screening advances).
+
+### 12.4 The SKIDS Fellowship pathway
+
+Pediatricians delivering B1-19 who wish to advance may apply for The SKIDS Fellowship in pediatric infectious disease, where offered via partner institutions. See `docs/06-the-skids-fellowship.md`. The credentialed infectious-disease specialist would then deliver:
+- Complex PID management currently routing to §7.3.
+- Hospital-based management of severe infections currently routing to §7.1/§7.2.
+- Antimicrobial stewardship programme governance across the SKIDS network.
+- Protocol governance for B1-19.
 
 ---
 

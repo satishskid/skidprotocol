@@ -162,36 +162,39 @@ Examination is age-banded. The bands are:
 | School-age | 6 – 12 years | Annual |
 | Adolescent | 12 – 18 years | Annual |
 
-At every visit, regardless of band:
-- **Vital signs.** Weight, length/height, head circumference (until 36 months), BP from age 3, heart rate, respiratory rate, temperature.
-- **Plot growth** on age-appropriate WHO (0–5y) or IAP 2015 (5–18y) chart [WHO-2024-Growth].
-- **General examination** — appearance, hydration, pallor, jaundice, lymphadenopathy.
-- **Skin** — quick survey for rashes, café-au-lait macules, neurocutaneous markers; in newborns/infants, a deliberate full-body inspection for birthmarks and bruising.
-- **HEENT** — fontanelle and sutures (until closure), red reflex (every visit until age 5, then as indicated), tympanic membrane, oropharynx, dentition (from eruption).
-- **Cardiopulmonary** — auscultation; femoral pulses in infants; murmur grading per the standard 1–6 scale.
-- **Abdomen** — palpation; organomegaly; in newborns/infants, umbilical examination.
-- **Genitourinary** — descent of testes (newborn, 6m, 12m, 24m, then if not previously documented descended); circumcision status; in adolescents, Tanner staging with consent.
-- **Musculoskeletal** — Ortolani/Barlow in newborn, hip abduction in infants, gait inspection from walking age, scoliosis screen from age 8.
-- **Neurological** — age-appropriate tone, primitive reflexes (newborn), motor milestones, cranial nerves on inspection in older children.
+**Age-band examination matrix** (perform all items marked for the child's band):
+
+| System | Newborn (0–28d) | Infant (1–12m) | Toddler (12–36m) | Preschool (3–6y) | School (6–12y) | Adolescent (12–18y) |
+|---|---|---|---|---|---|---|
+| **Vitals** | Wt, length, HC, HR, RR, temp | Wt, length, HC, HR, RR, temp | Wt, ht, HC (to 36m), HR, RR, temp, **BP from 3y** | Wt, ht, BMI, BP, HR, RR | Wt, ht, BMI, BP, HR, RR | Wt, ht, BMI, BP, HR, RR |
+| **Growth plot** | WHO 0–5y chart | WHO 0–5y chart | WHO 0–5y chart | IAP 5–18y from age 5 | IAP 5–18y chart | IAP 5–18y chart |
+| **General** | Appearance, hydration, pallor, jaundice, lymphadenopathy | Same | Same | Same | Same | Same |
+| **Skin** | Full-body: birthmarks, bruising, neurocutaneous markers (café-au-lait) | Full-body | Quick survey: rashes, café-au-lait | Quick survey | Quick survey | Quick survey; acne grading |
+| **HEENT** | Fontanelle, sutures, red reflex, TM, oropharynx | Fontanelle, red reflex, TM, oropharynx, dentition (from eruption) | Red reflex (to age 5), TM, oropharynx, dentition | TM, oropharynx, dentition; red reflex to 5y | TM, oropharynx, dentition | TM, oropharynx, dentition |
+| **Cardiopulm** | Auscultation; **femoral pulses** (coarctation screen) | Auscultation; femoral pulses | Auscultation; murmur grade 1–6 | Auscultation; murmur grade | Auscultation; murmur grade | Auscultation; murmur grade |
+| **Abdomen** | Palpation; umbilicus; organomegaly | Palpation; umbilicus; organomegaly | Palpation; organomegaly | Palpation | Palpation | Palpation |
+| **GU** | **Testicular descent** check; genital inspection | Testicular descent (6m, 12m) | Testicular descent (24m) | — | — | **Tanner staging** with consent + chaperone |
+| **MSK** | **Ortolani / Barlow** | Hip abduction | Gait (from walking) | Gait | Gait; **scoliosis screen** (Adams forward bend from 8y; asymmetry → §7.3 pediatric orthopaedics) | Scoliosis screen; sports-clearance MSK if indicated |
+| **Neuro** | Tone; **primitive reflexes** (Moro, grasp, ATNR) | Tone; motor milestones | Motor milestones; gait | Gait; coordination | Gait; coordination; cranial nerves on inspection | Gait; cranial nerves; motor/sensory if indicated |
 
 ### 4.3 Scales and questionnaires
 
 Used at the indicated bands:
 
-| Scale | Domain | Age | Cutoff for Yellow flag | Cutoff for Orange flag |
-|---|---|---|---|---|
-| **WHO Growth chart Z-score** | Growth | 0–5y | weight or height between −1 and −2 SD | < −2 SD or > +2 SD; or crossing two major centiles downward [WHO-2024-Growth] |
-| **IAP Growth chart percentile** | Growth | 5–18y | weight or height between 3rd and 10th centile | < 3rd centile or > 97th centile; or crossing two major centiles |
-| **Trivandrum DST** | Development | 0–6y | one delay item | two or more delay items, or any "warning sign" item [IAP-TB-6E:CH4] |
-| **ASQ-3** | Development | 1m–5.5y | score in monitoring zone (1 SD below cutoff) | score below cutoff in any domain [CDC-Milestones-2022] |
-| **M-CHAT-R/F** | Autism screen | 16–30m | score 3–7 with negative follow-up interview | score 3–7 with positive follow-up, or score ≥8 [Robins-MCHATR-2014] |
-| **BEARS** | Sleep | 2–18y | one positive domain, mild | two or more positive domains, or any severe domain |
-| **Vanderbilt parent + teacher** | ADHD screen | 6–12y | partial criteria (4–5 inattentive or hyperactive items) | full DSM criteria met on ≥1 informant [AAP-2019-ADHD] |
-| **SDQ** | Behavioural-emotional | 4–17y | score in borderline band | score in abnormal band [AAP-BF-4E] |
-| **PHQ-A** | Depression | 12–18y | score 5–9 | score ≥10; **any positive on item 9 (self-harm/suicidality) → §7.1 Red regardless of total score** |
-| **GAD-7** | Anxiety | 12–18y | score 5–9 | score ≥10 |
-| **CRAFFT** | Substance use | 12–18y | score 1 | score ≥2 |
-| **HEEADSSS** | Adolescent psychosocial | 12–18y | one risk domain | two or more, or any disclosure of abuse, exploitation, or self-harm |
+| Scale | Domain | Age | Administered by | Cutoff for Yellow flag | Cutoff for Orange flag |
+|---|---|---|---|---|---|
+| **WHO Growth chart Z-score** | Growth | 0–5y | Nurse (measurement) + Companion (auto-plot) | weight or height between −1 and −2 SD | < −2 SD or > +2 SD; or crossing two major centiles downward [WHO-2024-Growth] |
+| **IAP Growth chart percentile** | Growth | 5–18y | Nurse + Companion | weight or height between 3rd and 10th centile | < 3rd centile or > 97th centile; or crossing two major centiles |
+| **Trivandrum DST** | Development | 0–6y | Doctor (clinical observation) | one delay item | two or more delay items, or any "warning sign" item [IAP-TB-6E:CH4] |
+| **ASQ-3** | Development | 1m–5.5y | Parent-completed questionnaire (Companion tablet) | score in monitoring zone (1 SD below cutoff) | score below cutoff in any domain [CDC-Milestones-2022] |
+| **M-CHAT-R/F** | Autism screen | 16–30m | Parent-completed (Companion); follow-up interview by doctor | score 3–7 with negative follow-up interview | score 3–7 with positive follow-up, or score ≥8 [Robins-MCHATR-2014] |
+| **BEARS** | Sleep | 2–18y | Doctor (verbal screen during history) | one positive domain, mild | two or more positive domains, or any severe domain |
+| **Vanderbilt** | ADHD screen | 6–12y | **Parent form + Teacher form** (both required; teacher form sent via Companion to school) | partial criteria (4–5 inattentive or hyperactive items) | full DSM criteria met on ≥1 informant [AAP-2019-ADHD] |
+| **SDQ** | Behavioural-emotional | 4–17y | Parent-completed (Companion tablet) | score in borderline band | score in abnormal band [AAP-BF-4E] |
+| **PHQ-A** | Depression | 12–18y | Adolescent self-completed (Companion tablet, private) | score 5–9 | score ≥10; **any positive on item 9 (self-harm/suicidality) → §7.1 Red regardless of total score** |
+| **GAD-7** | Anxiety | 12–18y | Adolescent self-completed (Companion tablet, private) | score 5–9 | score ≥10 |
+| **CRAFFT** | Substance use | 12–18y | Adolescent self-completed (Companion tablet, private) | score 1 | score ≥2 |
+| **HEEADSSS** | Adolescent psychosocial | 12–18y | Doctor (structured private interview) | one risk domain | two or more, or any disclosure of abuse, exploitation, or self-harm |
 | **MUAC** (mid-upper-arm circumference) | Acute malnutrition | 6m–5y | 12.5–13.5 cm (yellow, moderate acute malnutrition risk) | < 11.5 cm = Red §7.1 (SAM emergency); 11.5–12.5 cm = Orange to B1-09 (MAM) [WHO-2024-Growth] |
 | **BP percentile** (per AAP 2017 tables) | Blood pressure | ≥3y | 90th–<95th centile (elevated BP) | ≥95th centile confirmed on three readings [AAP-2017-HBP] |
 

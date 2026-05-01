@@ -179,15 +179,15 @@ Each episode must be documented with ≥ 1 of: temperature ≥ 38.3°C, cervical
 
 ### 4.5 Croup assessment
 
-**Westley Croup Score:**
+**Westley Croup Score** (sum all 5 domains; maximum 17):
 
-| Feature | 0 | 1 | 2 | 3 | 4–5 |
-|---|---|---|---|---|---|
-| Stridor | None | At rest, with stethoscope | At rest, without stethoscope | — | — |
-| Retractions | None | Mild | Moderate | Severe | — |
-| Air entry | Normal | Decreased | Markedly decreased | — | — |
-| Cyanosis | None | — | — | — | With agitation (4) / at rest (5) |
-| Level of consciousness | Normal | — | — | — | Disoriented (5) |
+| Feature | Score 0 | Score 1 | Score 2 | Score 3 | Score 4 | Score 5 |
+|---|---|---|---|---|---|---|
+| **Stridor** | None | With stethoscope at rest | Without stethoscope at rest | — | — | — |
+| **Retractions** | None | Mild | Moderate | Severe | — | — |
+| **Air entry** | Normal | Decreased | Markedly decreased | — | — | — |
+| **Cyanosis** | None | — | — | — | With agitation | At rest |
+| **Consciousness** | Normal | — | — | — | — | Disoriented |
 
 **Classification:**
 - Mild (Westley 0–2): barking cough, no stridor at rest.

@@ -185,19 +185,176 @@ Prednisolone 5 mg tablets; cephalexin suspension; co-amoxiclav suspension; TMP-S
 
 ---
 
-## §8–§12 (Compressed)
+## §8 Follow-up schedule
 
-**§8:** UTI follow-up: urine culture at 48–72h if not improving; 4 weeks post-treatment. NS: weekly weight + urine protein during induction; monthly during taper. HTN: monthly BP × 3 months then 3-monthly.
+| Scenario | First follow-up | Subsequent |
+|---|---|---|
+| Uncomplicated UTI | 48–72h (if not improving); urine culture at 4 weeks post-treatment | PRN; annual urinalysis at A1 |
+| Recurrent UTI on prophylaxis | 4 weeks | 3-monthly × 1 year; then 6-monthly |
+| Nephrotic syndrome (induction phase) | Weekly (weight + urine protein dipstick) | Weekly × 6 weeks induction; then monthly during taper |
+| Nephrotic syndrome (post-taper) | Monthly × 3 months | 3-monthly × 1 year; then 6-monthly |
+| NS relapse | Weekly during re-induction | Per induction schedule |
+| HTN Stage 1 (lifestyle management) | Monthly BP × 3 months | 3-monthly if stable |
+| Isolated haematuria / proteinuria | 3 months | 3-monthly urinalysis + BP × 1 year; then 6-monthly if stable |
+| CAKUT follow-up (postnatal hydronephrosis) | Per ultrasound schedule (1 week, 4–6 weeks) | Per nephrology/urology guidance |
+| Enuresis urodynamic workup (from B1-20) | Per urology guidance | Per urology guidance |
 
-**§9:** Standard 8-screen pattern. Key: BP 3-reading auto-classified; urine dipstick result entry; NS weight/proteinuria tracker; renal ultrasound report integration.
+§8.2 What to recheck: urine dipstick (protein, blood, leucocytes); BP (at every visit); weight (NS children — daily by parent, weekly at clinic during induction); serum creatinine (if CKD risk); renal ultrasound (per investigation timeline); urine culture (UTI children — confirm clearance); NS treatment compliance (steroid diary).
 
-**§10:** "The blood test and urine test show [his] kidneys are working well / show some protein leaking / show the blood pressure is coming from the kidneys." NS: "The medicine (prednisolone) reduces the protein leak; most children respond within 2 weeks. The puffiness will go down as the protein stops leaking. The course is 3 months — it's important to complete it."
+§8.3 Success: UTI resolved (sterile urine culture at 4 weeks); NS in remission (urine protein dipstick negative × 3 consecutive days); HTN normalised on lifestyle (BP < 90th centile); haematuria/proteinuria stable or resolved; no §7 triggers met.
 
-**§10.5 Cultural:** Steroid fear in NS ("steroids are dangerous") — explain: this is a different type of steroid from bodybuilding steroids; short course with gradual taper; side effects (weight gain, mood) are temporary. Circumcision requests in undescended testis — address sequentially; orchidopexy takes clinical priority.
+§8.7 Loss-to-follow-up: Companion alert for NS children (steroid course interruption risks relapse) and recurrent UTI children on prophylaxis (discontinuation without review risks breakthrough UTI). High-priority re-engagement.
 
-**§11:** Tiering: UTI management = Basic/Advanced; HTN + NS = Advanced/Premium.
+---
 
-**§12:** Metrics: ≥ 95% UTI culture-confirmed before antibiotics; NS remission within 2 weeks of prednisolone in ≥ 80%; ≥ 90% febrile UTI in 2–24m get renal ultrasound; §7 compliance ≥ 95%.
+## §9 Companion software workflow
+
+### 9.1 Doctor Module screens
+
+**Screen 1: Pre-consult summary** — A1 routing context (BP flag, urinalysis flag); prior B1-17 visits; current medications (prednisolone, prophylactic antibiotics); NS status (remission / relapse / induction); BP trend; renal ultrasound results; B1-16/B1-20/B1-10 cross-references.
+
+**Screen 2: History** — structured form: presenting concern (UTI symptoms, oedema, haematuria, BP reading); UTI history (number, dates, culture results); NS history (episodes, relapse dates); medication compliance.
+
+**Screen 3: Examination** — BP (3-reading entry with auto-classification per centile); oedema assessment (periorbital, pedal, ascites); growth plotted; abdominal exam (kidney palpation, bladder distension).
+
+**Screen 4: Investigations** — urine dipstick result entry (protein, blood, leucocytes, nitrites); urine culture result with sensitivity; serum creatinine + electrolytes; UPCR; renal ultrasound report integration with structured fields (kidney size, echogenicity, hydronephrosis grade, bladder wall).
+
+**Screen 5: Severity grading** — auto-populated from BP classification + urinalysis + serum creatinine + NS status.
+
+**Screen 6: NS management tracker** — weight/proteinuria trend graph; prednisolone dose calculator (2 mg/kg/day, max 60 mg); taper schedule auto-generated; relapse counter; steroid-dependent/frequently-relapsing flag.
+
+**Screen 7: Therapeutic plan** — antibiotic selection with weight-based dosing (UTI); prednisolone prescribing with mandatory course timeline; prophylaxis prescribing; §7 trigger checklist.
+
+**Screen 8: Follow-up** — urine culture reminder scheduler; NS weight/proteinuria parent-log review; BP monitoring calendar; renal ultrasound scheduling.
+
+### 9.2 Data logged to PHR
+
+| Field | Type | Frequency |
+|---|---|---|
+| `bp_readings` | array of {systolic, diastolic, centile, classification} | per visit |
+| `urinalysis` | object: {protein, blood, leucocytes, nitrites, upcr} | per visit |
+| `urine_culture` | object: {organism, sensitivity, date} | per culture |
+| `ns_status` | enum: not_applicable / induction / taper / remission / relapse / frequently_relapsing / steroid_resistant | updated per visit |
+| `ns_treatment_log` | array of {episode, start_date, prednisolone_dose, taper_schedule, remission_date} | per episode |
+| `renal_ultrasound` | object: {date, kidney_size_L, kidney_size_R, echogenicity, hydronephrosis_grade, bladder} | per scan |
+| `serum_creatinine` | number | per test |
+| `uti_history` | array of {date, organism, treatment, imaging} | per episode |
+
+### 9.3 Alerts
+
+| Trigger | Alert recipient | Channel |
+|---|---|---|
+| NS relapse (urine protein dipstick ≥ 2+ × 3 consecutive days) | Doctor | Companion alert |
+| Frequently relapsing NS (≥ 2 relapses in 6 months) | Doctor + protocol owner | Companion alert + §7.3 workflow |
+| BP ≥ 95th centile on 3 occasions | Doctor | Companion flag |
+| Urine culture positive (breakthrough on prophylaxis) | Doctor | Companion alert |
+| B1-17 follow-up missed (NS child) | Manager + parent | Companion + WhatsApp |
+| Serum creatinine rising trend | Doctor + protocol owner | Companion alert |
+
+### 9.4 Parent app rendering
+
+Post-visit: diagnosis explanation; medication schedule (prednisolone with taper calendar for NS; antibiotic course for UTI); daily weight and urine dipstick log (NS families); BP log (HTN families); follow-up date; call-SKIDS triggers.
+
+### 9.5 Auto-generated outputs
+
+1. Pediatric nephrology/urology referral packet.
+2. NS parent education materials (steroid course explanation, daily monitoring guide).
+3. UTI prevention information sheet (hygiene, hydration, constipation management).
+4. HTN lifestyle modification guide.
+
+### 9.6 Edge cases
+
+- Parent requests circumcision at same visit as undescended testis assessment: address sequentially — orchidopexy takes clinical priority; circumcision is elective and can be scheduled after testis is addressed. Document discussion.
+- NS child on prednisolone develops chickenpox contact: aciclovir prophylaxis if immunocompromised; contact paediatrician urgently. Document.
+- Urine bag specimen sent for culture (invalid): re-collect via clean-catch or catheter. Do NOT treat based on bag urine culture.
+- Offline: paper urine dipstick log; upload when connectivity restored.
+
+---
+
+## §10 Parent-facing communication
+
+### 10.1 Scripted explanations
+
+UTI:
+
+> "[Aanya] has a urine infection. We confirm this with a urine test. The treatment is a course of antibiotics for [7–10 days]. It is important to complete the full course. We will re-test the urine after treatment to make sure the infection has cleared. We also do an ultrasound to check that the kidneys and urinary tract are normal."
+
+Nephrotic syndrome:
+
+> "[Arjun]'s kidneys are leaking protein into the urine, which is causing the puffiness around his eyes and legs. This condition is called nephrotic syndrome. The good news is that most children respond very well to the medicine — prednisolone. It reduces the protein leak, and you will see the puffiness go down, usually within 1–2 weeks. The full course is about 3 months — it is very important to complete it and not stop early, even when [he] looks better."
+
+Hypertension workup:
+
+> "The blood test and urine test show us whether [his] blood pressure is coming from the kidneys or from another cause. In most children with high blood pressure and a normal weight, the kidneys are the first thing we check. If everything is normal, we manage the blood pressure with diet and exercise changes."
+
+### 10.2 Subscription tier explanation: standard.
+
+### 10.3 Post-visit summary template
+
+```
+Diagnosis: [UTI / nephrotic syndrome / hypertension workup / haematuria / proteinuria / CAKUT follow-up]
+Investigations: [ordered / results: [summary]]
+Treatment: [antibiotic [name, dose, duration] / prednisolone [dose, taper schedule] / lifestyle / monitoring]
+Daily monitoring (NS): weight + urine dipstick — log in parent app
+Follow-up: [date]
+Call SKIDS if: fever with UTI symptoms recurring, increasing puffiness (NS),
+  blood in urine, reduced urine output, headache with high BP.
+```
+
+### 10.4 Parent-app content activated
+
+| Trigger | Content |
+|---|---|
+| UTI diagnosed | "Urine infections in children — treatment and prevention" |
+| NS diagnosed | "Nephrotic syndrome — understanding the condition and the treatment" |
+| HTN workup | "High blood pressure in children — what we are checking" |
+| Thal trait + kidney | "Keeping kidneys healthy — hydration and follow-up" |
+| Recurrent UTI | "Preventing urine infections — hygiene, hydration, and habits" |
+
+### 10.5 Cultural sensitivities
+
+- *Steroid fear in nephrotic syndrome.* "Steroids are dangerous" is a common concern. Explain: prednisolone used here is a different type of steroid from bodybuilding steroids. It is a short course with a gradual taper. Side effects (weight gain, mood changes, increased appetite) are temporary and resolve after the course is completed. The alternative — untreated NS — leads to serious complications including infections and blood clots.
+- *Circumcision and undescended testis.* In families requesting circumcision, if the child also has an undescended testis, address sequentially — orchidopexy (bringing the testis down) takes clinical priority. Circumcision is elective and can be planned afterwards. Frame positively: "We want to take care of the more important thing first."
+- *"Kidney problem means dialysis."* Reassure: most childhood kidney conditions managed at B1-17 (UTI, NS, mild HTN) do not progress to kidney failure. NS in children has an excellent prognosis — most respond to treatment and outgrow it.
+- *Urine-collection reluctance.* Some families find catheterised urine collection distressing. Explain that bag urine is unreliable for culture and may lead to incorrect treatment. Clean-catch is preferred where feasible; catheter is quick and accurate.
+
+---
+
+## §11 Manager handoff
+
+§11.1 Manager Console: kidney/urology diagnosis; NS status (remission / induction / relapse); BP trend; UTI history; prophylaxis status; §7 referral status; subscription tier and coverage.
+
+§11.2 Tiering: UTI management (single episode) = Basic/Advanced; recurrent UTI with imaging + prophylaxis = Advanced; HTN workup + NS management + multi-protocol cross-care (B1-17 + B1-16 + B1-20 + B1-10) = Premium.
+
+§11.3 Top parent objections:
+
+| Objection | Manager response |
+|---|---|
+| "It's just a urine infection — why does she need an ultrasound?" | "For children under 2 with a fever and urine infection, the ultrasound checks that the kidneys and tubes are normal. It is a painless scan — no needles, no radiation. The doctor follows national guidelines for this." |
+| "Steroids for 3 months — isn't that too long?" | "The 3-month course is the standard treatment used worldwide for this condition. Stopping early makes the condition come back. The doctor tapers the dose gradually so the body adjusts. Side effects are temporary." |
+| "His BP is high — does he need medicine for life?" | "In children, we first look for the cause. If the cause is treatable, the BP often normalises. Even when lifestyle changes are needed, children respond well. Medicine is only added if lifestyle alone doesn't work after 6 months." |
+| "We want a second opinion from a kidney specialist." | "Absolutely — and the doctor may recommend that too. The workup we have done gives the specialist all the information they need to advise quickly." |
+
+§11.4–§11.6: standard manager touchpoints. NS families get proactive re-engagement during taper phase to ensure course completion and early relapse detection.
+
+---
+
+## §12 Quality and audit
+
+§12.1 Metrics:
+- ≥ 95% of UTI diagnoses are culture-confirmed before antibiotic initiation.
+- NS remission (urine protein negative) achieved within 2 weeks of prednisolone initiation in ≥ 80% of first-episode typical NS.
+- ≥ 90% of febrile UTI in children 2–24 months receive renal ultrasound per AAP guidelines.
+- ≥ 95% of §7 triggers result in documented referral with complete handoff packet.
+- NS steroid course completion rate ≥ 90% (no premature discontinuation without medical reason).
+- UTI prophylaxis adherence (where prescribed): ≥ 85% (measured by refill counts).
+- Loss-to-follow-up < 15%.
+
+§12.2 Quarterly: protocol owner reviews all §7 referrals, NS treatment outcomes (remission rate, relapse rate, frequently-relapsing rate), UTI culture-before-antibiotic compliance, imaging compliance for febrile UTI, and BP monitoring adherence for HTN children.
+
+§12.3 Certification: every SKIDS pediatrician delivering B1-17 must complete UTI diagnosis and management training (4 hours); nephrotic syndrome ISKDC protocol training (4 hours); pediatric BP measurement and classification (2 hours); renal ultrasound interpretation basics (2 hours). Annual update (2 hours).
+
+§12.4 Fellowship: no specific SKIDS Nephrology Fellowship pathway. Protocol governance sits with the named pediatric nephrologist.
 
 ---
 

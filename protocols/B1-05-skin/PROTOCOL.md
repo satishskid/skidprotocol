@@ -256,14 +256,14 @@ B1-05 grades severity per condition, mapping to the three intervention tiers (§
 
 For impetigo, tinea, scabies, etc., the operational severity grading follows the same Light / Standard / Intensive / Refer logic but is condition-specific:
 
-| Condition | Mild (Light §6.1) | Moderate (Standard §6.2) | Severe (Intensive §6.3) | §7 |
-|---|---|---|---|---|
-| **Impetigo** | < 5 lesions, no constitutional features | ≥ 5 lesions OR facial/periorificial involvement | Multifocal OR systemic features (fever, lymphadenopathy) | Cellulitis / abscess / suspected MRSA-resistant after 7-day course → §7.2 [Stevens-2014-IDSA] |
-| **Scabies** | Individual case, no household | Household coverage indicated (any household member affected) | Crusted (Norwegian) scabies suspected | Crusted scabies confirmed → §7.2 [IADVL-Scabies-2021, CDC-Scabies-2024] |
-| **Tinea corporis / cruris** | < 3 lesions, < 5 cm each | Multiple lesions OR > 5 cm OR family clustering | Tinea capitis (any extent) | No response to 4 weeks topical (corporis) or 8 weeks oral (capitis) → §7.3 [IAP-TB-6E] |
-| **Pediculosis** | Localised, no family spread | Whole-family treatment indicated | Pyoderma secondary | Resistance to permethrin AND malathion → §7.3 |
-| **Molluscum / warts** | Few lesions, asymptomatic | Many lesions OR distressing OR genital location | — | Immunocompromised host with extensive lesions → §7.3 |
-| **Cellulitis (any extent)** | — | — | — | All cellulitis: §7.2 if non-systemic, §7.1 if systemic — B1-05 does not manage cellulitis at any tier |
+| Condition | Mild (Light §6.1) | First-line Rx at this tier | Moderate (Standard §6.2) | First-line Rx | Severe (Intensive §6.3) | §7 |
+|---|---|---|---|---|---|---|
+| **Impetigo** | < 5 lesions, no constitutional | Mupirocin 2% topical TDS × 5d | ≥ 5 lesions OR facial | Cephalexin 25 mg/kg/dose BD × 7d (or amoxicillin-clavulanate) | Multifocal OR systemic | §7.2 if cellulitis / MRSA [Stevens-2014-IDSA] |
+| **Scabies** | Individual, no household | Permethrin 5% cream overnight × 2 (day 1, 8) | Household coverage | Permethrin 5% all contacts + oral ivermectin 200 mcg/kg × 2 | Crusted suspected | §7.2 if crusted confirmed [IADVL-Scabies-2021] |
+| **Tinea corporis/cruris** | < 3 lesions, < 5 cm | Clotrimazole 1% cream BD × 4 weeks | Multiple / > 5 cm | Terbinafine cream BD × 4 weeks | Tinea capitis (any) | Griseofulvin 20 mg/kg/day × 6–8w; §7.3 if refractory |
+| **Pediculosis** | Localised | Permethrin 1% lotion × 10–20 min, repeat day 7 | Whole-family | Same + household linen treatment | Pyoderma 2° | §7.3 if resistant to permethrin + malathion |
+| **Molluscum/warts** | Few, asymptomatic | Observation (self-limiting 6–18m); cryotherapy if symptomatic | Many / distressing | Salicylic acid 15–17% daily under occlusion × 12w | — | §7.3 if immunocompromised + extensive |
+| **Cellulitis** | — | — | — | — | — | All cellulitis: §7.2 non-systemic, §7.1 systemic — B1-05 does not manage |
 
 ### 5.4 Reactive dermatoses
 
