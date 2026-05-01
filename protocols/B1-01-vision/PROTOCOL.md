@@ -53,7 +53,7 @@ companion_module_status: not_specified
 - **Advanced ₹6,999** — up to 4 B1-01 visits per year included; one spectacle replacement per year for prescription change covered. Suitable for myopia-control programme participants and stable refractive-error users.
 - **Premium ₹12,999** — unlimited B1-01 visits within the clinically indicated set; two spectacle replacements per year covered; priority booking for §7 ophthalmology partner referral. Suitable for progressive myopia (>0.50 D/year) and any child also under §7 partner ophthalmology surveillance.
 
-**SKIDS clinical tier:** Tier 1, with a key allied-staff dependence — the SKIDS optometrist is integral to B1-01 operations. Without an in-clinic optometrist, B1-01 cannot operate at full capability and degrades to a routing-only role (A1 refers any vision Orange directly to the named partner pediatric optometrist or pediatric ophthalmologist). Protocol governance sits with the named pediatric ophthalmologist or developmental-behavioural pediatrician with vision-screening interest identified in §2 (assignment pending at editorial pass). Complex tier per §7 escalates to Tier 3 partner pediatric ophthalmology (strabismus surgery, cataract, retinal disease, glaucoma).
+**SKIDS clinical tier:** Tier 1, with a key allied-staff dependence — the SKIDS optometrist is integral to B1-01 operations. Without an in-clinic optometrist, B1-01 cannot operate at full capability and degrades to a routing-only role (A1 refers any vision Orange directly to the SKIDS-T3 pediatric optometrist or pediatric ophthalmologist). Protocol governance sits with the named pediatric ophthalmologist or developmental-behavioural pediatrician with vision-screening interest identified in §2 (assignment pending at editorial pass). Complex tier per §7 escalates to Tier 3 partner pediatric ophthalmology (strabismus surgery, cataract, retinal disease, glaucoma).
 
 ---
 
@@ -477,40 +477,40 @@ The case escalates out of B1-01's scope when ANY of the following is true:
 
 ### 7.1 Emergency referral (same day, transport directly to ER or named pediatric ophthalmology emergency)
 
-- [ ] **Suspected leukocoria** — white pupil reflex on photographs or examination, regardless of age. → Named partner pediatric ophthalmology + pediatric oncology consult, within 24 hours. Differentials include retinoblastoma, congenital cataract, persistent fetal vasculature, Coats disease, retinal detachment. The cost of missed retinoblastoma is catastrophic; the protocol does not tolerate even uncertainty about whether to refer [AAP-AAO-2016-Vision].
-- [ ] **Acute traumatic eye injury** — penetrating injury, hyphaema, suspected globe rupture, chemical injury, large corneal abrasion with foreign body, lid laceration involving canaliculus or tarsus. → Named partner pediatric ophthalmology / pediatric ER within 1 hour. For chemical injury, copious irrigation with normal saline or sterile water at B1-01 begins immediately and continues during transfer.
-- [ ] **Sudden vision loss (any timeframe)** — acute monocular or binocular vision loss, not accounted for by an obvious refractive cause. → Named partner pediatric ophthalmology + pediatric ER, within 1 hour.
-- [ ] **Suspected orbital cellulitis** — proptosis, pain on eye movement, restricted eye movement, fever, marked lid swelling extending to deep tissue, RAPD. → Named partner pediatric ER + pediatric ophthalmology, within 1 hour. NOT preseptal cellulitis (which can be managed at B1-19 Infections + B1-01).
-- [ ] **Hyperacute purulent conjunctivitis (suspected gonococcal) at any age**, especially neonate. → Named partner pediatric ophthalmology + neonatology / pediatric ER, within 1 hour. Empirical IM ceftriaxone may be initiated if delay anticipated [AAP-Conj-2013].
-- [ ] **Suspected herpetic keratitis / dendritic ulcer** — fluorescein-positive dendritic pattern, vesicular eyelid eruption with eye involvement. → Named partner pediatric ophthalmology, within 24 hours. NEVER initiate empirical topical steroid.
-- [ ] **Acute angle closure (rare in pediatric)** — severe eye pain with vomiting, halos around lights, hard globe on palpation, fixed mid-dilated pupil. → Named partner pediatric ER, within 1 hour.
-- [ ] **Papilloedema on undilated fundoscopy OR sixth-nerve palsy** — concerning for raised intracranial pressure. → Named partner pediatric ER + pediatric ophthalmology + pediatric neurology, within 1 hour for imaging.
-- [ ] **Suspected non-accidental injury with eye findings** — retinal haemorrhages in an infant, periorbital bruising in non-mobile infant, "raccoon eyes" without trauma history. → Named partner pediatric ER + child-protection referral, within 1 hour. Same retention protocol as A1 §7.1 — child not discharged to suspected-perpetrator caregiver.
+- [ ] **Suspected leukocoria** — white pupil reflex on photographs or examination, regardless of age. → SKIDS-T3 pediatric ophthalmology + pediatric oncology consult, within 24 hours. Differentials include retinoblastoma, congenital cataract, persistent fetal vasculature, Coats disease, retinal detachment. The cost of missed retinoblastoma is catastrophic; the protocol does not tolerate even uncertainty about whether to refer [AAP-AAO-2016-Vision].
+- [ ] **Acute traumatic eye injury** — penetrating injury, hyphaema, suspected globe rupture, chemical injury, large corneal abrasion with foreign body, lid laceration involving canaliculus or tarsus. → SKIDS-T3 pediatric ophthalmology / pediatric ER within 1 hour. For chemical injury, copious irrigation with normal saline or sterile water at B1-01 begins immediately and continues during transfer.
+- [ ] **Sudden vision loss (any timeframe)** — acute monocular or binocular vision loss, not accounted for by an obvious refractive cause. → SKIDS-T3 pediatric ophthalmology + pediatric ER, within 1 hour.
+- [ ] **Suspected orbital cellulitis** — proptosis, pain on eye movement, restricted eye movement, fever, marked lid swelling extending to deep tissue, RAPD. → SKIDS-T3 pediatric ER + pediatric ophthalmology, within 1 hour. NOT preseptal cellulitis (which can be managed at B1-19 Infections + B1-01).
+- [ ] **Hyperacute purulent conjunctivitis (suspected gonococcal) at any age**, especially neonate. → SKIDS-T3 pediatric ophthalmology + neonatology / pediatric ER, within 1 hour. Empirical IM ceftriaxone may be initiated if delay anticipated [AAP-Conj-2013].
+- [ ] **Suspected herpetic keratitis / dendritic ulcer** — fluorescein-positive dendritic pattern, vesicular eyelid eruption with eye involvement. → SKIDS-T3 pediatric ophthalmology, within 24 hours. NEVER initiate empirical topical steroid.
+- [ ] **Acute angle closure (rare in pediatric)** — severe eye pain with vomiting, halos around lights, hard globe on palpation, fixed mid-dilated pupil. → SKIDS-T3 pediatric ER, within 1 hour.
+- [ ] **Papilloedema on undilated fundoscopy OR sixth-nerve palsy** — concerning for raised intracranial pressure. → SKIDS-T3 pediatric ER + pediatric ophthalmology + pediatric neurology, within 1 hour for imaging.
+- [ ] **Suspected non-accidental injury with eye findings** — retinal haemorrhages in an infant, periorbital bruising in non-mobile infant, "raccoon eyes" without trauma history. → SKIDS-T3 pediatric ER + child-protection referral, within 1 hour. Same retention protocol as A1 §7.1 — child not discharged to suspected-perpetrator caregiver.
 
 ### 7.2 Urgent referral (within 7 days)
 
-- [ ] **Confirmed amblyopia in child < 7 years** — the critical window for amblyopia therapy is narrowing rapidly with age; earlier intervention is better. → Named partner pediatric ophthalmology, within 7 days [PEDIG-Amblyopia, AAP-AAO-2016-Vision].
-- [ ] **New-onset strabismus < 6 months age** — congenital esotropia, congenital cranial-nerve palsy, sensory strabismus. → Named partner pediatric ophthalmology, within 7 days.
-- [ ] **Acquired ptosis with visual axis obstruction in young child** — amblyogenic risk. → Named partner pediatric ophthalmology / pedo-ophthalmic plastics, within 7 days.
-- [ ] **Suspected uveitis (any presentation)** — photophobia + ciliary injection + ± hypopyon ± synechiae; especially in the context of juvenile idiopathic arthritis (B2-03 Rheumatology cross-care). → Named partner pediatric ophthalmology, within 7 days.
-- [ ] **Diplopia with cranial-nerve palsy pattern (third / fourth / sixth)** — neurological cause until proven otherwise. → Named partner pediatric neurology + pediatric ophthalmology, within 7 days.
-- [ ] **Asymmetric red reflex (Brückner test positive)** — anisometropia, cataract, refractive error. → Named partner pediatric ophthalmology, within 7 days.
+- [ ] **Confirmed amblyopia in child < 7 years** — the critical window for amblyopia therapy is narrowing rapidly with age; earlier intervention is better. → SKIDS-T3 pediatric ophthalmology, within 7 days [PEDIG-Amblyopia, AAP-AAO-2016-Vision].
+- [ ] **New-onset strabismus < 6 months age** — congenital esotropia, congenital cranial-nerve palsy, sensory strabismus. → SKIDS-T3 pediatric ophthalmology, within 7 days.
+- [ ] **Acquired ptosis with visual axis obstruction in young child** — amblyogenic risk. → SKIDS-T3 pediatric ophthalmology / pedo-ophthalmic plastics, within 7 days.
+- [ ] **Suspected uveitis (any presentation)** — photophobia + ciliary injection + ± hypopyon ± synechiae; especially in the context of juvenile idiopathic arthritis (B2-03 Rheumatology cross-care). → SKIDS-T3 pediatric ophthalmology, within 7 days.
+- [ ] **Diplopia with cranial-nerve palsy pattern (third / fourth / sixth)** — neurological cause until proven otherwise. → SKIDS-T3 pediatric neurology + pediatric ophthalmology, within 7 days.
+- [ ] **Asymmetric red reflex (Brückner test positive)** — anisometropia, cataract, refractive error. → SKIDS-T3 pediatric ophthalmology, within 7 days.
 
 ### 7.3 Routine referral (next available appointment, ≤ 4 weeks)
 
-- [ ] **Constant manifest strabismus at any age** (esotropia, exotropia, hypertropia / hypotropia). → Named partner pediatric ophthalmology, within 4 weeks. Pseudostrabismus does not refer.
-- [ ] **Intermittent strabismus > 4 months age.** → Named partner pediatric ophthalmology, within 4 weeks.
-- [ ] **Refractory convergence insufficiency** — CISS ≥ 16 after 6 weeks of structured §6.2 management; near-point of convergence > 6 cm persistent. → Named partner pediatric ophthalmology / specialty optometric vision therapy, within 4 weeks.
-- [ ] **Refractive correction not improving acuity to age cutoff** — possible amblyopia, cataract, retinal pathology. → Named partner pediatric ophthalmology, within 4 weeks.
-- [ ] **Progressive myopia not controlled on atropine 0.05%** — progression > 1.00 D / year despite step-up. → Named partner pediatric ophthalmology, within 4 weeks. Discussion of higher-concentration atropine, orthokeratology, or multifocal soft contacts.
-- [ ] **High myopia in young child** (> –6.00 D before age 10). → Named partner pediatric ophthalmology, within 4 weeks. Retinal-risk surveillance baseline.
-- [ ] **Vernal / atopic / giant-papillary conjunctivitis** — chronic surface disease beyond mild allergic conjunctivitis. → Named partner pediatric ophthalmology, within 4 weeks. Combined-care with B1-06 Allergy.
-- [ ] **Persistent chalazion** — > 6 weeks of warm compresses without resolution OR child distress. → Named partner pediatric ophthalmology / pedo-ophthalmic plastics, within 4 weeks.
-- [ ] **Recurrent hordeolum / blepharitis** — three episodes within 6 months. → Named partner pediatric ophthalmology, within 4 weeks. Underlying systemic cause screen (rosacea, demodex, immunodeficiency).
-- [ ] **Suspected congenital nystagmus or new-onset nystagmus.** → Named partner pediatric ophthalmology + pediatric neurology, within 4 weeks.
-- [ ] **Family request for orthokeratology / contact-lens fitting / refractive surgery counselling.** → Named partner pediatric optometrist with specialty contact lens / pediatric ophthalmology, within 4 weeks.
-- [ ] **Inability to obtain an undilated fundus view in either eye** despite reasonable attempt. → Named partner pediatric ophthalmology, within 4 weeks for dilated fundus exam.
-- [ ] **Unilateral or asymmetric refractive error suggesting amblyogenic potential** (anisometropia > 1.50 D). → Named partner pediatric ophthalmology, within 4 weeks (concurrent with spectacle correction at B1-01).
+- [ ] **Constant manifest strabismus at any age** (esotropia, exotropia, hypertropia / hypotropia). → SKIDS-T3 pediatric ophthalmology, within 4 weeks. Pseudostrabismus does not refer.
+- [ ] **Intermittent strabismus > 4 months age.** → SKIDS-T3 pediatric ophthalmology, within 4 weeks.
+- [ ] **Refractory convergence insufficiency** — CISS ≥ 16 after 6 weeks of structured §6.2 management; near-point of convergence > 6 cm persistent. → SKIDS-T3 pediatric ophthalmology / specialty optometric vision therapy, within 4 weeks.
+- [ ] **Refractive correction not improving acuity to age cutoff** — possible amblyopia, cataract, retinal pathology. → SKIDS-T3 pediatric ophthalmology, within 4 weeks.
+- [ ] **Progressive myopia not controlled on atropine 0.05%** — progression > 1.00 D / year despite step-up. → SKIDS-T3 pediatric ophthalmology, within 4 weeks. Discussion of higher-concentration atropine, orthokeratology, or multifocal soft contacts.
+- [ ] **High myopia in young child** (> –6.00 D before age 10). → SKIDS-T3 pediatric ophthalmology, within 4 weeks. Retinal-risk surveillance baseline.
+- [ ] **Vernal / atopic / giant-papillary conjunctivitis** — chronic surface disease beyond mild allergic conjunctivitis. → SKIDS-T3 pediatric ophthalmology, within 4 weeks. Combined-care with B1-06 Allergy.
+- [ ] **Persistent chalazion** — > 6 weeks of warm compresses without resolution OR child distress. → SKIDS-T3 pediatric ophthalmology / pedo-ophthalmic plastics, within 4 weeks.
+- [ ] **Recurrent hordeolum / blepharitis** — three episodes within 6 months. → SKIDS-T3 pediatric ophthalmology, within 4 weeks. Underlying systemic cause screen (rosacea, demodex, immunodeficiency).
+- [ ] **Suspected congenital nystagmus or new-onset nystagmus.** → SKIDS-T3 pediatric ophthalmology + pediatric neurology, within 4 weeks.
+- [ ] **Family request for orthokeratology / contact-lens fitting / refractive surgery counselling.** → SKIDS-T3 pediatric optometrist with specialty contact lens / pediatric ophthalmology, within 4 weeks.
+- [ ] **Inability to obtain an undilated fundus view in either eye** despite reasonable attempt. → SKIDS-T3 pediatric ophthalmology, within 4 weeks for dilated fundus exam.
+- [ ] **Unilateral or asymmetric refractive error suggesting amblyogenic potential** (anisometropia > 1.50 D). → SKIDS-T3 pediatric ophthalmology, within 4 weeks (concurrent with spectacle correction at B1-01).
 
 ### 7.4 Handoff communication
 
@@ -535,7 +535,7 @@ When B1-01 fires a §7 referral, the SKIDS pediatrician (or B1-01 optometrist) m
 7. **Bridge interventions started** at the §7 visit (e.g., topical antibiotic for suspected bacterial conjunctivitis pending ophthalmology review).
 8. **Reason for referral, in clinical terms:** one to two sentences from the SKIDS clinician on what they need from the receiving clinician.
 9. **Urgency tier and target window:** §7.1 / §7.2 / §7.3 with the time bound.
-10. **Named partner / clinic** and appointment booking status.
+10. **SKIDS-T3 / clinic** and appointment booking status.
 
 The packet is auto-generated by Companion when the trigger fires. The SKIDS clinician reviews and signs off before transmission. For §7.1 emergencies, the receiving clinician is also called by phone.
 
@@ -898,7 +898,7 @@ B1-01 is working well when:
 - ≥ 80% of children on the myopia-control programme achieve progression < 0.50 D / year by the second 4-monthly review.
 - < 10% of children on atropine 0.05% require step-up to §7.3 within 12 months (primary B1-01 control rate).
 - ≥ 90% of A1 vision Orange flags result in a confirmed B1-01 visit within 4 weeks.
-- 100% of §7.1 emergency triggers result in same-day handoff to the named partner.
+- 100% of §7.1 emergency triggers result in same-day handoff to the SKIDS-T3.
 - ≥ 95% of suspected amblyopia cases (§7.2) attend the pediatric ophthalmology appointment within 7 days.
 - ≥ 85% of allergic conjunctivitis cases achieve symptom control on Mild / Moderate-tier therapy without §7 routing.
 - < 5% of bacterial conjunctivitis cases require second-line antibiotic (first-line empirical resistance / non-response rate).

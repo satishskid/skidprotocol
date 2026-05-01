@@ -419,18 +419,18 @@ Any of these route §7.3 if specialist consideration warranted.
 
 ### 7.1 Emergency referral
 
-- [ ] **Witnessed apnoea with cyanosis or behavioural change** (severe OSA features) at presentation. → Named partner pediatric ER + sleep medicine, within 1 hour.
-- [ ] **Suspected nocturnal seizure activity** — abnormal nocturnal movements suggestive of seizure. → Named partner pediatric ER + neurology, within 1 hour.
+- [ ] **Witnessed apnoea with cyanosis or behavioural change** (severe OSA features) at presentation. → SKIDS-T3 pediatric ER + sleep medicine, within 1 hour.
+- [ ] **Suspected nocturnal seizure activity** — abnormal nocturnal movements suggestive of seizure. → SKIDS-T3 pediatric ER + neurology, within 1 hour.
 
 ### 7.2 Urgent referral (within 7 days)
 
-- [ ] **High-suspicion OSA** — PSQ > 0.33 + oximetry desat < 90% > 5% of recording OR severe clinical features. → Named partner pediatric sleep medicine + ENT for PSG + adenotonsillectomy decision, within 7 days [AAP-2012-OSA].
-- [ ] **Suspected narcolepsy / cataplexy** — excessive daytime sleepiness + cataplectic episodes. → Named partner pediatric sleep medicine, within 7 days.
+- [ ] **High-suspicion OSA** — PSQ > 0.33 + oximetry desat < 90% > 5% of recording OR severe clinical features. → SKIDS-T3 pediatric sleep medicine + ENT for PSG + adenotonsillectomy decision, within 7 days [AAP-2012-OSA].
+- [ ] **Suspected narcolepsy / cataplexy** — excessive daytime sleepiness + cataplectic episodes. → SKIDS-T3 pediatric sleep medicine, within 7 days.
 
 ### 7.3 Routine referral (within 4 weeks)
 
-- [ ] **Refractory insomnia** despite 6 weeks structured §6.2 with adherence. → Named partner pediatric sleep medicine, within 4 weeks.
-- [ ] **Moderate-suspicion OSA** for PSG / ENT evaluation. → Named partner pediatric sleep medicine OR ENT, within 4 weeks.
+- [ ] **Refractory insomnia** despite 6 weeks structured §6.2 with adherence. → SKIDS-T3 pediatric sleep medicine, within 4 weeks.
+- [ ] **Moderate-suspicion OSA** for PSG / ENT evaluation. → SKIDS-T3 pediatric sleep medicine OR ENT, within 4 weeks.
 - [ ] **Complex parasomnia** — frequent sleep terrors, sleep-walking with injury risk, REM-behaviour disorder suspicion, age > 12 with persistent NREM parasomnia. → Pediatric sleep medicine, within 4 weeks.
 - [ ] **Refractory RLS** — no response to iron + sleep hygiene at 12 weeks. → Pediatric neurology / sleep medicine, within 4 weeks.
 - [ ] **Refractory delayed sleep-phase** — no response to §6.2 at 6 weeks. → Pediatric sleep medicine + B1-08, within 4 weeks.
@@ -439,7 +439,7 @@ Any of these route §7.3 if specialist consideration warranted.
 
 ### 7.4 Handoff communication
 
-Standard packet: child ID, trigger, sleep-diary trajectory, scale scores, oximetry data attached, prior interventions, reason, urgency tier, named partner.
+Standard packet: child ID, trigger, sleep-diary trajectory, scale scores, oximetry data attached, prior interventions, reason, urgency tier, SKIDS-T3.
 
 ---
 

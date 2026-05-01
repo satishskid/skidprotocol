@@ -534,31 +534,31 @@ The case escalates out of B1-06's scope when ANY of the following is true:
 
 ### 7.1 Emergency referral (same day, transport directly to ER)
 
-- [ ] **Anaphylaxis at presentation** — airway / breathing / circulatory features with allergen exposure history. → IM adrenaline 0.01 mg/kg (max 0.3 mg) immediately at B1-06; supine position with legs raised; oxygen; IV access if available; transfer to named partner pediatric ER, within 1 hour [WAO-Anaphylaxis-2020]. Adrenaline given EVEN IF the diagnosis is uncertain — undertreated anaphylaxis is the harm-mode.
-- [ ] **Suspected severe drug reaction (SJS / TEN / DRESS)** — mucosal involvement, sloughing, systemic features. → Named partner pediatric ER + pediatric dermatology + pediatric allergy specialist, within 1 hour. Immediate cessation of suspect drug. (Cross-reference with B1-05 §7.1.)
-- [ ] **Suspected hereditary angioedema acute attack** — angioedema without urticaria, especially with abdominal pain or laryngeal involvement. → Named partner pediatric ER, within 1 hour. C1-esterase inhibitor concentrate administered en route if available.
+- [ ] **Anaphylaxis at presentation** — airway / breathing / circulatory features with allergen exposure history. → IM adrenaline 0.01 mg/kg (max 0.3 mg) immediately at B1-06; supine position with legs raised; oxygen; IV access if available; transfer to SKIDS-T3 pediatric ER, within 1 hour [WAO-Anaphylaxis-2020]. Adrenaline given EVEN IF the diagnosis is uncertain — undertreated anaphylaxis is the harm-mode.
+- [ ] **Suspected severe drug reaction (SJS / TEN / DRESS)** — mucosal involvement, sloughing, systemic features. → SKIDS-T3 pediatric ER + pediatric dermatology + pediatric allergy specialist, within 1 hour. Immediate cessation of suspect drug. (Cross-reference with B1-05 §7.1.)
+- [ ] **Suspected hereditary angioedema acute attack** — angioedema without urticaria, especially with abdominal pain or laryngeal involvement. → SKIDS-T3 pediatric ER, within 1 hour. C1-esterase inhibitor concentrate administered en route if available.
 - [ ] **Severe drug-induced anaphylaxis** — beyond skin-only, with airway / breathing / circulatory. → As anaphylaxis emergency above.
-- [ ] **OFC or SPT-induced systemic reaction at B1-06** — in-clinic anaphylaxis from challenge or testing. → IM adrenaline + standard anaphylaxis protocol + transfer to named partner pediatric ER (within network), within 1 hour.
+- [ ] **OFC or SPT-induced systemic reaction at B1-06** — in-clinic anaphylaxis from challenge or testing. → IM adrenaline + standard anaphylaxis protocol + transfer to SKIDS-T3 pediatric ER (within network), within 1 hour.
 
 ### 7.2 Urgent referral (within 7 days)
 
-- [ ] **Severe chronic spontaneous urticaria (UAS7 > 16) refractory to 4× H1-antihistamine** with significant QoL impact. → Named partner pediatric allergy specialist for omalizumab consideration, within 7 days [EAACI-Urticaria-2022].
-- [ ] **Suspected hereditary angioedema (recurrent angioedema without urticaria, family history, abdominal-pain attacks)** with confirmatory C4 / C1-esterase results pending or low. → Named partner pediatric allergy specialist + pediatric immunology, within 7 days.
-- [ ] **Suspected mastocytosis** — persistent flushing, urticaria pigmentosa, anaphylaxis without clear trigger, elevated baseline tryptase. → Named partner pediatric allergy specialist + pediatric haematology / oncology, within 7 days.
-- [ ] **FPIES (Food Protein-Induced Enterocolitis Syndrome) suspected** — repeated severe vomiting / dehydration after specific food exposure, especially in infants. → Named partner pediatric allergy + pediatric GI + B1-09, within 7 days.
-- [ ] **Suspected eosinophilic oesophagitis** — feeding difficulty, dysphagia, food impaction, vomiting in an atopic child. → Named partner pediatric GI for endoscopy + biopsy, within 7 days.
+- [ ] **Severe chronic spontaneous urticaria (UAS7 > 16) refractory to 4× H1-antihistamine** with significant QoL impact. → SKIDS-T3 pediatric allergy specialist for omalizumab consideration, within 7 days [EAACI-Urticaria-2022].
+- [ ] **Suspected hereditary angioedema (recurrent angioedema without urticaria, family history, abdominal-pain attacks)** with confirmatory C4 / C1-esterase results pending or low. → SKIDS-T3 pediatric allergy specialist + pediatric immunology, within 7 days.
+- [ ] **Suspected mastocytosis** — persistent flushing, urticaria pigmentosa, anaphylaxis without clear trigger, elevated baseline tryptase. → SKIDS-T3 pediatric allergy specialist + pediatric haematology / oncology, within 7 days.
+- [ ] **FPIES (Food Protein-Induced Enterocolitis Syndrome) suspected** — repeated severe vomiting / dehydration after specific food exposure, especially in infants. → SKIDS-T3 pediatric allergy + pediatric GI + B1-09, within 7 days.
+- [ ] **Suspected eosinophilic oesophagitis** — feeding difficulty, dysphagia, food impaction, vomiting in an atopic child. → SKIDS-T3 pediatric GI for endoscopy + biopsy, within 7 days.
 
 ### 7.3 Routine referral (next available appointment, ≤ 4 weeks)
 
-- [ ] **Refractory allergic rhinitis** — moderate-severe persistent symptoms despite 12 weeks of optimised §6.3 with documented adherence. → Named partner pediatric allergy specialist OR pediatric ENT (for nasal endoscopy / polyposis surveillance), within 4 weeks.
-- [ ] **Multiple food allergy** — ≥ 3 confirmed food allergens with overlapping risk OR rapidly evolving polysensitisation. → Named partner pediatric allergy specialist for OIT candidacy assessment + comprehensive avoidance planning, within 4 weeks.
-- [ ] **Oral immunotherapy (OIT) candidacy** — family request for OIT for peanut / tree-nut / milk / egg. → Named partner pediatric allergy specialist with OIT programme, within 4 weeks. B1-06 does not initiate OIT.
-- [ ] **High-risk OFC indication** — peanut / tree-nut / fish / shellfish OFC OR any OFC in child with prior anaphylaxis OR high-positive sIgE. → Named partner pediatric allergy specialist with OFC infrastructure, within 4 weeks.
-- [ ] **Insect venom anaphylaxis history** for venom-immunotherapy candidacy. → Named partner pediatric allergy specialist, within 4 weeks.
-- [ ] **Polysensitisation aeroallergen** beyond monosensitised SLIT scope OR SCIT candidacy. → Named partner pediatric allergy specialist, within 4 weeks.
-- [ ] **Suspected primary immunodeficiency** with allergic-disease comorbidity. → Named partner pediatric immunology + B1-19 Infections cross-care, within 4 weeks.
-- [ ] **Drug-allergy challenge candidacy** — confirmed allergy where alternative drug class is unavailable / unsuitable AND drug-challenge is needed. → Named partner pediatric allergy specialist with challenge infrastructure, within 4 weeks.
-- [ ] **Patch testing for delayed contact-allergic dermatitis** — refractory contact dermatitis cross-care with B1-05. → Named partner pediatric dermatology / allergy specialist, within 4 weeks.
+- [ ] **Refractory allergic rhinitis** — moderate-severe persistent symptoms despite 12 weeks of optimised §6.3 with documented adherence. → SKIDS-T3 pediatric allergy specialist OR pediatric ENT (for nasal endoscopy / polyposis surveillance), within 4 weeks.
+- [ ] **Multiple food allergy** — ≥ 3 confirmed food allergens with overlapping risk OR rapidly evolving polysensitisation. → SKIDS-T3 pediatric allergy specialist for OIT candidacy assessment + comprehensive avoidance planning, within 4 weeks.
+- [ ] **Oral immunotherapy (OIT) candidacy** — family request for OIT for peanut / tree-nut / milk / egg. → SKIDS-T3 pediatric allergy specialist with OIT programme, within 4 weeks. B1-06 does not initiate OIT.
+- [ ] **High-risk OFC indication** — peanut / tree-nut / fish / shellfish OFC OR any OFC in child with prior anaphylaxis OR high-positive sIgE. → SKIDS-T3 pediatric allergy specialist with OFC infrastructure, within 4 weeks.
+- [ ] **Insect venom anaphylaxis history** for venom-immunotherapy candidacy. → SKIDS-T3 pediatric allergy specialist, within 4 weeks.
+- [ ] **Polysensitisation aeroallergen** beyond monosensitised SLIT scope OR SCIT candidacy. → SKIDS-T3 pediatric allergy specialist, within 4 weeks.
+- [ ] **Suspected primary immunodeficiency** with allergic-disease comorbidity. → SKIDS-T3 pediatric immunology + B1-19 Infections cross-care, within 4 weeks.
+- [ ] **Drug-allergy challenge candidacy** — confirmed allergy where alternative drug class is unavailable / unsuitable AND drug-challenge is needed. → SKIDS-T3 pediatric allergy specialist with challenge infrastructure, within 4 weeks.
+- [ ] **Patch testing for delayed contact-allergic dermatitis** — refractory contact dermatitis cross-care with B1-05. → SKIDS-T3 pediatric dermatology / allergy specialist, within 4 weeks.
 
 ### 7.4 Handoff communication
 
@@ -574,7 +574,7 @@ When B1-06 fires a §7 referral, the SKIDS pediatrician + allergy nurse sends th
 8. **Bridge interventions started.**
 9. **Reason for referral, in clinical terms.**
 10. **Urgency tier and target window.**
-11. **Named partner / clinic** + appointment booking status.
+11. **SKIDS-T3 / clinic** + appointment booking status.
 
 The packet is auto-generated by Companion. Reviewed and signed off. For §7.1 emergencies, phone-call confirmation in addition.
 

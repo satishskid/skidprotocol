@@ -505,35 +505,35 @@ The case escalates out of B1-05's scope when ANY of the following is true:
 
 ### 7.1 Emergency referral (same day, transport directly to ER)
 
-- [ ] **Suspected Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis** — any rash with mucosal involvement (oral, ocular, genital), bullae, sloughing, Nikolsky-positive areas, or suspected drug-induced epidermal detachment. → Named partner pediatric ER + pediatric dermatology consult, within 1 hour. Discontinue all suspect drugs immediately.
-- [ ] **Suspected Staphylococcal Scalded Skin Syndrome** — any age but especially infants/young children with diffuse erythema, fever, sloughing in flexures or peri-orifices. → Named partner pediatric ER, within 1 hour.
-- [ ] **Suspected DRESS** — drug eruption with high fever, lymphadenopathy, eosinophilia, hepatitis, or other organ involvement. → Named partner pediatric ER, within 1 hour. Discontinue suspect drugs.
-- [ ] **Eczema herpeticum suspected** — atopic dermatitis with rapid eruption of monomorphic punched-out vesicles / pustules, often with systemic features (fever, lymphadenopathy). → Named partner pediatric ER for IV aciclovir within 1 hour; do NOT continue topical steroid at the affected site until ruled out.
-- [ ] **Anaphylaxis context** — any child presenting with urticaria + airway / cardiovascular features, or with prior anaphylaxis without an action plan and adrenaline auto-injector. → Named partner pediatric ER + B1-06 Allergy hand-off; adrenaline IM administered same-day if active anaphylaxis.
-- [ ] **Suspected non-accidental injury** — bruise patterns inconsistent with developmental ability or with caregiver explanation; burns with immersion or pattern indicators; unusual cigarette-burn distribution; healed parallel marks suggestive of repeated injury. → Named partner pediatric ER + child-protection referral, within 1 hour. Same retention protocol as A1 §7.1 — child not discharged to suspected-perpetrator caregiver.
-- [ ] **Cellulitis with systemic features** — extending erythema with fever, tachycardia, lethargy, lymphangitic streaks. → Named partner pediatric ER for IV antibiotics within 1 hour [Stevens-2014-IDSA].
-- [ ] **Necrotising fasciitis suspicion** — pain disproportionate to skin findings, rapidly extending erythema, dusky / violaceous discolouration, bullae, crepitus, or systemic toxicity. → Named partner pediatric ER and pediatric surgeon within 1 hour.
-- [ ] **Erythroderma at any age** — confluent erythema covering > 80% body surface area, regardless of suspected cause. → Named partner pediatric ER + pediatric dermatology, within 1 hour.
+- [ ] **Suspected Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis** — any rash with mucosal involvement (oral, ocular, genital), bullae, sloughing, Nikolsky-positive areas, or suspected drug-induced epidermal detachment. → SKIDS-T3 pediatric ER + pediatric dermatology consult, within 1 hour. Discontinue all suspect drugs immediately.
+- [ ] **Suspected Staphylococcal Scalded Skin Syndrome** — any age but especially infants/young children with diffuse erythema, fever, sloughing in flexures or peri-orifices. → SKIDS-T3 pediatric ER, within 1 hour.
+- [ ] **Suspected DRESS** — drug eruption with high fever, lymphadenopathy, eosinophilia, hepatitis, or other organ involvement. → SKIDS-T3 pediatric ER, within 1 hour. Discontinue suspect drugs.
+- [ ] **Eczema herpeticum suspected** — atopic dermatitis with rapid eruption of monomorphic punched-out vesicles / pustules, often with systemic features (fever, lymphadenopathy). → SKIDS-T3 pediatric ER for IV aciclovir within 1 hour; do NOT continue topical steroid at the affected site until ruled out.
+- [ ] **Anaphylaxis context** — any child presenting with urticaria + airway / cardiovascular features, or with prior anaphylaxis without an action plan and adrenaline auto-injector. → SKIDS-T3 pediatric ER + B1-06 Allergy hand-off; adrenaline IM administered same-day if active anaphylaxis.
+- [ ] **Suspected non-accidental injury** — bruise patterns inconsistent with developmental ability or with caregiver explanation; burns with immersion or pattern indicators; unusual cigarette-burn distribution; healed parallel marks suggestive of repeated injury. → SKIDS-T3 pediatric ER + child-protection referral, within 1 hour. Same retention protocol as A1 §7.1 — child not discharged to suspected-perpetrator caregiver.
+- [ ] **Cellulitis with systemic features** — extending erythema with fever, tachycardia, lethargy, lymphangitic streaks. → SKIDS-T3 pediatric ER for IV antibiotics within 1 hour [Stevens-2014-IDSA].
+- [ ] **Necrotising fasciitis suspicion** — pain disproportionate to skin findings, rapidly extending erythema, dusky / violaceous discolouration, bullae, crepitus, or systemic toxicity. → SKIDS-T3 pediatric ER and pediatric surgeon within 1 hour.
+- [ ] **Erythroderma at any age** — confluent erythema covering > 80% body surface area, regardless of suspected cause. → SKIDS-T3 pediatric ER + pediatric dermatology, within 1 hour.
 
 ### 7.2 Urgent referral (within 7 days)
 
-- [ ] **Cellulitis without systemic features** — extending erythema, warmth, lymphadenopathy, no fever / tachycardia. → Named partner pediatric infectious disease / pediatric ER, within 24–48 hours; B1-19 Infections may co-manage if same-network. Empirical oral cephalexin or clindamycin started at B1-05 as a bridge if appointment > 24 hours away.
-- [ ] **Suspected crusted (Norwegian) scabies** — hyperkeratotic plaques with very high mite burden, often in immunocompromised, neurologically impaired, or institutional contacts. → Named partner pediatric dermatology, within 7 days; isolation precautions; combination ivermectin + topical regimen initiated under specialist guidance [CDC-Scabies-2024].
-- [ ] **Hemangioma at high-risk site** — periocular (vision threat), perinasal / airway, perineal (ulceration risk), large facial (>5 cm or PHACES suspicion), multifocal cutaneous (visceral hemangiomatosis screen). → Named partner pediatric dermatology / pedo-ophthalmology / pediatric ENT, within 7 days. Propranolol initiation occurs at the specialist, not at B1-05.
-- [ ] **New-onset purpura without trauma** — palpable purpura suggests vasculitis (HSP, etc.); non-palpable suggests thrombocytopenia (ITP, leukaemia). → Named partner pediatric haematology + same-week B1-18 Blood as a bridge.
-- [ ] **Confirmed BP elevation co-presenting with skin findings** (e.g., neurofibromatosis with hypertension, vasculitis with hypertension). → Named partner pediatric nephrology + B1-17 Kidney & Urology as a bridge; A1's BP-elevation §7 protocol applies.
+- [ ] **Cellulitis without systemic features** — extending erythema, warmth, lymphadenopathy, no fever / tachycardia. → SKIDS-T3 pediatric infectious disease / pediatric ER, within 24–48 hours; B1-19 Infections may co-manage if same-network. Empirical oral cephalexin or clindamycin started at B1-05 as a bridge if appointment > 24 hours away.
+- [ ] **Suspected crusted (Norwegian) scabies** — hyperkeratotic plaques with very high mite burden, often in immunocompromised, neurologically impaired, or institutional contacts. → SKIDS-T3 pediatric dermatology, within 7 days; isolation precautions; combination ivermectin + topical regimen initiated under specialist guidance [CDC-Scabies-2024].
+- [ ] **Hemangioma at high-risk site** — periocular (vision threat), perinasal / airway, perineal (ulceration risk), large facial (>5 cm or PHACES suspicion), multifocal cutaneous (visceral hemangiomatosis screen). → SKIDS-T3 pediatric dermatology / pedo-ophthalmology / pediatric ENT, within 7 days. Propranolol initiation occurs at the specialist, not at B1-05.
+- [ ] **New-onset purpura without trauma** — palpable purpura suggests vasculitis (HSP, etc.); non-palpable suggests thrombocytopenia (ITP, leukaemia). → SKIDS-T3 pediatric haematology + same-week B1-18 Blood as a bridge.
+- [ ] **Confirmed BP elevation co-presenting with skin findings** (e.g., neurofibromatosis with hypertension, vasculitis with hypertension). → SKIDS-T3 pediatric nephrology + B1-17 Kidney & Urology as a bridge; A1's BP-elevation §7 protocol applies.
 
 ### 7.3 Routine referral (next available appointment, ≤ 4 weeks)
 
-- [ ] **Refractory atopic dermatitis** — SCORAD ≥ 40 after 4 weeks of optimised §6.3 with documented adherence and trigger control. → Named partner pediatric dermatology, within 4 weeks. Send: SCORAD trajectory (3 sequential scores), documented therapy with quantities used, adherence assessment, photographs, current regimen, IgE / aeroallergen / food panel results from B1-06 if any [AAD-2014-AD].
-- [ ] **Refractory or scarring acne** — IGA ≥ 3 after 12 weeks of optimised §6.3, OR scarring at presentation, OR ≥ 2 prior 3-month oral antibiotic courses. → Named partner pediatric dermatology for isotretinoin pathway, within 4 weeks. Pregnancy test in adolescent female before referral [AAD-2024-Acne].
-- [ ] **Suspected vitiligo** — confirmed depigmentation (not pityriasis alba). → Named partner pediatric dermatology, within 4 weeks. B1-05 does not initiate vitiligo-specific therapy.
-- [ ] **Café-au-lait macule count meeting NF1 screening criteria** — ≥ 6 macules ≥ 5 mm prepubertal (or ≥ 15 mm postpubertal). → Named partner pediatric neurology / clinical genetics, within 4 weeks [NELSON-21:CH656].
-- [ ] **Pigmented lesion with ABCDE features** — asymmetry, border irregularity, colour variation, diameter > 6 mm with growth, evolving features. → Named partner pediatric dermatology, within 2–4 weeks for dermoscopy and possible biopsy. (Pediatric melanoma is rare but the threshold for referral is low.)
+- [ ] **Refractory atopic dermatitis** — SCORAD ≥ 40 after 4 weeks of optimised §6.3 with documented adherence and trigger control. → SKIDS-T3 pediatric dermatology, within 4 weeks. Send: SCORAD trajectory (3 sequential scores), documented therapy with quantities used, adherence assessment, photographs, current regimen, IgE / aeroallergen / food panel results from B1-06 if any [AAD-2014-AD].
+- [ ] **Refractory or scarring acne** — IGA ≥ 3 after 12 weeks of optimised §6.3, OR scarring at presentation, OR ≥ 2 prior 3-month oral antibiotic courses. → SKIDS-T3 pediatric dermatology for isotretinoin pathway, within 4 weeks. Pregnancy test in adolescent female before referral [AAD-2024-Acne].
+- [ ] **Suspected vitiligo** — confirmed depigmentation (not pityriasis alba). → SKIDS-T3 pediatric dermatology, within 4 weeks. B1-05 does not initiate vitiligo-specific therapy.
+- [ ] **Café-au-lait macule count meeting NF1 screening criteria** — ≥ 6 macules ≥ 5 mm prepubertal (or ≥ 15 mm postpubertal). → SKIDS-T3 pediatric neurology / clinical genetics, within 4 weeks [NELSON-21:CH656].
+- [ ] **Pigmented lesion with ABCDE features** — asymmetry, border irregularity, colour variation, diameter > 6 mm with growth, evolving features. → SKIDS-T3 pediatric dermatology, within 2–4 weeks for dermoscopy and possible biopsy. (Pediatric melanoma is rare but the threshold for referral is low.)
 - [ ] **Recurrent impetigo / SSTI / boils requiring decolonisation protocol or immunological workup** → B1-19 Infections (within SKIDS network; not §7) for the workup, with §7.3 to pediatric immunology only if PID criteria met [B1-19].
-- [ ] **Suspected genodermatosis** — ichthyoses, epidermolysis bullosa suggestive findings, neurocutaneous syndromes (TS, NF, Sturge-Weber). → Named partner pediatric dermatology + clinical genetics, within 4 weeks.
-- [ ] **Connective tissue disease cutaneous findings** — discoid rash, malar rash, dermatomyositis-pattern findings, scleroderma-pattern. → Named partner pediatric rheumatology (or B2-03 if available), within 4 weeks; B1-05 does not manage CTD skin findings beyond initial assessment.
-- [ ] **Cosmetic or psychosocial-priority referral** — keloid scarring after acne resolution; significant facial PIH causing distress; congenital nevus removal request from family. → Named partner pediatric dermatology / pedoderm cosmetic procedure, within 4–8 weeks. Joint-care with B1-13 Adolescent for psychosocial dimension.
+- [ ] **Suspected genodermatosis** — ichthyoses, epidermolysis bullosa suggestive findings, neurocutaneous syndromes (TS, NF, Sturge-Weber). → SKIDS-T3 pediatric dermatology + clinical genetics, within 4 weeks.
+- [ ] **Connective tissue disease cutaneous findings** — discoid rash, malar rash, dermatomyositis-pattern findings, scleroderma-pattern. → SKIDS-T3 pediatric rheumatology (or B2-03 if available), within 4 weeks; B1-05 does not manage CTD skin findings beyond initial assessment.
+- [ ] **Cosmetic or psychosocial-priority referral** — keloid scarring after acne resolution; significant facial PIH causing distress; congenital nevus removal request from family. → SKIDS-T3 pediatric dermatology / pedoderm cosmetic procedure, within 4–8 weeks. Joint-care with B1-13 Adolescent for psychosocial dimension.
 
 ### 7.4 Handoff communication
 
@@ -549,7 +549,7 @@ When B1-05 fires a §7 referral, the SKIDS pediatrician must send the receiving 
 8. **Bridge interventions started:** any therapy initiated at the §7 visit pending the appointment (e.g., oral cephalexin started for cellulitis pending pediatric-ID review).
 9. **Reason for referral, in clinical terms:** one or two sentences from the SKIDS pediatrician on what they need from the receiving clinician.
 10. **Urgency tier and target window:** §7.1 / §7.2 / §7.3 with the time bound.
-11. **Named partner / clinic** and appointment booking status.
+11. **SKIDS-T3 / clinic** and appointment booking status.
 
 The packet is auto-generated by Companion when the trigger fires. The SKIDS pediatrician reviews and signs off before transmission. For §7.1, the receiving clinician is also called by phone — the Companion packet records, but does not substitute for, the verbal handoff.
 
@@ -946,7 +946,7 @@ B1-05 is working well when:
 - ≥ 80% of Moderate / Severe acne cases achieve IGA reduction ≥ 1 grade by week 12.
 - < 5% of all oral antibiotic courses extend beyond 12 weeks (acne) or beyond 8 weeks (tinea capitis) — antimicrobial-stewardship metric.
 - 100% of high-potency topical steroid prescriptions (betamethasone valerate or higher) are reviewed at the next §12 quarterly audit; clinically appropriate use rate ≥ 95%.
-- 100% of §7.1 emergency triggers result in same-day handoff to the named partner.
+- 100% of §7.1 emergency triggers result in same-day handoff to the SKIDS-T3.
 - ≥ 95% of refractory AD / acne (§7.3) referrals attend the pediatric dermatology appointment within the protocol-specified window.
 - Steroid-phobia-related under-treatment (operationalised as: families dispensed < 100 g emollient/month for moderate AD or skipping topical steroid in > 50% of prescribed days at adherence assessment) is addressed in ≥ 80% of identified cases by re-counselling or reassessment within 2 weeks. [NEEDS EXPANSION IN EDITORIAL PASS — confirm operational threshold with clinical operations]
 

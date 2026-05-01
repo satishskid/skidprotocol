@@ -555,35 +555,35 @@ The case escalates out of B1-09's scope when ANY of the following is true:
 
 ### 7.1 Emergency referral (same day, transport directly to inpatient unit)
 
-- [ ] **Severe acute malnutrition** — MUAC < 11.5 cm OR weight-for-height < −3 SD OR bilateral pitting oedema (kwashiorkor pattern). → Named partner SAM ward / pediatric inpatient unit within 4 hours [WHO-SAM-2013]. SKIDS does not deliver outpatient-therapeutic-programme SAM management at Tier 1; this is a hard out-of-scope trigger.
-- [ ] **Severe anaemia with haemodynamic compromise** — Hb < 7 g/dL with tachycardia disproportionate to age + capillary refill > 3s; OR Hb < 5 g/dL at any presentation. → Named partner pediatric inpatient unit with transfusion capacity, within 4 hours [WHO-2011-Anaemia].
-- [ ] **Vitamin A deficiency with corneal involvement** — corneal xerosis, corneal ulceration, suspected keratomalacia. → Named partner pediatric ophthalmology, within 1 hour, with simultaneous IM high-dose vitamin A administered en route if available.
-- [ ] **Newborn with weight loss > 10% birth weight + feeding failure** — overlapping with A1 §7.1 newborn red flags. → Named partner neonatal unit within 4 hours.
-- [ ] **Suspected refeeding syndrome** — in any child being fed after a period of starvation, signs of cardiac, respiratory, or neurological deterioration after refeeding initiation. → Named partner pediatric inpatient unit within 1 hour.
-- [ ] **Suspected new-onset diabetes mellitus** — POC capillary glucose ≥ 200 mg/dL with weight loss and polyuria / polydipsia, OR signs of DKA. → Named partner pediatric ER (overlap with A1 §7.2 / B2-01 if available).
-- [ ] **Suspected child neglect / food insecurity contributing to growth failure** — caregiver disclosure, environmental signs, severely deficient food access at household level. → Named partner pediatric ER + child-protection authority + B1-09 nutrition rehabilitation under ongoing safeguarding supervision.
+- [ ] **Severe acute malnutrition** — MUAC < 11.5 cm OR weight-for-height < −3 SD OR bilateral pitting oedema (kwashiorkor pattern). → SKIDS-T3 SAM ward / pediatric inpatient unit within 4 hours [WHO-SAM-2013]. SKIDS does not deliver outpatient-therapeutic-programme SAM management at Tier 1; this is a hard out-of-scope trigger.
+- [ ] **Severe anaemia with haemodynamic compromise** — Hb < 7 g/dL with tachycardia disproportionate to age + capillary refill > 3s; OR Hb < 5 g/dL at any presentation. → SKIDS-T3 pediatric inpatient unit with transfusion capacity, within 4 hours [WHO-2011-Anaemia].
+- [ ] **Vitamin A deficiency with corneal involvement** — corneal xerosis, corneal ulceration, suspected keratomalacia. → SKIDS-T3 pediatric ophthalmology, within 1 hour, with simultaneous IM high-dose vitamin A administered en route if available.
+- [ ] **Newborn with weight loss > 10% birth weight + feeding failure** — overlapping with A1 §7.1 newborn red flags. → SKIDS-T3 neonatal unit within 4 hours.
+- [ ] **Suspected refeeding syndrome** — in any child being fed after a period of starvation, signs of cardiac, respiratory, or neurological deterioration after refeeding initiation. → SKIDS-T3 pediatric inpatient unit within 1 hour.
+- [ ] **Suspected new-onset diabetes mellitus** — POC capillary glucose ≥ 200 mg/dL with weight loss and polyuria / polydipsia, OR signs of DKA. → SKIDS-T3 pediatric ER (overlap with A1 §7.2 / B2-01 if available).
+- [ ] **Suspected child neglect / food insecurity contributing to growth failure** — caregiver disclosure, environmental signs, severely deficient food access at household level. → SKIDS-T3 pediatric ER + child-protection authority + B1-09 nutrition rehabilitation under ongoing safeguarding supervision.
 
 ### 7.2 Urgent referral (within 7 days)
 
-- [ ] **Hb 5–7 g/dL without haemodynamic compromise.** → Named partner pediatric haematology + same-week B1-18 Blood [WHO-2011-Anaemia].
-- [ ] **Suspected pediatric malignancy presenting as growth failure with B-symptoms** — unexplained pallor + weight loss + lymphadenopathy + hepatosplenomegaly + bone pain. → Named partner pediatric oncology + same-week B1-18 Blood as bridge.
-- [ ] **Suspected primary endocrine cause of growth failure** with biochemistry already supporting (TSH abnormal, growth velocity < −2 SD, bone age severely advanced or delayed, dysmorphic features). → Named partner pediatric endocrinology (or B2-01 Endocrine if available) within 7 days.
-- [ ] **Suspected eating disorder** with rapid weight loss, electrolyte abnormality, bradycardia, postural hypotension, or psychiatric crisis features. → Named partner pediatric psychiatry + pediatric medicine, within 7 days.
-- [ ] **Suspected coeliac disease with active diarrhoea + weight loss** — anti-tTG IgA positive at high titre + clinical features. → Named partner pediatric gastroenterology + B1-15 GI as bridge, within 7 days.
+- [ ] **Hb 5–7 g/dL without haemodynamic compromise.** → SKIDS-T3 pediatric haematology + same-week B1-18 Blood [WHO-2011-Anaemia].
+- [ ] **Suspected pediatric malignancy presenting as growth failure with B-symptoms** — unexplained pallor + weight loss + lymphadenopathy + hepatosplenomegaly + bone pain. → SKIDS-T3 pediatric oncology + same-week B1-18 Blood as bridge.
+- [ ] **Suspected primary endocrine cause of growth failure** with biochemistry already supporting (TSH abnormal, growth velocity < −2 SD, bone age severely advanced or delayed, dysmorphic features). → SKIDS-T3 pediatric endocrinology (or B2-01 Endocrine if available) within 7 days.
+- [ ] **Suspected eating disorder** with rapid weight loss, electrolyte abnormality, bradycardia, postural hypotension, or psychiatric crisis features. → SKIDS-T3 pediatric psychiatry + pediatric medicine, within 7 days.
+- [ ] **Suspected coeliac disease with active diarrhoea + weight loss** — anti-tTG IgA positive at high titre + clinical features. → SKIDS-T3 pediatric gastroenterology + B1-15 GI as bridge, within 7 days.
 
 ### 7.3 Routine referral (next available appointment, ≤ 4 weeks)
 
-- [ ] **Refractory growth faltering** — no catch-up after 12 weeks of structured §6.2 with documented adherence and no apparent organic cause identified at B1-09 baseline workup. → Named partner pediatric gastroenterology + pediatric endocrinology, within 4 weeks. Send: anthropometry trajectory, dietary recall, full workup results (CBC, ferritin, 25-OH-D, B12, TSH, urinalysis, stool, coeliac serology).
-- [ ] **Pathological short stature workup** — height < −2 SD with growth velocity < −1 SD per year, OR height < −3 SD, OR significant divergence from mid-parental height target. → Named partner pediatric endocrinology (or B2-01), within 4 weeks. Send: growth history, parental heights, bone age, baseline TSH and IGF-1 if available.
-- [ ] **Suspected eating disorder (SCOFF positive without crisis features)** — adolescent with restrictive eating, body-image concerns, BMI dropping but stable, no electrolyte abnormality. → Named partner pediatric psychiatry + B1-08 Behavioural + B1-13 Adolescent within 4 weeks.
-- [ ] **Suspected coeliac disease** without active crisis — anti-tTG IgA elevated. → Named partner pediatric gastroenterology, within 4 weeks. Do not initiate gluten-free diet at B1-09 before confirmatory biopsy.
-- [ ] **Suspected inflammatory bowel disease** — chronic GI symptoms + growth failure + family history or other systemic features. → Named partner pediatric gastroenterology + B1-15 GI, within 4 weeks.
-- [ ] **Suspected cystic fibrosis** in any child with chronic respiratory + GI + growth-failure pattern. → Named partner pediatric pulmonology / cystic-fibrosis centre + B1-14 Pulmonology, within 4 weeks.
-- [ ] **Suspected metabolic disease** in any unexplained growth-failure pattern with metabolic decompensation history, organomegaly, or developmental regression. → Named partner pediatric metabolic clinic / clinical genetics, within 4 weeks.
-- [ ] **Refractory CMPA** — symptoms persisting on eHF or recurring on re-introduction across 12 months. → Named partner pediatric allergy / GI + B1-06 / B1-15 within 4 weeks.
+- [ ] **Refractory growth faltering** — no catch-up after 12 weeks of structured §6.2 with documented adherence and no apparent organic cause identified at B1-09 baseline workup. → SKIDS-T3 pediatric gastroenterology + pediatric endocrinology, within 4 weeks. Send: anthropometry trajectory, dietary recall, full workup results (CBC, ferritin, 25-OH-D, B12, TSH, urinalysis, stool, coeliac serology).
+- [ ] **Pathological short stature workup** — height < −2 SD with growth velocity < −1 SD per year, OR height < −3 SD, OR significant divergence from mid-parental height target. → SKIDS-T3 pediatric endocrinology (or B2-01), within 4 weeks. Send: growth history, parental heights, bone age, baseline TSH and IGF-1 if available.
+- [ ] **Suspected eating disorder (SCOFF positive without crisis features)** — adolescent with restrictive eating, body-image concerns, BMI dropping but stable, no electrolyte abnormality. → SKIDS-T3 pediatric psychiatry + B1-08 Behavioural + B1-13 Adolescent within 4 weeks.
+- [ ] **Suspected coeliac disease** without active crisis — anti-tTG IgA elevated. → SKIDS-T3 pediatric gastroenterology, within 4 weeks. Do not initiate gluten-free diet at B1-09 before confirmatory biopsy.
+- [ ] **Suspected inflammatory bowel disease** — chronic GI symptoms + growth failure + family history or other systemic features. → SKIDS-T3 pediatric gastroenterology + B1-15 GI, within 4 weeks.
+- [ ] **Suspected cystic fibrosis** in any child with chronic respiratory + GI + growth-failure pattern. → SKIDS-T3 pediatric pulmonology / cystic-fibrosis centre + B1-14 Pulmonology, within 4 weeks.
+- [ ] **Suspected metabolic disease** in any unexplained growth-failure pattern with metabolic decompensation history, organomegaly, or developmental regression. → SKIDS-T3 pediatric metabolic clinic / clinical genetics, within 4 weeks.
+- [ ] **Refractory CMPA** — symptoms persisting on eHF or recurring on re-introduction across 12 months. → SKIDS-T3 pediatric allergy / GI + B1-06 / B1-15 within 4 weeks.
 - [ ] **Severe behavioural-feeding difficulty** — no improvement after 12 weeks structured §6.2, OR sensory / oral-motor difficulty suspected. → Named multidisciplinary feeding clinic (pediatric GI + speech-language / feeding therapy + occupational therapy), within 4 weeks.
-- [ ] **Vitamin D deficiency with significant bony deformity** — bowing, frontal bossing severe, fractures. → Named partner pediatric orthopaedics + endocrinology, within 4 weeks.
-- [ ] **B12 deficiency with persistent neurological symptoms despite replacement.** → Named partner pediatric neurology, within 4 weeks.
+- [ ] **Vitamin D deficiency with significant bony deformity** — bowing, frontal bossing severe, fractures. → SKIDS-T3 pediatric orthopaedics + endocrinology, within 4 weeks.
+- [ ] **B12 deficiency with persistent neurological symptoms despite replacement.** → SKIDS-T3 pediatric neurology, within 4 weeks.
 
 ### 7.4 Handoff communication
 
@@ -600,7 +600,7 @@ When B1-09 fires a §7 referral, the SKIDS pediatrician (with dietitian input) s
 9. **Bridge interventions started** (e.g., empirical iron pending haematology review for severe IDA).
 10. **Reason for referral, in clinical terms:** one to two sentences from the SKIDS clinician on what they need from the receiving clinician.
 11. **Urgency tier and target window:** §7.1 / §7.2 / §7.3 with the time bound.
-12. **Named partner / clinic** and appointment booking status.
+12. **SKIDS-T3 / clinic** and appointment booking status.
 
 The packet is auto-generated by Companion; clinician reviews and signs off. For §7.1 emergencies, phone-call confirmation in addition to the packet.
 

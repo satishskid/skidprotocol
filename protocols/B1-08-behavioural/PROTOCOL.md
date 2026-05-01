@@ -548,38 +548,38 @@ The case escalates out of B1-08's scope when ANY of the following is true:
 
 ### 7.1 Emergency referral (same day, transport directly to ER or LISSUN-pre-notified named pediatric psychiatry crisis arm)
 
-- [ ] **Active suicidality** — direct disclosure during HEEADSSS or open conversation OR PHQ-A item 9 positive at any total PHQ-A score OR caregiver-reported plan / intent / prior attempt within last 4 weeks. → Named partner pediatric ER with mental-health capacity, with LISSUN psychiatrist pre-notified, within the same day. Adolescent does not leave SKIDS clinic unaccompanied; clinic protocol mandates adult caregiver hand-off or direct ambulance transfer. Same retention protocol as A1 §7.1 [AAP-Suicide-2024].
-- [ ] **Active psychotic features** — hallucinations (auditory, visual, command), delusions, disorganised thinking, paranoid ideation. → Named partner pediatric ER + pediatric psychiatry, within 1 hour.
-- [ ] **Active mania / hypomania** — decreased need for sleep + grandiosity + pressured speech + risky behaviour OR clear bipolar features. → Named partner pediatric psychiatry / pediatric ER, within 4 hours.
-- [ ] **Severe self-harm** — recent or active cutting / burning with significant tissue injury OR repeated severe self-harm despite prior intervention. → Named partner pediatric ER + LISSUN trauma / safety planning, within 4 hours.
+- [ ] **Active suicidality** — direct disclosure during HEEADSSS or open conversation OR PHQ-A item 9 positive at any total PHQ-A score OR caregiver-reported plan / intent / prior attempt within last 4 weeks. → SKIDS-T3 pediatric ER with mental-health capacity, with LISSUN psychiatrist pre-notified, within the same day. Adolescent does not leave SKIDS clinic unaccompanied; clinic protocol mandates adult caregiver hand-off or direct ambulance transfer. Same retention protocol as A1 §7.1 [AAP-Suicide-2024].
+- [ ] **Active psychotic features** — hallucinations (auditory, visual, command), delusions, disorganised thinking, paranoid ideation. → SKIDS-T3 pediatric ER + pediatric psychiatry, within 1 hour.
+- [ ] **Active mania / hypomania** — decreased need for sleep + grandiosity + pressured speech + risky behaviour OR clear bipolar features. → SKIDS-T3 pediatric psychiatry / pediatric ER, within 4 hours.
+- [ ] **Severe self-harm** — recent or active cutting / burning with significant tissue injury OR repeated severe self-harm despite prior intervention. → SKIDS-T3 pediatric ER + LISSUN trauma / safety planning, within 4 hours.
 - [ ] **Disclosure of ongoing abuse or exploitation** — sexual, physical, emotional, trafficking. → Named child-protection authority + named pediatric ER + LISSUN within the same day. Same retention protocol as A1 §7.1 — child not discharged to suspected-perpetrator caregiver.
-- [ ] **Substance use acute intoxication or withdrawal** in the visit. → Named partner pediatric ER, within 1 hour.
-- [ ] **Severe eating disorder with crisis features** — bradycardia, postural hypotension, electrolyte disturbance, syncope, or cardiac compromise from restrictive eating. → Named partner pediatric ER + pediatric psychiatry, within 1 hour. Cross-reference with B1-09 §7.2 + B1-13.
-- [ ] **Acute behavioural change with neurological features** — recent-onset confusion, focal weakness, abnormal movements, seizure-like activity, abnormal pupillary response. → Named partner pediatric ER + pediatric neurology, within 1 hour. Possible autoimmune encephalitis or other medical cause of behavioural change.
-- [ ] **Acute aggression with risk to self or others** — imminent risk in clinic. → Named partner pediatric ER + LISSUN crisis arm + safety personnel, immediately. Clinic-policy de-escalation protocol applies.
+- [ ] **Substance use acute intoxication or withdrawal** in the visit. → SKIDS-T3 pediatric ER, within 1 hour.
+- [ ] **Severe eating disorder with crisis features** — bradycardia, postural hypotension, electrolyte disturbance, syncope, or cardiac compromise from restrictive eating. → SKIDS-T3 pediatric ER + pediatric psychiatry, within 1 hour. Cross-reference with B1-09 §7.2 + B1-13.
+- [ ] **Acute behavioural change with neurological features** — recent-onset confusion, focal weakness, abnormal movements, seizure-like activity, abnormal pupillary response. → SKIDS-T3 pediatric ER + pediatric neurology, within 1 hour. Possible autoimmune encephalitis or other medical cause of behavioural change.
+- [ ] **Acute aggression with risk to self or others** — imminent risk in clinic. → SKIDS-T3 pediatric ER + LISSUN crisis arm + safety personnel, immediately. Clinic-policy de-escalation protocol applies.
 
 ### 7.2 Urgent referral (within 7 days)
 
-- [ ] **Severe depression (PHQ-A 20–27)** without active suicidality. → Named partner pediatric psychiatry + LISSUN psychiatrist, within 7 days. SSRI may be initiated at B1-08 as a bridge.
-- [ ] **Severe anxiety (GAD-7 15–21) not responding to optimised §6.2 at 6 weeks.** → Named partner pediatric psychiatry, within 7 days.
-- [ ] **Suspected pediatric bipolar disorder** — clear hypomanic / manic episode in history. → Named partner pediatric psychiatry, within 7 days. Do not initiate antidepressant in suspected bipolar without psychiatry input (mania-induction risk).
-- [ ] **Adolescent eating disorder with rapid weight loss but no crisis features** — joint with B1-09 §7.2 + B1-13. → Named partner pediatric psychiatry within 7 days.
-- [ ] **Severe substance use disorder** — daily use, dependence features, withdrawal pattern. → Named partner pediatric psychiatry / addiction medicine within 7 days. Adolescent privacy framework applies for SUD disclosure handling.
-- [ ] **Severe disruptive / conduct disorder** — cruelty to animals, fire-setting, theft, severe aggression, inability of family to manage safely. → Named partner pediatric psychiatry + LISSUN family-therapy arm, within 7 days.
-- [ ] **Acute behavioural deterioration during established management** — sudden worsening on a stable regimen, especially with new medication or new psychosocial event. → Named partner pediatric psychiatry, within 7 days. Reassess for missed precipitant.
+- [ ] **Severe depression (PHQ-A 20–27)** without active suicidality. → SKIDS-T3 pediatric psychiatry + LISSUN psychiatrist, within 7 days. SSRI may be initiated at B1-08 as a bridge.
+- [ ] **Severe anxiety (GAD-7 15–21) not responding to optimised §6.2 at 6 weeks.** → SKIDS-T3 pediatric psychiatry, within 7 days.
+- [ ] **Suspected pediatric bipolar disorder** — clear hypomanic / manic episode in history. → SKIDS-T3 pediatric psychiatry, within 7 days. Do not initiate antidepressant in suspected bipolar without psychiatry input (mania-induction risk).
+- [ ] **Adolescent eating disorder with rapid weight loss but no crisis features** — joint with B1-09 §7.2 + B1-13. → SKIDS-T3 pediatric psychiatry within 7 days.
+- [ ] **Severe substance use disorder** — daily use, dependence features, withdrawal pattern. → SKIDS-T3 pediatric psychiatry / addiction medicine within 7 days. Adolescent privacy framework applies for SUD disclosure handling.
+- [ ] **Severe disruptive / conduct disorder** — cruelty to animals, fire-setting, theft, severe aggression, inability of family to manage safely. → SKIDS-T3 pediatric psychiatry + LISSUN family-therapy arm, within 7 days.
+- [ ] **Acute behavioural deterioration during established management** — sudden worsening on a stable regimen, especially with new medication or new psychosocial event. → SKIDS-T3 pediatric psychiatry, within 7 days. Reassess for missed precipitant.
 
 ### 7.3 Routine referral (next available appointment, ≤ 4 weeks)
 
-- [ ] **M-CHAT-R/F positive (score ≥ 8 OR follow-up F-positive)** for formal autism diagnostic assessment. → Named partner developmental-behavioural pediatrics OR pediatric psychiatry with autism expertise, within 4 weeks.
-- [ ] **Refractory ADHD** — not responding to 12 weeks of optimised §6.2 / §6.3 (behavioural + first-line stimulant + alternative); OR significant comorbidity exceeding scope (autism + ADHD + intellectual disability; ADHD + suspected mood / psychosis); OR dose escalation reaching ceiling without response. → Named partner DBP / pediatric psychiatry, within 4 weeks.
-- [ ] **OCD moderate-severe** — Y-BOCS-CY ≥ 16 or significant functional impairment. → Named partner pediatric psychiatry, within 4 weeks.
-- [ ] **Tic disorder moderate-severe / Tourette syndrome suspicion** — multiple motor + vocal tics > 1 year OR significant functional / psychosocial impact. → Named partner pediatric neurology (or B2-02 if available), within 4 weeks.
-- [ ] **Persistent functional impairment despite 12 weeks of LISSUN therapy** at the indicated severity tier. → Named partner pediatric psychiatry, within 4 weeks.
-- [ ] **Suspected complex trauma / PTSD requiring trauma-specialist therapy** beyond LISSUN brief-CBT scope. → Named partner pediatric psychiatry / LISSUN trauma-specialist therapist (TF-CBT-certified), within 4 weeks.
-- [ ] **Suspected intellectual disability OR significant cognitive impairment** affecting management of behavioural presentation. → Named partner DBP / clinical psychology for cognitive assessment (WISC), within 4 weeks. Cross with B1-12 Learning.
-- [ ] **Suspected pediatric epilepsy** with behavioural presentation (e.g., absence seizures presenting as inattention; possible benign rolandic epilepsy). → Named partner pediatric neurology (or B2-02), within 4 weeks. Do not start ADHD medication until epilepsy ruled out.
+- [ ] **M-CHAT-R/F positive (score ≥ 8 OR follow-up F-positive)** for formal autism diagnostic assessment. → SKIDS-T3 developmental-behavioural pediatrics OR pediatric psychiatry with autism expertise, within 4 weeks.
+- [ ] **Refractory ADHD** — not responding to 12 weeks of optimised §6.2 / §6.3 (behavioural + first-line stimulant + alternative); OR significant comorbidity exceeding scope (autism + ADHD + intellectual disability; ADHD + suspected mood / psychosis); OR dose escalation reaching ceiling without response. → SKIDS-T3 DBP / pediatric psychiatry, within 4 weeks.
+- [ ] **OCD moderate-severe** — Y-BOCS-CY ≥ 16 or significant functional impairment. → SKIDS-T3 pediatric psychiatry, within 4 weeks.
+- [ ] **Tic disorder moderate-severe / Tourette syndrome suspicion** — multiple motor + vocal tics > 1 year OR significant functional / psychosocial impact. → SKIDS-T3 pediatric neurology (or B2-02 if available), within 4 weeks.
+- [ ] **Persistent functional impairment despite 12 weeks of LISSUN therapy** at the indicated severity tier. → SKIDS-T3 pediatric psychiatry, within 4 weeks.
+- [ ] **Suspected complex trauma / PTSD requiring trauma-specialist therapy** beyond LISSUN brief-CBT scope. → SKIDS-T3 pediatric psychiatry / LISSUN trauma-specialist therapist (TF-CBT-certified), within 4 weeks.
+- [ ] **Suspected intellectual disability OR significant cognitive impairment** affecting management of behavioural presentation. → SKIDS-T3 DBP / clinical psychology for cognitive assessment (WISC), within 4 weeks. Cross with B1-12 Learning.
+- [ ] **Suspected pediatric epilepsy** with behavioural presentation (e.g., absence seizures presenting as inattention; possible benign rolandic epilepsy). → SKIDS-T3 pediatric neurology (or B2-02), within 4 weeks. Do not start ADHD medication until epilepsy ruled out.
 - [ ] **Family / caregiver mental health emergency** — primary caregiver with active psychiatric crisis. → Named adult psychiatric care + child-safeguarding assessment + family-support planning, within 4 weeks.
-- [ ] **Family request for second opinion** — appropriately granted and supported. → Named partner pediatric psychiatry / DBP, within 4 weeks.
+- [ ] **Family request for second opinion** — appropriately granted and supported. → SKIDS-T3 pediatric psychiatry / DBP, within 4 weeks.
 
 ### 7.4 Handoff communication
 
@@ -596,7 +596,7 @@ When B1-08 fires a §7 referral, the SKIDS pediatrician + LISSUN-side clinical l
 9. **Safety plan documented** (for any §7.1 referral): collaborative safety plan (Stanley-Brown model) content, lethal-means counselling done, parent agreed to means restriction (medications locked away, etc.).
 10. **Reason for referral:** one to two sentences.
 11. **Urgency tier and target window:** §7.1 / §7.2 / §7.3 with the time bound.
-12. **Named partner / clinic** + appointment booking status.
+12. **SKIDS-T3 / clinic** + appointment booking status.
 13. **LISSUN therapist note** where therapy already engaged — sessions completed, treatment focus, formulation summary.
 
 The packet is auto-generated by Companion. SKIDS clinician reviews and signs off. For §7.1 emergencies, phone-call confirmation in addition to the packet, and for suicidality §7.1 specifically, LISSUN psychiatrist is pre-notified to receive the case.

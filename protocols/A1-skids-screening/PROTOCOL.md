@@ -435,35 +435,35 @@ The case escalates out of A1's scope when ANY of the following is true:
 
 ### 7.1 Emergency referral (same day, transport directly to ER)
 
-- [ ] **Suspected non-accidental injury (NAI) at any age.** Bruising in non-mobile infants, bruising in protected sites (back, ears, neck, genitals, frenulum), torus or metaphyseal fractures on incidental imaging, injury inconsistent with developmental ability, or caregiver disclosure suggestive. → Named partner pediatric ER + child-protection referral within the same hour. SKIDS pediatrician does not discharge the child to the suspected-perpetrator caregiver; clinic protocol is to retain the child within the clinic environment until ER transfer is effected. [NEEDS EXPANSION IN EDITORIAL PASS — confirm SKIDS clinic legal/operational protocol for child-protection retention with Dr. Rath]
-- [ ] **Active suicidal ideation (PHQ-A item 9 positive, or direct disclosure during HEEADSSS).** → Named partner pediatric ER with mental-health capacity, with LISSUN consultant pre-notified, within the same day. Adolescent does not leave SKIDS clinic unaccompanied; clinic protocol mandates adult caregiver hand-off or direct ambulance transfer to the named ER.
-- [ ] **Severe acute malnutrition (MUAC < 11.5 cm OR weight-for-height < −3 SD with bilateral pitting oedema).** → Named partner pediatric inpatient unit / WHO-protocol SAM ward within 4 hours [WHO-2024-Growth].
-- [ ] **Severe acute respiratory distress** at the screening visit (RR > age-percentile severe threshold, retractions, grunting, SpO₂ < 92% on room air at sea level). → Named partner pediatric ER within 1 hour. A1 is paused, acute-visit workflow takes over.
-- [ ] **Newborn with concerning vital signs** at the first SKIDS visit (temperature instability, jaundice in first 24 hours, lethargy, poor feeding with weight loss > 10% birth weight). → Named partner neonatal unit within 4 hours.
-- [ ] **Acute neurological event** witnessed or strongly suspected (active seizure, sustained altered consciousness, focal weakness of new onset, signs of raised ICP). → Named partner pediatric ER within 1 hour.
-- [ ] **Confirmed Hb < 5 g/dL** or signs of haemodynamic compromise at any Hb level (tachycardia at rest disproportionate to age, pallor with capillary refill > 3 seconds). → Named partner pediatric inpatient unit with transfusion capacity within 4 hours [WHO-2011-Anaemia].
-- [ ] **Suspected meningitis or sepsis** (any age) — fever with petechial rash, fever with altered consciousness, neck stiffness in a child old enough to demonstrate it. → Named partner pediatric ER within 1 hour.
-- [ ] **Suspected sexual abuse** disclosed at A1, regardless of timing. → Named partner pediatric ER + child-protection referral within the same hour. Same retention protocol as NAI above.
-- [ ] **Anaphylaxis history without an action plan and adrenaline auto-injector**, presenting in a child whose dietary or environmental risk has not been assessed. → Same-day routing to B1-06 Allergy is not sufficient if the family has had a recent anaphylaxis event. Send to named partner pediatric allergy specialist or pediatric ER for action-plan + adrenaline immediately.
+- [ ] **Suspected non-accidental injury (NAI) at any age.** Bruising in non-mobile infants, bruising in protected sites (back, ears, neck, genitals, frenulum), torus or metaphyseal fractures on incidental imaging, injury inconsistent with developmental ability, or caregiver disclosure suggestive. → SKIDS-T3 pediatric ER + child-protection referral within the same hour. SKIDS pediatrician does not discharge the child to the suspected-perpetrator caregiver; clinic protocol is to retain the child within the clinic environment until ER transfer is effected. [NEEDS EXPANSION IN EDITORIAL PASS — confirm SKIDS clinic legal/operational protocol for child-protection retention with Dr. Rath]
+- [ ] **Active suicidal ideation (PHQ-A item 9 positive, or direct disclosure during HEEADSSS).** → SKIDS-T3 pediatric ER with mental-health capacity, with LISSUN consultant pre-notified, within the same day. Adolescent does not leave SKIDS clinic unaccompanied; clinic protocol mandates adult caregiver hand-off or direct ambulance transfer to the named ER.
+- [ ] **Severe acute malnutrition (MUAC < 11.5 cm OR weight-for-height < −3 SD with bilateral pitting oedema).** → SKIDS-T3 pediatric inpatient unit / WHO-protocol SAM ward within 4 hours [WHO-2024-Growth].
+- [ ] **Severe acute respiratory distress** at the screening visit (RR > age-percentile severe threshold, retractions, grunting, SpO₂ < 92% on room air at sea level). → SKIDS-T3 pediatric ER within 1 hour. A1 is paused, acute-visit workflow takes over.
+- [ ] **Newborn with concerning vital signs** at the first SKIDS visit (temperature instability, jaundice in first 24 hours, lethargy, poor feeding with weight loss > 10% birth weight). → SKIDS-T3 neonatal unit within 4 hours.
+- [ ] **Acute neurological event** witnessed or strongly suspected (active seizure, sustained altered consciousness, focal weakness of new onset, signs of raised ICP). → SKIDS-T3 pediatric ER within 1 hour.
+- [ ] **Confirmed Hb < 5 g/dL** or signs of haemodynamic compromise at any Hb level (tachycardia at rest disproportionate to age, pallor with capillary refill > 3 seconds). → SKIDS-T3 pediatric inpatient unit with transfusion capacity within 4 hours [WHO-2011-Anaemia].
+- [ ] **Suspected meningitis or sepsis** (any age) — fever with petechial rash, fever with altered consciousness, neck stiffness in a child old enough to demonstrate it. → SKIDS-T3 pediatric ER within 1 hour.
+- [ ] **Suspected sexual abuse** disclosed at A1, regardless of timing. → SKIDS-T3 pediatric ER + child-protection referral within the same hour. Same retention protocol as NAI above.
+- [ ] **Anaphylaxis history without an action plan and adrenaline auto-injector**, presenting in a child whose dietary or environmental risk has not been assessed. → Same-day routing to B1-06 Allergy is not sufficient if the family has had a recent anaphylaxis event. Send to SKIDS-T3 pediatric allergy specialist or pediatric ER for action-plan + adrenaline immediately.
 
 ### 7.2 Urgent referral (within 7 days)
 
-- [ ] **Confirmed BP ≥99th percentile + 5 mmHg** for age/sex/height on three readings, with or without symptoms. → Named partner pediatric nephrology or pediatric cardiology + same-day B1-17 routing as a bridge [AAP-2017-HBP].
-- [ ] **Hb 5–7 g/dL** with no haemodynamic compromise. → Named partner pediatric haematology + same-week B1-18 Blood [WHO-2011-Anaemia].
-- [ ] **POC capillary glucose ≥ 200 mg/dL** OR symptoms suggestive of new-onset diabetes (polyuria, polydipsia, weight loss). → Named partner pediatric endocrinologist (or B2-01 Endocrine if available at this clinic) within 7 days; intermediate routing to nearest pediatric ER if any signs of DKA (Kussmaul breathing, dehydration, vomiting).
-- [ ] **Newborn confirmed-refer on hearing screen.** → Named partner pediatric audiology / ENT within 4 weeks per JCIH 1-3-6 (screen by 1m, diagnose by 3m, intervene by 6m); urgent within 7 days at A1 because the SKIDS clinic confirms the screen result and books the diagnostic audiology appointment.
-- [ ] **Suspected pediatric malignancy** — unexplained persistent lymphadenopathy >2 cm with B-symptoms, abdominal mass on examination, unexplained pallor + bruising + bone pain, white pupil reflex (leukocoria). → Named partner pediatric oncology + same-week B1-18 Blood for haematological workup as a bridge.
-- [ ] **Neurological developmental regression** — loss of previously-attained milestones at any age. → Named partner pediatric neurologist (or B2-02 Neurology if available) + same-week B1-23 Developmental Surveillance as a bridge.
+- [ ] **Confirmed BP ≥99th percentile + 5 mmHg** for age/sex/height on three readings, with or without symptoms. → SKIDS-T3 pediatric nephrology or pediatric cardiology + same-day B1-17 routing as a bridge [AAP-2017-HBP].
+- [ ] **Hb 5–7 g/dL** with no haemodynamic compromise. → SKIDS-T3 pediatric haematology + same-week B1-18 Blood [WHO-2011-Anaemia].
+- [ ] **POC capillary glucose ≥ 200 mg/dL** OR symptoms suggestive of new-onset diabetes (polyuria, polydipsia, weight loss). → SKIDS-T3 pediatric endocrinologist (or B2-01 Endocrine if available at this clinic) within 7 days; intermediate routing to nearest pediatric ER if any signs of DKA (Kussmaul breathing, dehydration, vomiting).
+- [ ] **Newborn confirmed-refer on hearing screen.** → SKIDS-T3 pediatric audiology / ENT within 4 weeks per JCIH 1-3-6 (screen by 1m, diagnose by 3m, intervene by 6m); urgent within 7 days at A1 because the SKIDS clinic confirms the screen result and books the diagnostic audiology appointment.
+- [ ] **Suspected pediatric malignancy** — unexplained persistent lymphadenopathy >2 cm with B-symptoms, abdominal mass on examination, unexplained pallor + bruising + bone pain, white pupil reflex (leukocoria). → SKIDS-T3 pediatric oncology + same-week B1-18 Blood for haematological workup as a bridge.
+- [ ] **Neurological developmental regression** — loss of previously-attained milestones at any age. → SKIDS-T3 pediatric neurologist (or B2-02 Neurology if available) + same-week B1-23 Developmental Surveillance as a bridge.
 - [ ] **Any HEEADSSS disclosure of ongoing abuse, exploitation, or trafficking** (not currently emergent but ongoing risk). → Named child-protection authority + named pediatric mental-health partner + LISSUN within 7 days; ongoing safety planning with adolescent during this window.
 
 ### 7.3 Routine referral (next available appointment, ≤ 4 weeks)
 
 A1's "routine" §7 referrals are findings that exceed the B1 catalogue's scope but are not time-sensitive within days.
 
-- [ ] **Suspected complex congenital syndrome** (e.g., a previously-undiagnosed Down phenotype, suspected Turner, suspected Marfan habitus). → Named partner clinical genetics + pediatric subspecialty as appropriate within 4 weeks.
-- [ ] **Suspected major congenital heart disease** in a child not previously diagnosed (significant murmur >grade 3, signs of heart failure, cyanosis with exertion). → Named partner pediatric cardiology + B1-16 as a bridge, within 4 weeks.
-- [ ] **Suspected hereditary hematological condition** that B1-18 Blood cannot manage at primary tier (sickle cell disease with active complications, transfusion-dependent thalassemia major). → Named partner pediatric haematology centre within 4 weeks.
-- [ ] **Suspected primary immunodeficiency** beyond the recurrent-infections workup that B1-19 manages (≥ 2 serious infections in lifetime, recurrent deep-tissue infections, family history of PID). → Named partner pediatric immunology + B1-19 as a bridge, within 4 weeks.
+- [ ] **Suspected complex congenital syndrome** (e.g., a previously-undiagnosed Down phenotype, suspected Turner, suspected Marfan habitus). → SKIDS-T3 clinical genetics + pediatric subspecialty as appropriate within 4 weeks.
+- [ ] **Suspected major congenital heart disease** in a child not previously diagnosed (significant murmur >grade 3, signs of heart failure, cyanosis with exertion). → SKIDS-T3 pediatric cardiology + B1-16 as a bridge, within 4 weeks.
+- [ ] **Suspected hereditary hematological condition** that B1-18 Blood cannot manage at primary tier (sickle cell disease with active complications, transfusion-dependent thalassemia major). → SKIDS-T3 pediatric haematology centre within 4 weeks.
+- [ ] **Suspected primary immunodeficiency** beyond the recurrent-infections workup that B1-19 manages (≥ 2 serious infections in lifetime, recurrent deep-tissue infections, family history of PID). → SKIDS-T3 pediatric immunology + B1-19 as a bridge, within 4 weeks.
 - [ ] **Confirmed pediatric pulmonary tuberculosis** identified during A1 (clinical features + positive TB screen + radiological evidence, where SKIDS has done the workup). → Named NTEP-registered DOTS centre within 1 week of diagnosis [NTEP-2020]. (Note: this is "routine" in §7 terms but is operationally the most urgent of the routine triggers.)
 
 ### 7.4 Handoff communication
@@ -477,7 +477,7 @@ When A1 fires a §7 referral, the SKIDS pediatrician must send the receiving cli
 5. **Bridge interventions started:** for example, if iron has been initiated and the child is being referred for a haematology workup; or if anticipatory guidance has been given pending the urgent appointment.
 6. **The reason for referral, in clinical terms:** one to two sentences from the SKIDS pediatrician on what they need from the receiving clinician (e.g., "evaluation for new-onset hypertension; prior-secondary-cause workup including renal USG and aldosterone:renin ratio not yet done").
 7. **Urgency tier and target window:** §7.1 / §7.2 / §7.3 with the time bound.
-8. **The named partner / clinic this is being sent to** and the appointment booking status (confirmed time, awaiting confirmation, walk-in, ambulance-transfer).
+8. **The SKIDS-T3 / clinic this is being sent to** and the appointment booking status (confirmed time, awaiting confirmation, walk-in, ambulance-transfer).
 
 This packet is auto-generated by Companion when the §7 trigger fires. The SKIDS pediatrician reviews and signs off before transmission. For §7.1 triggers, the receiving clinician is also called by phone by the SKIDS pediatrician — the Companion-generated packet is a record, not a substitute for the verbal handoff.
 
@@ -664,7 +664,7 @@ For every Orange domain, the Doctor Module surfaces the B1 routing card with the
 The Doctor Module pauses the standard flow and renders the §7 handoff screen:
 - Which §7 sub-trigger fired (auto-determined from the flag tier source).
 - The auto-generated §7.4 handoff packet (editable free-text fields where doctor adds clinical context).
-- The named partner / hospital being referred to (selected from the SKIDS clinic operations directory).
+- The SKIDS-T3 / hospital being referred to (selected from the SKIDS clinic operations directory).
 - The urgency band (§7.1 / §7.2 / §7.3) and the appointment / transfer arrangements.
 - The "doctor has called the receiving clinician by phone" checkbox (mandatory for §7.1).
 - The "manager has been alerted" auto-fired confirmation.
@@ -717,7 +717,7 @@ These fields become queryable for §12 quarterly audit.
 
 | Trigger | Recipient | Channel | Payload |
 |---|---|---|---|
-| Any §7.1 (emergency) trigger fires | Clinic Manager + named pediatric supervisor + receiving clinician (named partner) | Companion alert + WhatsApp + phone-call mandatory by SKIDS ped | child_id, ped_id, trigger fired, urgency=emergency, partner contact |
+| Any §7.1 (emergency) trigger fires | Clinic Manager + named pediatric supervisor + receiving clinician (SKIDS-T3) | Companion alert + WhatsApp + phone-call mandatory by SKIDS ped | child_id, ped_id, trigger fired, urgency=emergency, partner contact |
 | Any §7.2 (urgent) trigger fires | Clinic Manager + receiving clinician | Companion alert + WhatsApp | as above, urgency=urgent |
 | Any §7.3 (routine) trigger fires | Clinic Manager + receiving clinician | Companion alert | as above, urgency=routine |
 | New Orange flag → B1 routing | Clinic Manager + receiving B1 (within SKIDS clinic) | Companion alert | child_id, b1_protocol, intake_window |
@@ -750,7 +750,7 @@ On A1 visit completion the Doctor Module generates:
 4. Parent summary (delivered to parent app + WhatsApp).
 5. Manager alert (per §11).
 6. B1 referral packet (one per Orange domain) auto-routed to the relevant B1 intake queue.
-7. §7 referral packet (if any §7 trigger fired) auto-routed to the named partner with the §7.4 contents.
+7. §7 referral packet (if any §7 trigger fired) auto-routed to the SKIDS-T3 with the §7.4 contents.
 8. Follow-up appointment auto-scheduled per §8.1.
 
 ### 9.6 Edge cases and overrides
@@ -765,7 +765,7 @@ Doctor marks the domain as "unable to assess" with one of the structured reasons
 Screen 7 takes priority. The standard flow pauses. The doctor cannot complete the A1 visit (and cannot send the family home) until the §7 packet is signed off and the receiving clinician is contacted (verbal for §7.1).
 
 **Network connectivity is lost.**
-Doctor Module supports offline A1 with local-only data. Growth charts, scale calculations, and the §5 flag tiering are computed locally from cached reference tables. On reconnection, data syncs to PHR, alerts fire, dispensary orders queue, and B1 / §7 referrals route. If a §7.1 emergency trigger fires offline, the Doctor Module displays a hard-stop instructing the doctor to phone the named partner immediately and confirm transfer arrangements before discharging the family from clinic.
+Doctor Module supports offline A1 with local-only data. Growth charts, scale calculations, and the §5 flag tiering are computed locally from cached reference tables. On reconnection, data syncs to PHR, alerts fire, dispensary orders queue, and B1 / §7 referrals route. If a §7.1 emergency trigger fires offline, the Doctor Module displays a hard-stop instructing the doctor to phone the SKIDS-T3 immediately and confirm transfer arrangements before discharging the family from clinic.
 
 **A1 visit deferred mid-visit due to acute symptoms.**
 If during A1 the child develops or reveals an acute condition (febrile distress, suspected sepsis), the doctor uses the "defer A1; switch to acute-visit workflow" action. The partial A1 data is saved as `visit_status = "A1_deferred_partial"` and resumed at the next visit. Acute care is delivered per the SKIDS acute-visit workflow.
@@ -790,7 +790,7 @@ When one or more domains are Orange:
 
 When a §7 referral fires (emergency §7.1):
 
-> "[Child's name] needs to be seen at the hospital today / right now. I'm concerned about [specific finding — e.g., 'the way [he/she] is breathing']. I have already called [named partner ER] and they are expecting us. We are going to [drive together / call an ambulance]. I'll be in touch with the team there. This is the right place for [him/her] to be — they have the equipment and team to look after [him/her]. We'll talk more once [he/she] is settled there."
+> "[Child's name] needs to be seen at the hospital today / right now. I'm concerned about [specific finding — e.g., 'the way [he/she] is breathing']. I have already called [SKIDS-T3 ER] and they are expecting us. We are going to [drive together / call an ambulance]. I'll be in touch with the team there. This is the right place for [him/her] to be — they have the equipment and team to look after [him/her]. We'll talk more once [he/she] is settled there."
 
 When a §7 referral fires (urgent §7.2 or routine §7.3):
 
@@ -959,7 +959,7 @@ A1 is working well when, across the clinic's panel of enrolled children:
 - ≥ 90% of enrolled children have an up-to-date IAP IIS vaccination status [IAP-IIS-2024].
 - ≥ 85% of enrolled children attend their periodic A1 visits within 30 days of the scheduled date.
 - ≥ 95% of Orange flags result in a confirmed B1 visit within the protocol's specified intake window (§6.3).
-- 100% of §7 emergency triggers (§7.1) result in a documented same-day handoff to the named partner.
+- 100% of §7 emergency triggers (§7.1) result in a documented same-day handoff to the SKIDS-T3.
 - ≥ 90% of Yellow flags resolve to Green or progress to Orange by the second recheck (i.e., no domains stuck in Yellow for > 6 months).
 - The flag-detection rate per domain is within 1 SD of the SKIDS-network median for similar age-band volumes (an outlier clinic — too few or too many flags — is reviewed for screening fidelity).
 - The §11 conversion rate (recommended subscription accepted within 30 days) is ≥ [NEEDS EXPANSION IN EDITORIAL PASS — set target with operations team once initial SKIDS clinic data is available].
