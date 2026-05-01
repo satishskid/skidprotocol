@@ -41,7 +41,7 @@ companion_module_status: not_specified
 
 **What this clinic does not do:**
 - Perform echocardiography (§7.3 to pediatric cardiology partner for echo).
-- Interpret ECG independently (ECG ordered at B1-16; interpretation by pediatric cardiologist or auto-interpretation with cardiologist over-read) [NEEDS EXPANSION IN EDITORIAL PASS — confirm ECG interpretation model].
+- Interpret ECG independently (ECG ordered at B1-16; interpretation by pediatric cardiologist or auto-interpretation with cardiologist over-read) [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - Manage heart failure, arrhythmias, or cardiomyopathy — §7.2/§7.3 to pediatric cardiology.
 - Perform cardiac catheterisation or intervention — Tier 3.
 - Manage Kawasaki disease beyond initial recognition and §7.1 routing.
@@ -66,7 +66,7 @@ companion_module_status: not_specified
 - **[IAP-RF-2008]** — Already referenced (B1-03). RF/RHD echocardiographic surveillance.
 - **[AAP-BF-4E]** — Already referenced.
 - **[AAP-Lipid-2011]** — Already referenced (B1-10). Statin candidacy assessment.
-- **[IAP-Cardiac-2020]** — Indian Academy of Pediatrics. Position statement on pediatric cardiac screening in the Indian context, 2020 [NEEDS EXPANSION IN EDITORIAL PASS].
+- **[IAP-Cardiac-2020]** — Indian Academy of Pediatrics. Position statement on pediatric cardiac screening in the Indian context, 2020 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **[NELSON-21:CH448-480]** — Nelson, cardiology chapters.
 - **[IAP-TB-6E]** — IAP Textbook, cardiology chapters.
 
@@ -181,7 +181,7 @@ Pre-participation evaluation per AHA-PPE-2014:
 - **AyuSynk** (or equivalent digital stethoscope with PCG): captures murmur waveform for remote cardiologist review.
 - **BP cuff** (pediatric sizes; adult size for obese/adolescent): 3-reading protocol.
 - **Pulse oximeter** (CCHD screen; any cardiac assessment).
-- **ECG machine** [NEEDS EXPANSION — confirm whether SKIDS clinics stock 12-lead ECG; if not, ECG referral to cardiology partner].
+- **ECG machine** [TO BE DECIDED BY SKIDS PEDIATRICIAN — confirm whether SKIDS clinics stock 12-lead ECG].
 
 ### 4.9 Decision tree
 
@@ -269,7 +269,7 @@ Child with cardiac concern
 - BP cuffs (pediatric sizes: infant, child, small adult, large adult).
 - AyuSynk device (or equivalent digital stethoscope).
 - Pulse oximeter.
-- ECG machine or ECG referral pathway [NEEDS EXPANSION].
+- ECG machine or ECG referral pathway [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 ---
 

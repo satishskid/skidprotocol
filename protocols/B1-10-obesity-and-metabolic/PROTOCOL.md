@@ -73,7 +73,7 @@ companion_module_status: not_specified
 - **[NELSON-21:CH57-60]** — Nelson, obesity and metabolic syndrome chapters.
 - **[IAP-TB-6E]** — IAP Textbook of Pediatrics, 6th edition. Nutrition and endocrine chapters.
 
-**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pediatric endocrinologist or obesity-medicine specialist [NEEDS EXPANSION IN EDITORIAL PASS].
+**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pediatric endocrinologist or obesity-medicine specialist [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 **Departures from cited guidelines:**
 

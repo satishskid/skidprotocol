@@ -85,7 +85,7 @@ This protocol governs primary-care management of pediatric nutrition and growth 
 
 **Last updated:** 2026-04-29
 **Next scheduled review:** 2027-04-29
-**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance: a named developmental-behavioural pediatrician with nutrition interest, OR a pediatric gastroenterologist (preferred profile given §7 routing volume to pediatric GI). [NEEDS EXPANSION IN EDITORIAL PASS — confirm permanent owner]
+**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance: a named developmental-behavioural pediatrician with nutrition interest, OR a pediatric gastroenterologist (preferred profile given §7 routing volume to pediatric GI). [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 **Departures from cited guidelines:**
 
@@ -97,7 +97,7 @@ This protocol governs primary-care management of pediatric nutrition and growth 
 
 4. *Cow's milk protein allergy management.* Standard ESPGHAN-aligned 2–4 week elimination + structured re-introduction; co-managed with B1-06 Allergy for the IgE-mediated component if any. Departure: SKIDS dispenses extensively hydrolysed formula (eHF) where breastfeeding is not possible, rather than amino-acid formula (AAF) at first line — the latter is reserved for eHF failure or anaphylaxis history per B1-06 [ESPGHAN-CF-2017].
 
-5. *Severe acute malnutrition.* B1-09 does not manage SAM. All SAM cases route §7.1. This is an operational departure — some primary-care services do manage outpatient SAM via WHO outpatient therapeutic programme (OTP). The SKIDS Tier 1 boundary deliberately routes SAM out because the OTP requires specific RUTF (ready-to-use therapeutic food) supply, daily monitoring infrastructure, and inpatient-fallback on appetite-test failure that exceeds B1-09 Tier 1 scope [NEEDS EXPANSION IN EDITORIAL PASS — confirm whether SKIDS clinics partner with public-health OTP centres and the referral pathway].
+5. *Severe acute malnutrition.* B1-09 does not manage SAM. All SAM cases route §7.1. This is an operational departure — some primary-care services do manage outpatient SAM via WHO outpatient therapeutic programme (OTP). The SKIDS Tier 1 boundary deliberately routes SAM out because the OTP requires specific RUTF (ready-to-use therapeutic food) supply, daily monitoring infrastructure, and inpatient-fallback on appetite-test failure that exceeds B1-09 Tier 1 scope [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 No other material departures.
 
@@ -222,7 +222,7 @@ Required:
 
 Optional / on-indication:
 - *BIA (bioelectrical impedance analyser)* — for BMI ≥ 85th percentile (cross-care to B1-10 Obesity & Metabolic), or for suspected sarcopenic / kwashiorkor-like patterns.
-- *Salter / digital scale appetite-test setup* — for SAM-trigger borderline appetite test if integrated with public-health OTP partnership [NEEDS EXPANSION IN EDITORIAL PASS].
+- *Salter / digital scale appetite-test setup* — for SAM-trigger borderline appetite test if integrated with public-health OTP partnership [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 ### 4.5 Laboratory and imaging
 

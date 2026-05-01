@@ -76,13 +76,13 @@ This protocol governs primary-care management of pediatric vision problems at SK
 
 **Last updated:** 2026-04-29
 **Next scheduled review:** 2027-04-29
-**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance: a named pediatric ophthalmologist within the SKIDS partner network OR a SKIDS pediatrician with documented vision-screening expertise (e.g., DBP fellowship with vision-screening focus, or completed AAP vision-screening certification). [NEEDS EXPANSION IN EDITORIAL PASS — confirm permanent owner]
+**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance: a named pediatric ophthalmologist within the SKIDS partner network OR a SKIDS pediatrician with documented vision-screening expertise (e.g., DBP fellowship with vision-screening focus, or completed AAP vision-screening certification). [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 **Departures from cited guidelines:**
 
 1. *Universal myopia-control offer to all confirmed myopes ≥ 6 years.* AAPOS endorses myopia control selectively (progressive cases). IMI-2021 supports earlier intervention. India's pediatric myopia prevalence has risen sharply over the last decade and its myopia onset is younger than US/Western data. B1-01 offers myopia-control counselling and behavioural intervention to all confirmed myopes ≥ 6 years; low-dose atropine is offered to children with documented progression > 0.50 D/year OR myopia onset before age 10. This is a more inclusive offer than AAPOS framing, defended on Indian-context epidemiology and the strong IMI-2021 evidence base [IMI-2021].
 
-2. *Spectacles dispensed in-clinic.* Most pediatric ophthalmology clinics refer to optical-shop dispensing. SKIDS keeps a frame-and-lens catalogue in-clinic and dispenses on the same visit. This reduces the dropout between prescription and use (substantial in Indian out-of-pocket cost-sensitive practice) and is operational rather than clinical [NEEDS EXPANSION IN EDITORIAL PASS — confirm in-clinic dispensing scope and the SKU catalogue with operations].
+2. *Spectacles dispensed in-clinic.* Most pediatric ophthalmology clinics refer to optical-shop dispensing. SKIDS keeps a frame-and-lens catalogue in-clinic and dispenses on the same visit. This reduces the dropout between prescription and use (substantial in Indian out-of-pocket cost-sensitive practice) and is operational rather than clinical [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 3. *Bacterial conjunctivitis treatment threshold.* AAO recommends clinical judgement; many cases are viral and self-limited. B1-01 follows AAO with a slight conservatism: empirical topical antibiotic only for purulent discharge present > 48 hours, OR for any neonatal conjunctivitis (where infectious causes including N. gonorrhoeae and Chlamydia mandate treatment and §7 routing) [AAO-Conj-2018, AAP-Conj-2013].
 
@@ -360,7 +360,7 @@ Expected timeline: surface / allergic symptoms improvement in 1–2 weeks; refra
 **Refractive error (Moderate — spectacles dispensed):**
 
 Spectacle prescription:
-- Cycloplegic refraction is conducted at the SKIDS clinic by the optometrist using cyclopentolate 1% (1 drop, repeat after 10 minutes; refract at 30–45 minutes) for children < 8 years OR for any child where accommodative spasm is suspected. Tropicamide 1% is an alternative for children where cyclopentolate is contraindicated [NEEDS EXPANSION IN EDITORIAL PASS — confirm cycloplegic agent choice with operations].
+- Cycloplegic refraction is conducted at the SKIDS clinic by the optometrist using cyclopentolate 1% (1 drop, repeat after 10 minutes; refract at 30–45 minutes) for children < 8 years OR for any child where accommodative spasm is suspected. Tropicamide 1% is an alternative for children where cyclopentolate is contraindicated [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - Manifest refraction for children ≥ 8 years where accommodation is mature.
 - Prescription ordered with full cycloplegic value for hyperopia ≥ +2.00 D, partial cylinder where Jackson cross-cylinder testing supports symptomatic comfort, and full myopic correction.
 
@@ -902,7 +902,7 @@ B1-01 is working well when:
 - ≥ 95% of suspected amblyopia cases (§7.2) attend the pediatric ophthalmology appointment within 7 days.
 - ≥ 85% of allergic conjunctivitis cases achieve symptom control on Mild / Moderate-tier therapy without §7 routing.
 - < 5% of bacterial conjunctivitis cases require second-line antibiotic (first-line empirical resistance / non-response rate).
-- Spectacle dispensing rate (Rx issued → glasses dispensed in-clinic same visit) ≥ 90% [NEEDS EXPANSION IN EDITORIAL PASS — confirm operational target].
+- Spectacle dispensing rate (Rx issued → glasses dispensed in-clinic same visit) ≥ 90% [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - Loss-to-follow-up rate on active myopia-control programme < 10% per year.
 
 ### 12.2 Quarterly case review

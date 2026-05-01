@@ -41,7 +41,7 @@ companion_module_status: not_specified
 - Administer investigational or unapproved vaccines outside IAP IIS and recognised travel-vaccine indications.
 - Manage severe AEFI requiring hospitalisation beyond initial stabilisation and adrenaline administration (§7.1 to ER).
 - Override parental vaccine refusal — the protocol documents refusal and re-engages per §10.5; disenrolment from SKIDS does not follow.
-- Administer BCG (birth dose at birthing facility; SKIDS does not stock BCG due to multi-dose vial wastage constraints) [NEEDS EXPANSION IN EDITORIAL PASS — confirm SKIDS network position on BCG stocking].
+- Administer BCG (birth dose at birthing facility; SKIDS does not stock BCG due to multi-dose vial wastage constraints) [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - Provide immunology workup for suspected primary immunodeficiency (§7.3 to pediatric immunology).
 
 **Age range covered:** 0 – 18 years (with birth-dose reconciliation at first SKIDS visit if not given at birthing facility).
@@ -69,15 +69,15 @@ companion_module_status: not_specified
 - **[IAP-Catch-Up]** — IAP catch-up immunisation guidance (published as companion to IIS). Source for minimum intervals, maximum ages, and accelerated schedules.
 - **[CDC-Travel-2024]** — CDC Yellow Book: Health Information for International Travel, 2024. Source for travel-vaccine indications by destination.
 
-**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — immunisation programme lead or pediatric ID specialist [NEEDS EXPANSION IN EDITORIAL PASS].
+**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — immunisation programme lead or pediatric ID specialist [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 **Departures from cited guidelines:**
 
-1. *BCG not stocked at SKIDS.* IAP IIS recommends BCG at birth. SKIDS reconciles BCG status at first visit; if not given at birthing facility, routes to government immunisation centre for BCG (multi-dose vial; SKIDS cannot maintain single-session utilisation). This is a logistics departure, not a clinical one [NEEDS EXPANSION IN EDITORIAL PASS].
+1. *BCG not stocked at SKIDS.* IAP IIS recommends BCG at birth. SKIDS reconciles BCG status at first visit; if not given at birthing facility, routes to government immunisation centre for BCG (multi-dose vial; SKIDS cannot maintain single-session utilisation). This is a logistics departure, not a clinical one [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 2. *HPV for boys.* IAP IIS 2024-25 recommends HPV vaccination for girls; some IAP committees have endorsed gender-neutral vaccination. SKIDS offers HPV to boys and girls per the emerging IAP position and WHO guidance. Editorial reviewer to confirm SKIDS network position.
 
-3. *Influenza annual universal.* IAP recommends influenza vaccination annually for all children ≥ 6 months. SKIDS follows this; it is included in Advanced and Premium tiers but not Basic (cost-sensitivity for families on Basic tier). Families on Basic who request influenza pay per-dose [NEEDS EXPANSION IN EDITORIAL PASS — confirm pricing model].
+3. *Influenza annual universal.* IAP recommends influenza vaccination annually for all children ≥ 6 months. SKIDS follows this; it is included in Advanced and Premium tiers but not Basic (cost-sensitivity for families on Basic tier). Families on Basic who request influenza pay per-dose [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 ---
 
@@ -255,7 +255,7 @@ B1-22 does not use a traditional mild/moderate/severe severity grading like othe
 | 10–12 years | Tdap | IM | Deltoid |
 | Annual (≥ 6 months) | Influenza (annual) | IM | Deltoid (≥ 3 years) / anterolateral thigh (< 3 years) |
 
-[NEEDS EXPANSION IN EDITORIAL PASS — confirm exact IAP IIS 2024-25 schedule details; this table is a working reference, not a verbatim IAP reproduction. Editorial reviewer must reconcile against current IAP IIS publication.]
+[TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 **Administration protocol:**
 1. Confirm identity, age, vaccine due, contraindication screen (§4.1).

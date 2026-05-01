@@ -71,11 +71,11 @@ companion_module_status: not_specified
 - **[NELSON-21:CH350-380]** — Nelson, GI chapters.
 - **[IAP-TB-6E]** — IAP Textbook, GI chapters.
 
-**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pediatric gastroenterologist [NEEDS EXPANSION IN EDITORIAL PASS].
+**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pediatric gastroenterologist [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 **Departures from cited guidelines:**
 
-1. *Coeliac no-biopsy pathway.* ESPGHAN 2020 permits a no-biopsy diagnosis when tTG-IgA > 10× ULN + positive EMA-IgA + symptomatic + HLA-DQ2/DQ8 positive. SKIDS follows this pathway where HLA testing is available; where not, routes to §7.3 for endoscopic biopsy. This is a pragmatic departure — many Indian centres cannot perform HLA-DQ2/DQ8 [NEEDS EXPANSION IN EDITORIAL PASS].
+1. *Coeliac no-biopsy pathway.* ESPGHAN 2020 permits a no-biopsy diagnosis when tTG-IgA > 10× ULN + positive EMA-IgA + symptomatic + HLA-DQ2/DQ8 positive. SKIDS follows this pathway where HLA testing is available; where not, routes to §7.3 for endoscopic biopsy. This is a pragmatic departure — many Indian centres cannot perform HLA-DQ2/DQ8 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 2. *H. pylori test-and-treat not routine.* NASPGHAN/ESPGHAN 2017 recommends against test-and-treat in children (unlike adults). SKIDS tests only for dyspeptic symptoms, not asymptomatic carriage. This is guideline-concordant but worth emphasising because some Indian practitioners test-and-treat broadly.
 

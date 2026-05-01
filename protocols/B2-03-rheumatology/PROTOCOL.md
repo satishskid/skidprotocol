@@ -54,7 +54,7 @@ companion_module_status: not_specified
 
 - **[ACR-JIA-2019]** — Ringold S, Angeles-Han ST, Beukelman T, et al. 2019 American College of Rheumatology/Arthritis Foundation Guideline for the Treatment of Juvenile Idiopathic Arthritis. Arthritis Care Res. 2019;71(6):717–734.
 - **[EULAR-SLE-2019]** — Fanouriakis A, Kostopoulou M, Alunno A, et al. 2019 update of the EULAR recommendations for the management of systemic lupus erythematosus. Ann Rheum Dis. 2019;78(6):736–745.
-- **[IAP-Rheumatology-2020]** — Indian Academy of Pediatrics position statement on pediatric rheumatology, 2020 [NEEDS EXPANSION IN EDITORIAL PASS].
+- **[IAP-Rheumatology-2020]** — Indian Academy of Pediatrics position statement on pediatric rheumatology, 2020 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **[NELSON-21:CH180-195]** — Nelson, rheumatology chapters.
 - **[IAP-TB-6E]** — IAP Textbook, rheumatology chapters.
 

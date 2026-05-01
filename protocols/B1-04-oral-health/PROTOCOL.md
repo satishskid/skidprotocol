@@ -72,7 +72,7 @@ companion_module_status: not_specified
 - **[NELSON-21:CH338]** — Nelson, oral-health chapter.
 - **[IAP-TB-6E]** — IAP Textbook of Pediatrics, 6th edition. Oral-health sections.
 
-**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pedodontist [NEEDS EXPANSION IN EDITORIAL PASS].
+**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pedodontist [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 **Departures from cited guidelines:**
 
@@ -80,7 +80,7 @@ companion_module_status: not_specified
 
 2. *No dental X-rays at SKIDS.* SKIDS clinics do not stock dental X-ray equipment. Clinical visual inspection and AAPD CAT drive the caries-risk assessment. Dental X-rays are obtained at the pedodontist partner clinic when restoration is anticipated. This is a logistics departure.
 
-3. *Fluoride supplementation not routine.* India has variable community water fluoridation. SKIDS does NOT prescribe systemic fluoride supplements (fluoride drops/tablets) due to fluorosis risk in areas with adequate or excessive water fluoride. Topical fluoride (varnish + toothpaste) is the sole fluoride delivery pathway [NEEDS EXPANSION IN EDITORIAL PASS — confirm SKIDS network position by region].
+3. *Fluoride supplementation not routine.* India has variable community water fluoridation. SKIDS does NOT prescribe systemic fluoride supplements (fluoride drops/tablets) due to fluorosis risk in areas with adequate or excessive water fluoride. Topical fluoride (varnish + toothpaste) is the sole fluoride delivery pathway [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 ---
 
@@ -285,7 +285,7 @@ Per §4.5 triage table — classified by IADT injury type and tooth type (primar
 
 - **Fluoride varnish** 3×/year.
 - **Dietary sugar audit** with SKIDS dietitian (cross B1-09/B1-10): identify and reduce sugar exposures per day; target ≤ 3 exposures/day.
-- **Remineralisation protocol** for WSL: fluoride varnish + casein phosphopeptide-amorphous calcium phosphate (CPP-ACP, e.g., GC Tooth Mousse) applied at home after brushing × 3 months [NEEDS EXPANSION IN EDITORIAL PASS — confirm CPP-ACP product availability in India and SKIDS dispensary].
+- **Remineralisation protocol** for WSL: fluoride varnish + casein phosphopeptide-amorphous calcium phosphate (CPP-ACP, e.g., GC Tooth Mousse) applied at home after brushing × 3 months [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **Enhanced oral hygiene:** re-demonstrate brushing technique; consider electric toothbrush for children with poor manual dexterity.
 
 ### 6.3 Intensive tier (high risk / ECC / dental abscess)
@@ -336,7 +336,7 @@ Per §4.5 triage table — classified by IADT injury type and tooth type (primar
 - Microbrushes for varnish application.
 - Toothbrushes (infant, child, adolescent sizes) for in-clinic demonstration.
 - Fluoridated toothpaste samples (1000–1450 ppm fluoride).
-- CPP-ACP paste (GC Tooth Mousse or equivalent) [NEEDS EXPANSION — confirm stocking].
+- CPP-ACP paste (GC Tooth Mousse or equivalent) [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - Amoxicillin suspension and capsules (shared with B1-03).
 - Nystatin oral suspension.
 - Aciclovir tablets/suspension.

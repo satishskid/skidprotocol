@@ -71,7 +71,7 @@ companion_module_status: not_specified
 - **[IAP-TB-6E]** — IAP Textbook of Pediatrics, 6th edition. ENT chapters.
 - **[RBSK-2013]** — Already referenced. School-based hearing screening reconciliation.
 
-**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pediatric audiologist or pediatric ENT [NEEDS EXPANSION IN EDITORIAL PASS].
+**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pediatric audiologist or pediatric ENT [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 **Departures from cited guidelines:**
 

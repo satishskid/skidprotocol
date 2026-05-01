@@ -71,13 +71,13 @@ This protocol governs primary-care management of common pediatric skin condition
 
 **Last updated:** 2026-04-29
 **Next scheduled review:** 2027-04-29
-**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance assignment: a pediatric dermatologist within the SKIDS partner network, or a SKIDS pediatrician with completed dermatology fellowship under The SKIDS Fellowship pathway. [NEEDS EXPANSION IN EDITORIAL PASS — confirm permanent owner]
+**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance assignment: a pediatric dermatologist within the SKIDS partner network, or a SKIDS pediatrician with completed dermatology fellowship under The SKIDS Fellowship pathway. [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 **Departures from cited guidelines:**
 
 1. *First-line tinea capitis therapy.* AAD names terbinafine as first-line in T. tonsurans-predominant geographies (US). India's tinea capitis is mixed-isolate with significant T. violaceum and zoophilic Microsporum spp.; griseofulvin remains a reasonable first-line in Indian practice. A1-05 follows IAP Textbook (griseofulvin first-line, terbinafine second-line per organism susceptibility) [IAP-TB-6E]. Confirm with culture / KOH where available.
 
-2. *Oral antibiotic choice for moderate acne.* AAD names doxycycline as first-line tetracycline. India's antimicrobial stewardship environment and adolescent acne volume warrant explicit attention to: (a) duration cap at 3 months at any dose to limit resistance pressure, (b) topical optimisation before oral initiation, (c) tetracycline minimum age 8 years (universal) and 12 years for cosmetic use unless severity dictates otherwise. [NEEDS EXPANSION IN EDITORIAL PASS — confirm Indian antimicrobial-stewardship policy on tetracycline use in moderate acne]
+2. *Oral antibiotic choice for moderate acne.* AAD names doxycycline as first-line tetracycline. India's antimicrobial stewardship environment and adolescent acne volume warrant explicit attention to: (a) duration cap at 3 months at any dose to limit resistance pressure, (b) topical optimisation before oral initiation, (c) tetracycline minimum age 8 years (universal) and 12 years for cosmetic use unless severity dictates otherwise. [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 3. *Permethrin vs. ivermectin in scabies.* AAD / CDC name permethrin 5% cream as first-line and oral ivermectin as alternative. IADVL allows oral ivermectin as first-line in epidemic / institutional / household-coverage situations because of compliance advantages. B1-05 follows IADVL: permethrin 5% first-line individual case, oral ivermectin first-line for whole-household treatment in scabies outbreaks [IADVL-Scabies-2021].
 
@@ -948,7 +948,7 @@ B1-05 is working well when:
 - 100% of high-potency topical steroid prescriptions (betamethasone valerate or higher) are reviewed at the next §12 quarterly audit; clinically appropriate use rate ≥ 95%.
 - 100% of §7.1 emergency triggers result in same-day handoff to the SKIDS-T3.
 - ≥ 95% of refractory AD / acne (§7.3) referrals attend the pediatric dermatology appointment within the protocol-specified window.
-- Steroid-phobia-related under-treatment (operationalised as: families dispensed < 100 g emollient/month for moderate AD or skipping topical steroid in > 50% of prescribed days at adherence assessment) is addressed in ≥ 80% of identified cases by re-counselling or reassessment within 2 weeks. [NEEDS EXPANSION IN EDITORIAL PASS — confirm operational threshold with clinical operations]
+- Steroid-phobia-related under-treatment (operationalised as: families dispensed < 100 g emollient/month for moderate AD or skipping topical steroid in > 50% of prescribed days at adherence assessment) is addressed in ≥ 80% of identified cases by re-counselling or reassessment within 2 weeks. [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 ### 12.2 Quarterly case review
 

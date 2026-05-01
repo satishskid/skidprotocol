@@ -74,11 +74,11 @@ This protocol governs primary-care pediatric sleep management at SKIDS clinics. 
 
 **Last updated:** 2026-04-30
 **Next scheduled review:** 2027-04-30
-**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance: pediatric sleep medicine specialist or DBP with sleep-medicine training. [NEEDS EXPANSION IN EDITORIAL PASS]
+**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance: pediatric sleep medicine specialist or DBP with sleep-medicine training. [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 **Departures from cited guidelines:**
 
-1. *Melatonin cautious-use framing.* CLAUDE.md §7.2 explicitly notes melatonin for sleep is to be used cautiously. AAP-2022 advisory raised concerns about pediatric melatonin use (over-the-counter availability with variable dosing accuracy in non-pharmaceutical-grade products; lack of long-term data). B1-07 follows IAP cautious-use position: melatonin not first-line; reserved for documented sleep-onset insomnia in adolescents > 12 years OR for delayed-sleep-phase pattern OR for ASD-related sleep-onset insomnia (joint with B1-08); short-term courses (≤ 12 weeks); pharmaceutical-grade preparations only [AAP-Melatonin-2022, NEEDS EXPANSION IN EDITORIAL PASS — confirm exact IAP-Sleep position].
+1. *Melatonin cautious-use framing.* CLAUDE.md §7.2 explicitly notes melatonin for sleep is to be used cautiously. AAP-2022 advisory raised concerns about pediatric melatonin use (over-the-counter availability with variable dosing accuracy in non-pharmaceutical-grade products; lack of long-term data). B1-07 follows IAP cautious-use position: melatonin not first-line; reserved for documented sleep-onset insomnia in adolescents > 12 years OR for delayed-sleep-phase pattern OR for ASD-related sleep-onset insomnia (joint with B1-08); short-term courses (≤ 12 weeks); pharmaceutical-grade preparations only [AAP-Melatonin-2022; TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 2. *Overnight pulse oximetry as OSA screening.* AAP-2012-OSA recommends PSG as confirmatory; oximetry has lower sensitivity for OSA but higher accessibility. B1-07 uses oximetry as a screening adjunct to PSQ (high PSQ + abnormal oximetry → §7.3 PSG); does not use oximetry as a confirmatory test. Where PSQ is high but oximetry is normal, the clinical picture drives the §7.3 decision [AAP-2012-OSA].
 

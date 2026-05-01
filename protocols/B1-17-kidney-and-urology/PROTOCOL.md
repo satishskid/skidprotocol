@@ -53,7 +53,7 @@ companion_module_status: not_specified
 - **[AAP-2017-HBP]** — Already referenced. Hypertension screening and management.
 - **[AAP-UTI-2011]** — Roberts KB; AAP Subcommittee on UTI. Urinary Tract Infection: Clinical Practice Guideline for the Diagnosis and Management of the Initial UTI in Febrile Infants and Children 2 to 24 Months. Pediatrics. 2011;128(3):595–610.
 - **[ISKDC-NS]** — International Study of Kidney Disease in Children. Nephrotic syndrome steroid protocol (standard ISKDC regimen). Source for prednisolone dosing.
-- **[IAP-Nephrology-2020]** — Indian Academy of Pediatrics position statement on pediatric nephrology, 2020 [NEEDS EXPANSION IN EDITORIAL PASS].
+- **[IAP-Nephrology-2020]** — Indian Academy of Pediatrics position statement on pediatric nephrology, 2020 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **[NELSON-21:CH535-555]** — Nelson, nephrology/urology chapters.
 - **[IAP-TB-6E]** — IAP Textbook, nephrology chapters.
 

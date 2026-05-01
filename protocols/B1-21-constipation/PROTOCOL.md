@@ -60,7 +60,7 @@ companion_module_status: not_specified
 - **[Rome-IV-2016]** — Already referenced. Diagnostic criteria.
 - **[NICE-Constipation-2017]** — NICE CG99: Constipation in children and young people, 2017 update. Source for disimpaction protocol and maintenance duration.
 - **[AAP-BF-4E]** — Already referenced.
-- **[IAP-Constipation-2020]** — Indian Academy of Pediatrics position statement on constipation management, 2020 [NEEDS EXPANSION IN EDITORIAL PASS].
+- **[IAP-Constipation-2020]** — Indian Academy of Pediatrics position statement on constipation management, 2020 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **[NELSON-21:CH349]** — Nelson, constipation chapter.
 - **[IAP-TB-6E]** — IAP Textbook, GI chapter.
 

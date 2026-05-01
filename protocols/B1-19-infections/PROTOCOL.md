@@ -52,7 +52,7 @@ companion_module_status: not_specified
 ## §2 Evidence base
 
 - **[NTEP-2020]** — Already referenced. TB screening and DOTS referral.
-- **[IAP-Infections-2022]** — Indian Academy of Pediatrics position statement on common infections and antimicrobial stewardship, 2022 [NEEDS EXPANSION IN EDITORIAL PASS].
+- **[IAP-Infections-2022]** — Indian Academy of Pediatrics position statement on common infections and antimicrobial stewardship, 2022 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **[WHO-Dengue-2009]** — WHO. Dengue: guidelines for diagnosis, treatment, prevention and control, 2009 (with 2023 update). Source for dengue classification and fluid management.
 - **[NVBDCP-Malaria-2021]** — National Vector Borne Disease Control Programme, India. National Framework for Malaria Elimination, 2021. Source for malaria diagnosis and treatment protocol.
 - **[JMF-PID]** — Jeffrey Modell Foundation. 10 Warning Signs of Primary Immunodeficiency. Source for PID screening framework.

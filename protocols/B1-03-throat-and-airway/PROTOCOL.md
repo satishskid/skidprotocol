@@ -70,11 +70,11 @@ companion_module_status: not_specified
 - **[NELSON-21:CH409-415]** — Nelson, pharyngitis and upper-airway chapters.
 - **[IAP-TB-6E]** — IAP Textbook of Pediatrics, 6th edition. ENT and infectious-disease chapters.
 
-**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pediatric ENT specialist [NEEDS EXPANSION IN EDITORIAL PASS].
+**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pediatric ENT specialist [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 **Departures from cited guidelines:**
 
-1. *RADT-only approach (no backup throat culture).* IDSA 2012 recommends backup throat culture for RADT-negative children with high clinical suspicion. SKIDS follows RADT-only for children with McIsaac ≤ 2 but obtains backup throat culture for McIsaac ≥ 3 with negative RADT. This is a pragmatic departure — RADT sensitivity is 85–95%; in the Indian context where RF burden is significant, the backup culture for high-suspicion cases is justified [NEEDS EXPANSION IN EDITORIAL PASS — confirm SKIDS RADT sensitivity data].
+1. *RADT-only approach (no backup throat culture).* IDSA 2012 recommends backup throat culture for RADT-negative children with high clinical suspicion. SKIDS follows RADT-only for children with McIsaac ≤ 2 but obtains backup throat culture for McIsaac ≥ 3 with negative RADT. This is a pragmatic departure — RADT sensitivity is 85–95%; in the Indian context where RF burden is significant, the backup culture for high-suspicion cases is justified [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 2. *Rheumatic fever secondary prophylaxis.* RF remains endemic in India. B1-03 initiates secondary prophylaxis (benzathine penicillin G 3-weekly or 4-weekly IM) for confirmed RF/RHD per IAP guidelines. Some protocols reserve this for cardiology; SKIDS initiates at B1-03 with B1-16 Cardiac cross-care for echocardiographic monitoring.
 

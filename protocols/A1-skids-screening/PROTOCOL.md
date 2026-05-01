@@ -69,7 +69,7 @@ This protocol governs universal pediatric screening at SKIDS clinics. It follows
 
 **Last updated:** 2026-04-29
 **Next scheduled review:** 2027-04-29
-**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance to be assigned at editorial pass — preferred profile is a developmental-behavioural pediatrician with combined IAP and AAP exposure, given A1's role spanning growth, development, behaviour, and anticipatory guidance. [NEEDS EXPANSION IN EDITORIAL PASS]
+**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance to be assigned at editorial pass — preferred profile is a developmental-behavioural pediatrician with combined IAP and AAP exposure, given A1's role spanning growth, development, behaviour, and anticipatory guidance. [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 **Departures from cited guidelines:**
 
@@ -435,7 +435,7 @@ The case escalates out of A1's scope when ANY of the following is true:
 
 ### 7.1 Emergency referral (same day, transport directly to ER)
 
-- [ ] **Suspected non-accidental injury (NAI) at any age.** Bruising in non-mobile infants, bruising in protected sites (back, ears, neck, genitals, frenulum), torus or metaphyseal fractures on incidental imaging, injury inconsistent with developmental ability, or caregiver disclosure suggestive. → SKIDS-T3 pediatric ER + child-protection referral within the same hour. SKIDS pediatrician does not discharge the child to the suspected-perpetrator caregiver; clinic protocol is to retain the child within the clinic environment until ER transfer is effected. [NEEDS EXPANSION IN EDITORIAL PASS — confirm SKIDS clinic legal/operational protocol for child-protection retention with Dr. Rath]
+- [ ] **Suspected non-accidental injury (NAI) at any age.** Bruising in non-mobile infants, bruising in protected sites (back, ears, neck, genitals, frenulum), torus or metaphyseal fractures on incidental imaging, injury inconsistent with developmental ability, or caregiver disclosure suggestive. → SKIDS-T3 pediatric ER + child-protection referral within the same hour. SKIDS pediatrician does not discharge the child to the suspected-perpetrator caregiver; clinic protocol is to retain the child within the clinic environment until ER transfer is effected. [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 - [ ] **Active suicidal ideation (PHQ-A item 9 positive, or direct disclosure during HEEADSSS).** → SKIDS-T3 pediatric ER with mental-health capacity, with LISSUN consultant pre-notified, within the same day. Adolescent does not leave SKIDS clinic unaccompanied; clinic protocol mandates adult caregiver hand-off or direct ambulance transfer to the named ER.
 - [ ] **Severe acute malnutrition (MUAC < 11.5 cm OR weight-for-height < −3 SD with bilateral pitting oedema).** → SKIDS-T3 pediatric inpatient unit / WHO-protocol SAM ward within 4 hours [WHO-2024-Growth].
 - [ ] **Severe acute respiratory distress** at the screening visit (RR > age-percentile severe threshold, retractions, grunting, SpO₂ < 92% on room air at sea level). → SKIDS-T3 pediatric ER within 1 hour. A1 is paused, acute-visit workflow takes over.
@@ -524,7 +524,7 @@ A1 is screening, not treatment, so "success" is operational rather than clinical
 - All Red triggers have a documented §7 outcome.
 - The PHR is complete for the age — every domain has been screened in the last periodicity-defined window.
 
-A SKIDS clinic operating well has ≥85% of its enrolled children meeting all six criteria at any audit point [NEEDS EXPANSION IN EDITORIAL PASS — confirm 85% target with operational data once available].
+A SKIDS clinic operating well has ≥85% of its enrolled children meeting all six criteria at any audit point [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 ### 8.4 Step-down criteria
 
@@ -865,7 +865,7 @@ A1 is administered to families across the SKIDS catchment, including families fr
 - **Mental-health stigma.** A Yellow / Orange flag in the behavioural-emotional domain is communicated using clinical language ("we want to look at this more carefully with our behavioural clinic") rather than diagnostic labels ("depression," "anxiety") at the screening visit. Diagnostic labelling, where appropriate, happens in B1-08 Behavioural after a structured assessment. This is to reduce premature labelling and the stigma that can foreclose future engagement.
 - **Co-sleeping practices.** Indian families commonly co-sleep with infants and toddlers; the safe-sleep counselling is framed around safe co-sleeping practices (firm surface, no soft bedding, no alcohol/sedative-impaired caregiver bed-share, no smoking caregiver) rather than mandating non-co-sleeping. This deviates from the AAP "back to sleep, alone, in a crib" framing in language but not in safety substance.
 - **Vaccination hesitancy.** A1 documents vaccination status as a clinical fact and offers schedule-aligned doses; vaccine hesitancy is engaged with via the IAP "TalkingTalkingNot" / motivational-interviewing approach, not coercion. If a family declines, the pediatrician documents the discussion, the specific vaccine declined, and the next planned conversation. Refusal does not result in disenrolment from SKIDS.
-- **Religious and dietary practices.** Nutrition guidance accommodates vegetarian / Jain / halal / kosher / ethnic-regional dietary practices. The dietitian-supplied family-meal templates have variants per dietary practice [NEEDS EXPANSION IN EDITORIAL PASS — confirm content set with B1-09 Nutrition team].
+- **Religious and dietary practices.** Nutrition guidance accommodates vegetarian / Jain / halal / kosher / ethnic-regional dietary practices. The dietitian-supplied family-meal templates have variants per dietary practice [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **Caste-, language-, and class-related factors in clinic interactions.** The SKIDS clinic's protocol is to address every family with the same script, the same time allocation, and the same content depth. The Manager Console flags any visit where a family has been seen for materially less time than the median for their age band.
 
 ---
@@ -962,8 +962,8 @@ A1 is working well when, across the clinic's panel of enrolled children:
 - 100% of §7 emergency triggers (§7.1) result in a documented same-day handoff to the SKIDS-T3.
 - ≥ 90% of Yellow flags resolve to Green or progress to Orange by the second recheck (i.e., no domains stuck in Yellow for > 6 months).
 - The flag-detection rate per domain is within 1 SD of the SKIDS-network median for similar age-band volumes (an outlier clinic — too few or too many flags — is reviewed for screening fidelity).
-- The §11 conversion rate (recommended subscription accepted within 30 days) is ≥ [NEEDS EXPANSION IN EDITORIAL PASS — set target with operations team once initial SKIDS clinic data is available].
-- The parent-app activation rate (parents engaging with at least one activated module within 14 days of a Yellow flag) is ≥ 70% [NEEDS EXPANSION IN EDITORIAL PASS — confirm baseline with parent.skids.clinic team].
+- The §11 conversion rate (recommended subscription accepted within 30 days) is ≥ [TO BE DECIDED BY SKIDS PEDIATRICIAN].
+- The parent-app activation rate (parents engaging with at least one activated module within 14 days of a Yellow flag) is ≥ 70% [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 ### 12.2 Quarterly case review
 

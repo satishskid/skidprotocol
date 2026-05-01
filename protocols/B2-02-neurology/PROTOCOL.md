@@ -52,7 +52,7 @@ companion_module_status: not_specified
 
 - **[ILAE-2017]** — Fisher RS, Cross JH, French JA, et al. Operational classification of seizure types by the International League Against Epilepsy. Epilepsia. 2017;58(4):522–530.
 - **[ICHD-3-2018]** — International Headache Society. International Classification of Headache Disorders, 3rd edition. Cephalalgia. 2018;38(1):1–211.
-- **[IAP-Epilepsy-2021]** — Indian Academy of Pediatrics position statement on pediatric epilepsy management, 2021 [NEEDS EXPANSION IN EDITORIAL PASS].
+- **[IAP-Epilepsy-2021]** — Indian Academy of Pediatrics position statement on pediatric epilepsy management, 2021 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **[NELSON-21:CH611-650]** — Nelson, neurology chapters.
 - **[IAP-TB-6E]** — IAP Textbook, neurology chapters.
 

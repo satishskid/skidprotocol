@@ -55,7 +55,7 @@ companion_module_status: not_specified
 
 - **[ISPAD-2022]** — International Society for Pediatric and Adolescent Diabetes. Clinical Practice Consensus Guidelines, 2022. Governing source for T1DM management.
 - **[AAP-T2DM-2013]** — Already referenced (B1-10). T2DM management.
-- **[IAP-Endocrine-2021]** — Indian Academy of Pediatrics position statement on pediatric endocrinology, 2021 [NEEDS EXPANSION IN EDITORIAL PASS].
+- **[IAP-Endocrine-2021]** — Indian Academy of Pediatrics position statement on pediatric endocrinology, 2021 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **[NELSON-21:CH580-630]** — Nelson, endocrinology chapters.
 - **[IAP-TB-6E]** — IAP Textbook, endocrinology chapters.
 

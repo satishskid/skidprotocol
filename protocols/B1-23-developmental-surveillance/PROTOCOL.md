@@ -71,7 +71,7 @@ companion_module_status: not_specified
 - **[IAP-TB-6E]** — IAP Textbook, developmental chapters.
 - **[NELSON-21:CH34-40]** — Nelson, developmental and behavioural chapters.
 
-**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — named DBP [NEEDS EXPANSION IN EDITORIAL PASS].
+**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — named DBP [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 **Departures from cited guidelines:**
 

@@ -90,7 +90,7 @@ This protocol governs primary-care behavioural-health management at SKIDS clinic
 
 **Last updated:** 2026-04-29
 **Next scheduled review:** 2027-04-29
-**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance: a named developmental-behavioural pediatrician, OR a SKIDS pediatrician with documented behavioural-pediatrics fellowship + ADHD-pharmacotherapy expertise. The owner co-signs §5 and §7 with the named LISSUN clinical lead. [NEEDS EXPANSION IN EDITORIAL PASS — confirm permanent owner and the LISSUN clinical-lead countersignature requirement]
+**Protocol owner:** Dr. Satish Prasad Rath, MD Paediatrics (interim). Permanent governance: a named developmental-behavioural pediatrician, OR a SKIDS pediatrician with documented behavioural-pediatrics fellowship + ADHD-pharmacotherapy expertise. The owner co-signs §5 and §7 with the named LISSUN clinical lead. [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 **Departures from cited guidelines:**
 
@@ -98,7 +98,7 @@ This protocol governs primary-care behavioural-health management at SKIDS clinic
 
 2. *SSRI initiation for moderate adolescent depression in primary care.* GLAD-PC supports primary-care SSRI initiation with structured monitoring. In Indian practice, SSRI initiation is often deferred to psychiatry. B1-08 follows GLAD-PC — fluoxetine first-line — with explicit psychiatric-handoff capacity (LISSUN psychiatrist available for joint-care within the network) and the §6 monitoring framework. SSRI initiation always co-occurs with structured CBT (LISSUN-delivered).
 
-3. *LISSUN as the named therapy partner.* The protocol references LISSUN explicitly as the SKIDS therapy delivery partner for Bangalore (and other SKIDS clinic locations as the partnership scales). This is operationally specific to the SKIDS network and is documented per CLAUDE.md §7.3. [NEEDS EXPANSION IN EDITORIAL PASS — confirm the LISSUN partnership scope across all SKIDS clinic locations and the per-location named LISSUN clinical lead]
+3. *LISSUN as the named therapy partner.* The protocol references LISSUN explicitly as the SKIDS therapy delivery partner for Bangalore (and other SKIDS clinic locations as the partnership scales). This is operationally specific to the SKIDS network and is documented per CLAUDE.md §7.3. [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 4. *Privacy and confidentiality framework for adolescents.* B1-08 follows the A1 §10.5 / B1-09 §10.5 framework — adolescent psychosocial information confidential except in cases of self-harm intent, harm-to-others intent, abuse / exploitation. This is more restrictive on disclosure-to-parents than some Indian primary-care practice; it is intentional and is the core enabler of adolescent engagement [WHO-mhGAP-2023, AAP-Suicide-2024].
 

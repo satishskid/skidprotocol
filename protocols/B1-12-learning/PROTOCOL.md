@@ -59,7 +59,7 @@ companion_module_status: not_specified
 - **[AAP-LearningDisability-2014]** — Handler SM, Fierson WM; AAP. Learning Disabilities, Dyslexia, and Vision. Pediatrics. 2011;128(5):e1173–e1180. Source for learning-disability assessment framework and vision-learning myth debunking.
 - **[DSM-5-SLD]** — American Psychiatric Association. DSM-5 Specific Learning Disorder criteria. Source for diagnostic classification.
 - **[RPWD-2016]** — Rights of Persons with Disabilities Act, 2016 (India). Legal framework for SLD accommodations and disability certification.
-- **[IAP-Learning-2020]** — Indian Academy of Pediatrics. Position statement on learning disabilities in the Indian context, 2020 [NEEDS EXPANSION IN EDITORIAL PASS].
+- **[IAP-Learning-2020]** — Indian Academy of Pediatrics. Position statement on learning disabilities in the Indian context, 2020 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **[AAP-BF-4E]** — Already referenced. School-performance screening at periodic visits.
 - **[NELSON-21:CH49]** — Nelson, learning-disability chapter.
 - **[IAP-TB-6E]** — IAP Textbook, developmental-behavioural chapters.

@@ -62,7 +62,7 @@ companion_module_status: not_specified
 - **[REELS-3]** — Bzoch KR, League R, Brown VL. Receptive-Expressive Emergent Language Scale, 3rd edition. Source for receptive-expressive language assessment 0–36 months.
 - **[AAP-BF-4E]** — Already referenced. Language milestones at periodic visits.
 - **[CDC-Milestones-2022]** — Already referenced. Language milestone benchmarks.
-- **[IAP-Speech-2019]** — Indian Academy of Pediatrics. Position statement on speech and language development assessment, 2019 [NEEDS EXPANSION IN EDITORIAL PASS].
+- **[IAP-Speech-2019]** — Indian Academy of Pediatrics. Position statement on speech and language development assessment, 2019 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **[NELSON-21:CH48-52]** — Nelson, language and speech chapters.
 - **[IAP-TB-6E]** — IAP Textbook, developmental chapters.
 

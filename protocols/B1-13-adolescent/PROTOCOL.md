@@ -80,19 +80,19 @@ companion_module_status: not_specified
 - **[IAP-TB-6E]** — IAP Textbook, adolescent chapters.
 - **[ICMR-NMHS-2016]** — ICMR National Mental Health Survey, 2016. Used for adolescent mental-health prevalence framing.
 
-**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — adolescent medicine specialist [NEEDS EXPANSION IN EDITORIAL PASS].
+**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — adolescent medicine specialist [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 **Departures:**
 
-1. *Privacy framework strict.* Per A1 / B1-08, adolescent psychosocial information is confidential except for self-harm intent, harm-to-others intent, abuse / exploitation. This is more restrictive than typical Indian primary-care practice [NEEDS EXPANSION IN EDITORIAL PASS — confirm legal alignment with POCSO mandatory reporting and family-engagement expectations].
+1. *Privacy framework strict.* Per A1 / B1-08, adolescent psychosocial information is confidential except for self-harm intent, harm-to-others intent, abuse / exploitation. This is more restrictive than typical Indian primary-care practice [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
-2. *Contraception counselling delivery.* B1-13 provides counselling and (where adolescent is competent and the counselling indicates) hormonal-method initiation. Some Indian centres restrict contraception counselling to gynaecology / family-planning specialists. The departure aligns with AAP / WHO youth-friendly-services framing but requires careful cultural delivery [NEEDS EXPANSION IN EDITORIAL PASS — confirm SKIDS network position].
+2. *Contraception counselling delivery.* B1-13 provides counselling and (where adolescent is competent and the counselling indicates) hormonal-method initiation. Some Indian centres restrict contraception counselling to gynaecology / family-planning specialists. The departure aligns with AAP / WHO youth-friendly-services framing but requires careful cultural delivery [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 3. *Disclosure-to-parent on substance use.* Adolescent substance use disclosed under privacy framework is not disclosed to parent except where escalation to §7 / safety concern fires. This is more restrictive than typical Indian practice but is the operational enabler of adolescent disclosure and brief-intervention engagement.
 
 4. *POCSO mandatory reporting.* Confirmed sexual abuse / exploitation triggers POCSO mandatory reporting; this overrides confidentiality. Framing for the adolescent is matter-of-fact and supportive.
 
-5. *Age-of-consent for hormonal contraception.* Indian legal framework around adolescent contraception is complex; B1-13 follows the framework that adolescent's reproductive-health decisions are confidential when the adolescent is competent to decide and is at low safeguarding risk. Operational details require confirmation [NEEDS EXPANSION IN EDITORIAL PASS].
+5. *Age-of-consent for hormonal contraception.* Indian legal framework around adolescent contraception is complex; B1-13 follows the framework that adolescent's reproductive-health decisions are confidential when the adolescent is competent to decide and is at low safeguarding risk. Operational details require confirmation [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 ---
 
@@ -327,7 +327,7 @@ Methods at B1-13:
 - **Combined oral contraceptive (COC):** pre-screen for contraindications (smoking, migraine with aura, thrombotic risk, uncontrolled HTN, severe liver disease); start with low-dose ethinylestradiol-containing OCP; review at 6 weeks then 3-monthly.
 - **Progestin-only pill (POP):** alternative where COC contraindicated.
 - **Depot medroxyprogesterone (DMPA):** every 3 months IM; counsel on bone-density implications and reversibility.
-- **Long-acting reversible contraception (LARC) — IUD (Cu-IUD or LNG-IUS), implant:** B1-13 generally counsels and routes to gynaecology partner for insertion; SKIDS may not insert IUDs at all clinics depending on training [NEEDS EXPANSION IN EDITORIAL PASS].
+- **Long-acting reversible contraception (LARC) — IUD (Cu-IUD or LNG-IUS), implant:** B1-13 generally counsels and routes to gynaecology partner for insertion; SKIDS may not insert IUDs at all clinics depending on training [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **Emergency contraception:** levonorgestrel 1.5 mg PO single dose within 72h (up to 120h with reduced efficacy); ulipristal acetate 30 mg up to 120h alternative.
 
 ### 6.5 Tapering / stopping

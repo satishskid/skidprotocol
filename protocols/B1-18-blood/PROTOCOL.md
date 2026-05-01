@@ -53,7 +53,7 @@ companion_module_status: not_specified
 
 - **[WHO-2011-Anaemia]** — Already referenced. Anaemia classification.
 - **[IAP-IDA-2021]** — Already referenced (B1-09). IDA management.
-- **[IAP-Thalassemia-2019]** — Indian Academy of Pediatrics position statement on thalassemia screening and management, 2019 [NEEDS EXPANSION IN EDITORIAL PASS].
+- **[IAP-Thalassemia-2019]** — Indian Academy of Pediatrics position statement on thalassemia screening and management, 2019 [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 - **[AAP-ITP-2011]** — Neunert C, et al. ASH 2011 evidence-based practice guideline for immune thrombocytopenia. Blood. 2011;117(16):4190–4207.
 - **[NELSON-21:CH490-530]** — Nelson, haematology chapters.
 - **[IAP-TB-6E]** — IAP Textbook, haematology chapters.

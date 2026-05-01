@@ -72,13 +72,13 @@ companion_module_status: not_specified
 - **[NTEP-2020]** — Already referenced (A1). TB routing.
 - **[IAP-Allergy-2022]** — Already referenced (B1-06). Cross-care for atopic march.
 
-**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pediatric pulmonologist with allergy expertise [NEEDS EXPANSION IN EDITORIAL PASS].
+**Last updated:** 2026-04-30. **Next review:** 2027-04-30. **Owner:** Dr. Satish Prasad Rath (interim); permanent — pediatric pulmonologist with allergy expertise [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 **Departures from cited guidelines:**
 
 1. *GINA Step 5 is out of Tier 1 scope.* GINA permits primary-care clinicians to manage through Step 4. B1-14 limits Tier 1 to Steps 1–4; Step 5 (high-dose ICS + LABA + add-on controller + biologic candidacy assessment) routes to §7.3 pediatric pulmonology subspecialist. This is conservative; the departure protects junior pediatricians from managing complex severe asthma without subspecialty oversight.
 
-2. *ICS-formoterol as MART.* GINA 2024 recommends ICS-formoterol as the preferred reliever and MART (maintenance and reliever therapy) from Step 3 in adolescents ≥ 12 years. SKIDS follows this where ICS-formoterol combination inhalers are available in India. Where not available, SABA as reliever + separate ICS controller remains acceptable [NEEDS EXPANSION IN EDITORIAL PASS — confirm ICS-formoterol availability in Indian market].
+2. *ICS-formoterol as MART.* GINA 2024 recommends ICS-formoterol as the preferred reliever and MART (maintenance and reliever therapy) from Step 3 in adolescents ≥ 12 years. SKIDS follows this where ICS-formoterol combination inhalers are available in India. Where not available, SABA as reliever + separate ICS controller remains acceptable [TO BE DECIDED BY SKIDS PEDIATRICIAN].
 
 3. *Spirometry not available in all SKIDS clinics.* Where spirometry is not available (smaller clinics), peak-flow monitoring + clinical assessment is used for control evaluation. Spirometry is a Premium-tier benefit and a clinic-operations dependency. The protocol specifies which decisions require spirometry (e.g., confirming diagnosis in children ≥ 6 years; OFC clearance for B1-06) and which can be made on clinical + peak-flow grounds alone.
 
@@ -175,7 +175,7 @@ GINA control assessment items (for ≥ 6 years, in past 4 weeks):
 - SpO₂ < 92% on room air = severe exacerbation → §7.1.
 - SpO₂ 92–95% = moderate exacerbation → §6.7 in-clinic management with close monitoring.
 
-**Fractional exhaled nitric oxide (FeNO):** [NEEDS EXPANSION IN EDITORIAL PASS — confirm whether SKIDS clinics will stock FeNO devices. FeNO > 35 ppb in children supports eosinophilic airway inflammation and ICS responsiveness; useful for phenotyping and ICS dose titration. If not available, clinical + spirometry assessment is sufficient.]
+**Fractional exhaled nitric oxide (FeNO):** [TO BE DECIDED BY SKIDS PEDIATRICIAN]
 
 ### 4.5 Chronic cough workup (cough > 4 weeks)
 
