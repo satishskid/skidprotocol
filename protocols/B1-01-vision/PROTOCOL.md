@@ -312,7 +312,7 @@ These do not have a Mild / Moderate / Severe grading at B1-01. Detection at B1-0
 
 - *Borderline acuity:* if the child's tested acuity is at the cutoff (e.g., 5y old at exactly 20/40), repeat the test with a different chart and at a different time. Persistent borderline acuity over two visits → trial of refractive correction; persistence after correction → §7.3.
 - *Re-grading after correction:* re-administer acuity, refraction, and stereoacuity at every B1-01 follow-up. Use the same chart family for repeatability.
-- *Severity progression triggers:* myopia progression > 0.75 D / year despite low-dose atropine 0.01% → escalate to 0.05% (per §6.3) and document in PHR. Progression > 1.00 D / year despite 0.05% → §7.3 routine to pediatric ophthalmology for higher-concentration atropine or alternative myopia-control modality (orthokeratology, multifocal soft contact lenses — outside Tier 1 scope).
+- *Severity progression triggers:* myopia progression > 0.50 D / year despite low-dose atropine 0.01% → escalate to 0.05% (per §6.3) and document in PHR. Progression > 1.00 D / year despite 0.05% → §7.3 routine to pediatric ophthalmology for higher-concentration atropine or alternative myopia-control modality (orthokeratology, multifocal soft contact lenses — outside Tier 1 scope).
 - *Multi-condition presentation:* a child can have refractive error + allergic conjunctivitis + convergence insufficiency simultaneously. Each is graded and managed independently.
 - *Adolescent vision-impact uplift:* if visual symptoms are significantly impacting school performance OR the child is the primary academic-performance driver in the family's framing of the visit, escalate at least to Standard tier even if the technical refractive error is Mild. Document rationale.
 

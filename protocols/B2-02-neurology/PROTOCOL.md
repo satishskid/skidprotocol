@@ -64,9 +64,9 @@ companion_module_status: not_specified
 
 **§4:** Neurological examination (cranial nerves, tone, power, reflexes, coordination, gait, fundoscopy), EEG ordering + interpretation, MRI brain ordering + interpretation, nerve-conduction studies, metabolic screening panels, genetic testing coordination.
 
-**§5 [SACRED]:** Epilepsy severity by seizure frequency and ASM response (well-controlled = seizure-free ≥ 12 months on ASM; poorly controlled = ≥ 1 seizure/month despite 2 appropriate ASM = drug-resistant → §7.3 for epilepsy-surgery evaluation). Headache severity by frequency/disability (MIDAS score). CP severity by GMFCS level (I–V).
+**§5 [SACRED]:** Epilepsy severity by ASM response (well-controlled = seizure-free ≥ 12 months on ASM; drug-resistant epilepsy: failure of adequate trials of two tolerated, appropriately chosen, and correctly used anti-seizure medication schedules to achieve sustained seizure freedom [ILAE 2010 definition]. Note: the definition rests on ASM failure, not seizure frequency — drug-resistant epilepsy → §7.3 for epilepsy-surgery evaluation). Headache severity by frequency/disability (MIDAS score). CP severity by GMFCS level (I–V).
 
-**§6:** ASM prescribing (weight-based, seizure-type-matched), migraine acute + prophylactic treatment, botulinum toxin for spasticity, GH-therapy coordination for DMD (cross B2-01), physiotherapy prescriptions, orthopaedic device prescriptions (AFOs, standing frames).
+**§6:** ASM prescribing (weight-based, seizure-type-matched): Valproate: first-line for generalised epilepsies (absence, JME, generalised tonic-clonic). CRITICAL: teratogenic — do NOT use as first-line in adolescent girls of childbearing potential; use levetiracetam or lamotrigine instead. Carbamazepine/oxcarbazepine: first-line for focal epilepsies. CONTRAINDICATED in generalised epilepsies (can worsen absence and myoclonic seizures). Ethosuximide: first-line for childhood absence epilepsy specifically. Migraine acute + prophylactic treatment, botulinum toxin for spasticity, GH-therapy coordination for DMD (cross B2-01), physiotherapy prescriptions, orthopaedic device prescriptions (AFOs, standing frames).
 
 **§7 [SACRED]:**
 - §7.1: Status epilepticus (→ ER); acute neurological deterioration with raised ICP (→ ER + neurosurgery); acute stroke (→ ER).

@@ -154,9 +154,10 @@ Child with speech / language concern
 | Severity | Criteria | Action |
 |---|---|---|
 | **At risk (late talker)** | Expressive delay (< 50 words at 24m OR no 2-word phrases at 24m); normal receptive; normal communicative intent | §6.1 — monitor + parent coaching |
-| **Mild delay** | REELS quotient 70–84; isolated expressive or articulation delay; intelligible to familiar listeners | §6.2 — SLP therapy 1×/week |
-| **Moderate delay** | REELS quotient 55–69; mixed receptive-expressive delay; reduced intelligibility | §6.2 — SLP therapy 2×/week + parent coaching |
-| **Severe delay** | REELS quotient < 55; minimal expressive output; poor comprehension; unintelligible | §6.3 — intensive SLP + B1-23 cross + §7.3 formal assessment |
+| **At risk** | REELS quotient 78–84 (approximately −1 to −1.5 SD); isolated expressive or mild articulation delay; intelligible to familiar listeners | §6.1 — monitor + parent coaching; initiate therapy if no progress at 3 months |
+| **Mild delay** | REELS quotient 70–77 (approximately −1.5 to −2 SD); isolated expressive or articulation delay; intelligible to familiar listeners | §6.2 — SLP therapy 1×/week |
+| **Moderate delay** | REELS quotient 55–69 (approximately −2 to −3 SD); mixed receptive-expressive delay; reduced intelligibility | §6.2 — SLP therapy 2×/week + parent coaching |
+| **Severe delay** | REELS quotient < 55 (> −3 SD below mean); minimal expressive output; poor comprehension; unintelligible | §6.3 — intensive SLP + B1-23 cross + §7.3 formal assessment |
 
 ### Boundary rules
 - Late talker with normal receptive = monitor at B1-11; most catch up by 3 years. If not improved by 30 months → initiate therapy.

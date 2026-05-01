@@ -184,7 +184,7 @@ Used at the indicated bands:
 | **IAP Growth chart percentile** | Growth | 5–18y | weight or height between 3rd and 10th centile | < 3rd centile or > 97th centile; or crossing two major centiles |
 | **Trivandrum DST** | Development | 0–6y | one delay item | two or more delay items, or any "warning sign" item [IAP-TB-6E:CH4] |
 | **ASQ-3** | Development | 1m–5.5y | score in monitoring zone (1 SD below cutoff) | score below cutoff in any domain [CDC-Milestones-2022] |
-| **M-CHAT-R/F** | Autism screen | 16–30m | score 3–7 with negative follow-up interview | score 3–7 with positive follow-up, or score ≥8 [AAP-BF-4E] |
+| **M-CHAT-R/F** | Autism screen | 16–30m | score 3–7 with negative follow-up interview | score 3–7 with positive follow-up, or score ≥8 [Robins-MCHATR-2014] |
 | **BEARS** | Sleep | 2–18y | one positive domain, mild | two or more positive domains, or any severe domain |
 | **Vanderbilt parent + teacher** | ADHD screen | 6–12y | partial criteria (4–5 inattentive or hyperactive items) | full DSM criteria met on ≥1 informant [AAP-2019-ADHD] |
 | **SDQ** | Behavioural-emotional | 4–17y | score in borderline band | score in abnormal band [AAP-BF-4E] |
@@ -192,7 +192,7 @@ Used at the indicated bands:
 | **GAD-7** | Anxiety | 12–18y | score 5–9 | score ≥10 |
 | **CRAFFT** | Substance use | 12–18y | score 1 | score ≥2 |
 | **HEEADSSS** | Adolescent psychosocial | 12–18y | one risk domain | two or more, or any disclosure of abuse, exploitation, or self-harm |
-| **MUAC** (mid-upper-arm circumference) | Acute malnutrition | 6m–5y | 12.5–13.5 cm (yellow, moderate acute malnutrition risk) | < 12.5 cm (severe acute malnutrition; §7) [WHO-2024-Growth] |
+| **MUAC** (mid-upper-arm circumference) | Acute malnutrition | 6m–5y | 12.5–13.5 cm (yellow, moderate acute malnutrition risk) | < 11.5 cm = Red §7.1 (SAM emergency); 11.5–12.5 cm = Orange to B1-09 (MAM) [WHO-2024-Growth] |
 | **BP percentile** (per AAP 2017 tables) | Blood pressure | ≥3y | 90th–<95th centile (elevated BP) | ≥95th centile confirmed on three readings [AAP-2017-HBP] |
 
 Where a Companion-supported scale is administered, the score is auto-calculated by the Doctor Module (see §9).
@@ -304,7 +304,7 @@ This is not a single severity scale because A1 covers many domains simultaneousl
 | Adolescent psychosocial | HEEADSSS + PHQ-A + GAD-7 + CRAFFT | Per §4.3 cutoffs; **PHQ-A item 9 positivity = automatic §7.1 Red regardless of total score** [AAP-BF-4E] |
 | Anaemia | POC Hb vs. WHO age-specific cutoff | < 7.0 g/dL = §7.2 Red urgent; 7.0–WHO cutoff = Orange [WHO-2011-Anaemia] |
 | BP | AAP 2017 percentile tables | 90th–<95th = Yellow, ≥95th confirmed = Orange, ≥99th + 5 mmHg or symptoms = §7.2 Red [AAP-2017-HBP] |
-| Acute malnutrition | MUAC | 12.5–13.5 cm = Yellow, < 12.5 cm = §7.2 Red [WHO-2024-Growth] |
+| Acute malnutrition | MUAC | 12.5–13.5 cm = Yellow, 11.5–12.5 cm = Orange to B1-09 (MAM), < 11.5 cm = §7.1 Red (SAM emergency) [WHO-2024-Growth] |
 | Vaccination | IAP IIS reconciliation | Up-to-date = Green, due-now = Orange to B1-22, severely overdue or measles-outbreak-context catch-up = §7.3 Red routine same-week B1-22 |
 | Oral health | Visual caries inspection + AAPD risk score | Visible caries Yellow if early enamel only; Orange to B1-04 if cavitation; Red §7.3 if facial cellulitis or dental abscess |
 
@@ -330,7 +330,7 @@ The intervention tiers below correspond to flag tiers in §5.
 **Pharmacological:**
 - Routine vaccination per IAP IIS schedule for this visit, administered in-clinic [IAP-IIS-2024].
 - Vitamin D supplementation per IAP guidance: 400 IU/day for 0–12m breastfed/partially breastfed; 600 IU/day for 1–18 years if dietary intake is inadequate (most Indian children) [IAP-Period-2024]. Dispensed from in-clinic stock at Basic+ subscription tiers.
-- Iron supplementation per IAP guidance: 1 mg/kg/day elemental iron prophylactically from 6m–5y (with parental discretion below 12m if exclusive breastfeeding without iron-fortified weaning), and 3 mg/kg/day for adolescent menstruating females per IAP recommendation [IAP-Period-2024].
+- Iron supplementation per IAP guidance: 1 mg/kg/day elemental iron prophylactically from 6m–5y (with parental discretion below 12m if exclusive breastfeeding without iron-fortified weaning). Adolescent menstruating females: 60 mg elemental iron weekly (IFA programme) for prophylaxis; therapeutic dosing (3–6 mg/kg/day, max 200 mg/day) only for confirmed IDA per B1-09 [IAP-IDA-2021, IAP-Period-2024].
 
 **Behavioural / Lifestyle anticipatory guidance** (delivered verbally, with parent app reinforcement per §10.4):
 - Age-appropriate sleep duration and sleep hygiene targets.
@@ -391,8 +391,9 @@ In addition to all of §6.1:
 | Adolescent psychosocial (non-emergency) | B1-13 Adolescent | within 2 weeks |
 | Pulmonology / asthma / chronic cough | B1-14 Pulmonology / Asthma | within 4 weeks |
 | GI / chronic constipation / GORD / abdominal pain | B1-15 GI | within 4 weeks |
-| Murmur / BP confirmed elevated / sports-clearance fail | B1-16 Cardiac | within 4 weeks |
-| BP confirmed ≥95th centile / proteinuria / haematuria / recurrent UTI | B1-17 Kidney & Urology | within 4 weeks |
+| Murmur / sports-clearance cardiac concern | B1-16 Cardiac | within 4 weeks |
+| BP confirmed ≥ 95th centile | B1-17 Kidney & Urology (+ B1-16 co-referral) | within 4 weeks |
+| Proteinuria / haematuria / recurrent UTI | B1-17 Kidney & Urology | within 4 weeks |
 | Anaemia (Hb between 7.0 and WHO cutoff) / suspected thalassemia trait | B1-18 Blood | within 4 weeks |
 | Recurrent infections | B1-19 Infections | within 4 weeks |
 | Bedwetting (≥7 years) | B1-20 Bedwetting | within 6 weeks |

@@ -181,7 +181,7 @@ Order for all children with BMI ≥ 95th centile and for overweight (85th–94th
 | **Fasting glucose** | All obese | IFG 100–125 mg/dL = pre-diabetes → §6; ≥ 126 mg/dL = T2DM → §7.3 B2-01 |
 | **HbA1c** | All obese ≥ 10 years or with risk factors | 5.7–6.4% = pre-diabetes → §6; ≥ 6.5% = T2DM → §7.3 B2-01 |
 | **Fasting lipid panel** | All obese; overweight with family hx | LDL ≥ 130 mg/dL = borderline-high; ≥ 160 mg/dL = high; ≥ 190 mg/dL = very high |
-| **ALT** | All obese (NAFLD screen) | > 2× ULN (> 44 U/L for girls; > 50 U/L for boys) → lifestyle trial 6 months → §7.3 if persistent |
+| **ALT** | All obese (NAFLD screen) | > 2× the local laboratory's upper limit of normal (ULN) for ALT (typical paediatric ULN: 22–25 U/L for girls, 25–33 U/L for boys; 2× ULN therefore typically 44–50 U/L — use your laboratory's specific reference range) [NASPGHAN-NAFLD-2017] → lifestyle trial 6 months → §7.3 if persistent |
 | **TSH** | All obese (secondary cause screen) | Elevated → §7.3 B2-01 Endocrine for hypothyroidism management |
 | **Fasting insulin** | Obese with acanthosis or family T2DM | HOMA-IR > 3.16 = insulin resistance |
 | **Uric acid** | Severe obesity or metabolic syndrome features | Elevated → gout risk; lifestyle management |

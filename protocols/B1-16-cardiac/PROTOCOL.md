@@ -216,8 +216,8 @@ Child with cardiac concern
 | Stage | BP level | Action |
 |---|---|---|
 | Elevated BP | 90th–<95th centile | Lifestyle; recheck 6 months |
-| Stage 1 | 95th–99th + 5 mmHg | Lifestyle + recheck 1–2 weeks; if persistent → §7.3 |
-| Stage 2 | > 99th + 5 mmHg | §7.2 urgent |
+| Stage 1 | 95th to <95th + 12 mmHg (or 130/80 to <140/90 in adolescents ≥ 13y) | Lifestyle + recheck 1–2 weeks; if persistent → §7.3 |
+| Stage 2 | ≥ 95th centile + 12 mmHg (or ≥ 140/90 in adolescents, whichever lower) | §7.2 urgent |
 | Hypertensive emergency | ≥ Stage 2 + symptoms (headache, visual, seizure) | §7.1 ER |
 
 ### 5.3 Chest pain / syncope

@@ -305,7 +305,7 @@ For short stature specifically (height-for-age):
 |---|---|---|
 | ≥ 13.5 cm | Green | No acute malnutrition; routine surveillance |
 | 12.5–13.5 cm | Yellow (moderate) | §6.1 Light tier rehabilitation |
-| 11.5–12.5 cm | Orange (severe) | §6.2 Standard tier rehabilitation in B1-09; close monitoring with weekly MUAC for 4 weeks; if MUAC drops < 11.5 cm at any review → §7 |
+| 11.5–12.5 cm | Orange (severe) | §6.2 Standard tier rehabilitation in B1-09; close monitoring with weekly MUAC for 4 weeks; if MUAC drops < 11.5 cm at any review → §7. **Departure note:** WHO-SAM-2013 classifies MUAC < 12.0 cm as SAM. SKIDS manages 11.5–12.5 cm in-clinic as a deliberate departure — this band receives intensive outpatient nutritional rehabilitation provided the child has no bilateral pitting oedema, no medical complications (persistent vomiting, severe dehydration, hypothermia, lethargy), and is tolerating oral feeds. This departure is justified by WHO community-based management guidelines for uncomplicated SAM. If any complication present → §7.1 regardless of MUAC. |
 | < 11.5 cm | Red — SAM | §7.1 immediately to SAM ward; B1-09 does not manage |
 | Any MUAC + bilateral pitting oedema | Red — SAM (kwashiorkor pattern) | §7.1 immediately to SAM ward |
 
@@ -407,7 +407,7 @@ These do not have a Mild / Moderate / Severe grading; they have a structured-pro
 
 | Drug | Dose | Duration |
 |---|---|---|
-| Cholecalciferol (vitamin D3) | 1000 IU/day < 1y; 1500–2000 IU/day 1–18y | 8–12 weeks; recheck 25-OH-D at 12 weeks; transition to prophylactic dose if normalised [IAP-VitaminD-2017] |
+| Cholecalciferol (vitamin D3) | Insufficiency (20–30 ng/mL): 600–1000 IU/day for children 1–18 years; 400 IU/day for infants. Deficiency (< 20 ng/mL): 2000 IU/day for 1–18 years; 1000 IU/day for infants × 8–12 weeks, then maintenance [IAP-VitaminD-2017] | 8–12 weeks; recheck 25-OH-D at 12 weeks; transition to prophylactic dose if normalised [IAP-VitaminD-2017] |
 
 **Borderline B12 (100–200 pg/mL):**
 - Cyanocobalamin / methylcobalamin 500 μg PO once daily × 4 weeks.
@@ -446,7 +446,7 @@ Expected timeline: mild faltering catch-up over 3 months; vitamin D normalisatio
 
 | Drug | Dose | Duration |
 |---|---|---|
-| Ferrous fumarate / ferrous sulfate (oral) | 3 mg/kg/day elemental iron PO once daily on empty stomach OR with vitamin C-containing food (orange juice; not with milk / tea / antacid) | Until Hb normalises + 3 months at therapeutic dose; transition to 1 mg/kg/day prophylactic at A1 cadence [IAP-IDA-2021, Cochrane-CD009085] |
+| Ferrous fumarate / ferrous sulfate (oral) | 3–6 mg/kg/day elemental iron PO in 2–3 divided doses (max 200 mg/day); 3 mg/kg/day for mild IDA, up to 6 mg/kg/day for moderate IDA; on empty stomach OR with vitamin C-containing food (orange juice; not with milk / tea / antacid) [IAP-IDA-2021] | Until Hb normalises + 3 months at therapeutic dose; transition to 1 mg/kg/day prophylactic at A1 cadence [IAP-IDA-2021, Cochrane-CD009085] |
 | Iron polymaltose complex (alternative for GI intolerance) | Dose-equivalent to ferrous fumarate | As above |
 
 Recheck Hb at 4 weeks (response check — Hb should rise by ≥ 1 g/dL). If no response at 4 weeks, reassess: adherence (most common cause), wrong diagnosis (re-screen ferritin, consider thalassemia trait, occult bleeding), or absorption issue — and consider §7.3 routine to B1-18 Blood for fuller workup.

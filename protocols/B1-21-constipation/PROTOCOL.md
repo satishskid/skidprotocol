@@ -27,7 +27,7 @@ companion_module_status: not_specified
 ## §1 Service definition
 
 **What this clinic does:**
-- Diagnoses functional constipation per Rome IV criteria (≥ 2 of: ≤ 2 stools/week; ≥ 1 episode faecal incontinence/week; stool-retentive posturing; painful/hard stools; large-calibre stools; large faecal mass on exam — for ≥ 1 month) [NASPGHAN-2018-FC, Rome-IV-2016].
+- Diagnoses functional constipation per Rome IV criteria (≥ 2 of: ≤ 2 stools/week; ≥ 1 episode faecal incontinence/week; stool-retentive posturing; painful/hard stools; large-calibre stools; large faecal mass on exam — for ≥ 1 month (infants and toddlers < 4 years) or ≥ 2 months (children ≥ 4 years) [Rome-IV-2016]) [NASPGHAN-2018-FC, Rome-IV-2016].
 - Manages disimpaction (faecal loading) with high-dose oral PEG 3350 (polyethylene glycol) protocol: 1.5 g/kg/day (max 100 g) × 3–6 days until impaction clears [NASPGHAN-2018-FC].
 - Maintains laxative therapy with PEG 3350 0.4–0.8 g/kg/day for 3–6 months minimum (aim for soft daily stool, Bristol 3–4), then gradual weaning.
 - Provides dietary-fibre counselling with SKIDS dietitian (cross B1-09): age + 5 g/day fibre target; adequate fluid intake; reduce excessive dairy if constipating.
@@ -92,7 +92,7 @@ companion_module_status: not_specified
 ### 4.1 History
 1. Stool pattern: frequency, consistency (Bristol Stool Scale), size, pain, blood on surface, posturing.
 2. Onset: from birth (Hirschsprung concern) vs. toilet-training onset (functional) vs. post-illness (post-infectious).
-3. Meconium passage: within 24h (normal) vs. delayed > 48h (Hirschsprung alarm feature).
+3. Meconium passage: within 48h (normal); delayed > 48h (Hirschsprung disease alarm feature). Note: passage between 24–48h is within normal variation and is NOT an alarm feature.
 4. Diet: fibre intake, fluid intake, excessive milk/dairy (> 500 mL/day constipating in toddlers).
 5. Toileting: routine, avoidance of school/public toilets, punishment history.
 6. Medications: iron supplementation (A1 prophylactic iron is common cause), opioids, anticonvulsants.

@@ -104,6 +104,7 @@ companion_module_status: not_specified
 ### 4.4 ITP assessment
 - Typical: age 2–10; preceded by viral illness; isolated thrombocytopenia (platelet < 100,000); no hepatosplenomegaly; no lymphadenopathy; no blast cells on smear; child otherwise well.
 - Atypical features (any) → §7.2: age < 1 or > 10, pancytopenia, hepatosplenomegaly, lymphadenopathy, bone pain, weight loss.
+- Age < 1 year: consider non-accidental injury (NAI) in the differential for unexplained bruising/petechiae in infants — mandatory safeguarding screen.
 
 ### 4.5 Lymphadenopathy evaluation
 - > 2 cm, non-tender, fixed, > 4 weeks → FBC, peripheral smear, ESR, CRP, LDH, uric acid, chest X-ray.
@@ -124,7 +125,7 @@ companion_module_status: not_specified
 ### Boundary rules
 - Hb < 5 = §7.1 ER. Hb 5–7 = §7.2 + same-week B1-18. Hb 7–cutoff = B1-18 manages.
 - Pancytopenia = always §7.2 (never manage at B1-18 without haematology input).
-- ITP typical = B1-18 observes. ITP atypical or platelet < 10K = §7.2.
+- ITP typical (platelet > 20,000, no mucosal bleeding) = B1-18 observes. ITP with platelet ≤ 20,000 OR mucosal bleeding = §6.2 treatment initiation + §7.3 haematology guidance. ITP with platelet < 10,000 OR severe bleeding = §7.2 urgent haematology.
 - Thalassemia TRAIT = B1-18 counsels. Thalassemia MAJOR = §7.3 haematology.
 
 ---
@@ -138,7 +139,7 @@ companion_module_status: not_specified
 
 ### 6.2 Standard tier
 - ITP (typical, platelet 20–100K, no bleeding): observation; activity restriction (no contact sports until platelet > 50K); weekly platelet count × 4 weeks; if spontaneous recovery → discharge. If persisting > 3 months → chronic ITP → §7.3.
-- ITP (platelet < 20K or mucosal bleeding): IVIG or short-course oral prednisolone per haematology guidance → §7.3 for management initiation; B1-18 monitors after treatment.
+- ITP (platelet ≤ 20,000 or mucosal bleeding): initiate treatment per haematology guidance (IVIG or short-course prednisolone) — route §7.3 for haematology input before treatment if not emergent; §7.2 if platelet < 10,000 or severe bleeding.
 - von Willebrand disease type 1: desmopressin (DDAVP) trial for response assessment → §7.3 haematology for ongoing management plan.
 
 ### 6.3 Intensive tier
@@ -162,7 +163,7 @@ companion_module_status: not_specified
 - [ ] **Pancytopenia** → haematology/oncology.
 - [ ] **Lymphadenopathy with malignancy features** (B-symptoms, blast cells, hepatosplenomegaly) → oncology.
 - [ ] **ITP atypical** → haematology.
-- [ ] **ITP platelet < 10K** → haematology for IVIG/steroid decision.
+- [ ] **ITP platelet < 10,000 OR severe/life-threatening bleeding** → haematology urgent.
 
 ### 7.3 Routine (within 4 weeks)
 - [ ] **Thalassemia major / intermedia confirmed** → haematology centre.

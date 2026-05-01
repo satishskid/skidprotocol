@@ -97,6 +97,8 @@ This protocol governs primary-care allergy management at SKIDS clinics. It follo
 
 5. *Adrenaline auto-injector dispensing in primary care.* B1-06 dispenses adrenaline auto-injectors directly. Some Indian centres restrict to specialist; the supply chain has historically been inconsistent. SKIDS commits to maintaining auto-injector stock and dispensing per protocol; A1 §7.1 anaphylaxis-without-action-plan is a §7.1 trigger that B1-06 closes (every at-risk family leaves with action plan + auto-injector pair after the B1-06 visit) [NEEDS EXPANSION IN EDITORIAL PASS — confirm SKIDS supply-chain commitment for adrenaline auto-injectors across all clinic locations].
 
+6. *Adrenaline auto-injector weight-banding cutoff.* The 25 kg cutoff for 150 mcg → 300 mcg auto-injector transition is a SKIDS operational decision. WAO-2020 uses 25 kg; UK Resuscitation Council and ASCIA use 20 kg; some markets use 30 kg. For children weighing 22–30 kg, clinical judgement applies — document the weight and the dose selected.
+
 No other material departures.
 
 ---
@@ -495,8 +497,12 @@ OFC procedure at B1-06:
 ### 6.5 Atopy-prevention counselling for at-risk infants
 
 For atopic-risk infants (eczema in infancy and / or family history of food allergy):
-- Early introduction of allergens (egg, peanut) starting at 4–6 months as part of complementary feeding (joint with B1-09 §6.1 CF programme) [LEAP-2015, NIAID-Peanut-2017].
-- Skin-prick testing prior to peanut introduction in infants with severe eczema OR pre-existing egg allergy; positive SPT → §7.3 routine before in-home introduction.
+
+- **Peanut introduction per LEAP/NIAID-Peanut-2017:**
+  - (a) *Severe eczema or egg allergy:* SPT before home introduction; if SPT positive → supervised OFC before introduction.
+  - (b) *Mild-moderate eczema:* introduce peanut around 6 months.
+  - (c) *No eczema or food allergy:* introduce freely per family readiness.
+- **Egg:** introduce from 4–6 months regardless of eczema severity [ESPGHAN-CF-2017].
 - Maintain breastfeeding to ≥ 6 months exclusive where possible.
 - No restrictive maternal diet during pregnancy or breastfeeding for allergy prevention (no longer recommended).
 

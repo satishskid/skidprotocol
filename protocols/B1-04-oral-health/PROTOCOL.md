@@ -181,10 +181,10 @@ Per IADT-2020 guidelines:
 
 **First-aid for avulsed permanent tooth:**
 1. Handle by crown only, NOT root.
-2. If dirty: rinse gently with saline or milk (NOT water, NOT scrub).
+2. If dirty: rinse briefly under cold running water or with saline (do NOT scrub the root surface; do NOT soak in water or antiseptic) [IADT-2020].
 3. Replant into socket if possible; have child bite on gauze.
 4. If cannot replant: store in cold milk, saliva (in cheek), or Hank's Balanced Salt Solution.
-5. Time is critical: best outcomes within 30 minutes; poor outcomes after 60 minutes dry time.
+5. Time is critical: best outcomes within 30 minutes; poor outcomes after 60 minutes of DRY extra-alveolar time (a tooth kept moist in cold milk or saliva remains viable longer — replantation is still worthwhile if the tooth has been kept moist, even beyond 60 minutes total time out of socket).
 6. → §7.1 pedodontist IMMEDIATELY.
 
 ### 4.6 Malocclusion and habit screening

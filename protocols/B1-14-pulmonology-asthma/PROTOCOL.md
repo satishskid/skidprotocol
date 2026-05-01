@@ -291,6 +291,7 @@ Use GINA 4-item control assessment (§4.3) at every follow-up:
 
 **Step 1 (Intermittent):**
 - SABA (salbutamol 100 mcg/puff via pMDI + spacer, 2–4 puffs PRN) for symptom relief.
+- **GINA 2024 note:** SABA-only (without ICS) is no longer the preferred reliever at any step. ICS-formoterol (≥ 12 years) or ICS taken with each SABA dose (6–11 years) is the preferred approach. SABA-only is acceptable only where ICS-containing reliever is not feasible — document the reason.
 - GINA 2024 preferred: as-needed low-dose ICS-formoterol (≥ 12 years where available) OR as-needed ICS taken whenever SABA is taken (ICS-reliever approach for all ages).
 - If SABA-only approach used: maximum SABA use without escalation = ≤ 2 days/week.
 

@@ -326,7 +326,7 @@ NAFLD → §4.8 → §7.3 if fibrosis
 
 **GORD acid-suppression trial (pathological GORD):**
 - **PPI (omeprazole):** 1 mg/kg/day (max 20 mg) PO once daily before breakfast × 4–8 weeks [NASPGHAN-GORD-2018].
-- Alternative: ranitidine 2 mg/kg/dose BD (if PPI not available/tolerated) [NEEDS EXPANSION — confirm ranitidine availability post-NDMA recall; famotidine as alternative].
+- Alternative H2RA (if PPI not available/tolerated): famotidine 0.5 mg/kg/dose (max 20 mg) PO BD. Note: ranitidine has been withdrawn globally (NDMA contamination, 2020) and must NOT be prescribed.
 - Reassess at 4–8 weeks: if symptoms resolved → taper and stop. If symptoms recur → restart; if recurrence × 2 → §7.3 for endoscopy.
 - Do NOT continue PPI > 8 weeks without documented reassessment.
 

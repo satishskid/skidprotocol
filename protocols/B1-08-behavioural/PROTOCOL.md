@@ -321,6 +321,8 @@ These do not have a Mild / Moderate / Severe at B1-08; the screen result trigger
 | **PHQ-A item 9 positive at any score** | — | §7.1 emergency [AAP-Suicide-2024] |
 | **Active psychotic features OR mania** | — | §7.1 emergency |
 
+**Mismatched-severity rule:** When PHQ-A and GAD-7 indicate different severity tiers (e.g., moderate depression + severe anxiety), manage at the HIGHER of the two severity levels. The more severe condition drives the intervention tier, follow-up cadence, and §7 routing.
+
 ### 5.4 Disruptive behaviour / oppositional pattern
 
 | Severity | Findings | Intervention tier |
@@ -489,8 +491,8 @@ Before initiating ANY stimulant at B1-08, ALL of the following must be documente
 
 | Drug | Indication | Pediatric dose | Notes |
 |---|---|---|---|
-| Methylphenidate immediate-release | First-line; flexible titration in younger children | Start 5 mg PO BD (morning + early afternoon); titrate by 5 mg increments every 1–2 weeks; max 60 mg/day; doses ≥ 6 years per AAP [AAP-2019-ADHD] | Short half-life; useful for confirming response and titrating |
-| Methylphenidate extended-release (osmotic OROS or comparable) | First-line for stable maintenance | 18 mg PO once daily morning; titrate to 36–54 mg/day; max 72 mg/day in adolescents | Once-daily dosing improves school adherence |
+| Methylphenidate immediate-release | First-line; flexible titration in younger children | 0.3 mg/kg/dose (round to nearest 2.5 mg; typical start 5 mg BD for child 15–20 kg; 10 mg BD for child 25–35 kg); titrate by 0.1 mg/kg/dose every 1–2 weeks; max 2 mg/kg/day or 60 mg/day; doses ≥ 6 years per AAP [AAP-2019-ADHD] | Short half-life; useful for confirming response and titrating |
+| Methylphenidate extended-release (osmotic OROS or comparable) | First-line for stable maintenance | 18 mg OD for child ≤ 25 kg; 27 mg OD for child 25–40 kg; 36 mg OD for child > 40 kg; titrate by 9–18 mg every 1–2 weeks; max 54 mg/day (or 72 mg/day in adolescents > 50 kg under specialist guidance) | Once-daily dosing improves school adherence |
 | Atomoxetine | Alternative if stimulant contraindicated, family refuses stimulant, or significant tic / anxiety comorbidity | 0.5 mg/kg/day × 1 week; titrate to 1.2 mg/kg/day; max 1.4 mg/kg/day or 100 mg/day | Slower onset (4–6 weeks for full response); LFT baseline; suicidality-warning counselling like SSRI |
 
 **Stimulant initiation and monitoring:**
@@ -591,7 +593,7 @@ When B1-08 fires a §7 referral, the SKIDS pediatrician + LISSUN-side clinical l
 6. **Therapies tried at B1-08 / LISSUN and outcomes:** pharmacotherapy (drug, dose, duration, response), CBT or parent training (sessions completed, response), school accommodations, behavioural plans.
 7. **Investigations done:** ECG, TSH, FBC + ferritin + vitamin D + B12, pregnancy test if relevant.
 8. **Bridge interventions started** (e.g., empirical SSRI initiation pending psychiatry review for severe depression).
-9. **Safety plan documented** (for any §7.1 referral): no-self-harm contract / safety plan content, lethal-means counselling done, parent agreed to means restriction (medications locked away, etc.).
+9. **Safety plan documented** (for any §7.1 referral): collaborative safety plan (Stanley-Brown model) content, lethal-means counselling done, parent agreed to means restriction (medications locked away, etc.).
 10. **Reason for referral:** one to two sentences.
 11. **Urgency tier and target window:** §7.1 / §7.2 / §7.3 with the time bound.
 12. **Named partner / clinic** + appointment booking status.

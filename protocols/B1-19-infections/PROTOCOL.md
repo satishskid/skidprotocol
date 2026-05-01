@@ -112,7 +112,7 @@ Per WHO-Dengue-2009:
 
 ### 4.6 Malaria management
 - Diagnosis: rapid diagnostic test (RDT) + peripheral smear for species identification.
-- P. vivax (uncomplicated): chloroquine 10 mg/kg day 1 + 10 mg/kg day 2 + 5 mg/kg day 3; + primaquine 0.25 mg/kg/day × 14 days (check G6PD first — cross B1-18).
+- P. vivax (uncomplicated): chloroquine 10 mg/kg day 1 + 10 mg/kg day 2 + 5 mg/kg day 3; + primaquine 0.25 mg/kg/day × 14 days for radical cure. G6PD status MUST be confirmed before primaquine dispensing — Companion hard-block: primaquine cannot be prescribed without documented G6PD-normal result in PHR. If G6PD status unknown, order G6PD test and defer primaquine until result available. G6PD-deficient children: do NOT give primaquine; use chloroquine alone for P. vivax [cross B1-18 for G6PD management].
 - P. falciparum (uncomplicated): artemisinin-based combination therapy (ACT) per NVBDCP — artesunate-SP or artemether-lumefantrine × 3 days; + single-dose primaquine 0.75 mg/kg day 2.
 - P. falciparum complicated / cerebral malaria → §7.1 ER.
 
