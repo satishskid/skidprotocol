@@ -64,7 +64,7 @@ companion_module_status: not_specified
 - **[AAP-BF-4E]** — Already referenced. Source for developmental screening periodicity and ASQ-3 administration schedule.
 - **[AAP-DevScreen-2020]** — Lipkin PH, Macias MM; AAP Council on Children with Disabilities. Promoting Optimal Development: Identifying Infants and Young Children With Developmental Disorders Through Developmental Surveillance and Screening. Pediatrics. 2020;145(1):e20193449. Governing guideline for surveillance vs. screening distinction and early-intervention referral.
 - **[Robins-MCHATR-2014]** — Already referenced (B1-08). M-CHAT-R/F autism screening.
-- **[IAP-Development-2020]** — Indian Academy of Pediatrics. Position statement on developmental assessment and early intervention in the Indian context, 2020 [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year].
+- **[IAP-Development-2020]** — Indian Academy of Pediatrics. Position statement on developmental assessment and early intervention in the Indian context, 2020 [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation].
 - **[RBSK-2013]** — Already referenced. Government 4D screening framework (Defects, Diseases, Deficiencies, Developmental delays).
 - **[DASII]** — Phatak P. Developmental Assessment Scales for Indian Infants (DASII). Used for developmental assessment in Indian infants 0–30 months as a culturally adapted alternative to Bayley.
 - **[VSMS]** — Malin AJ. Vineland Social Maturity Scale — Indian Adaptation. Used for adaptive-behaviour assessment.

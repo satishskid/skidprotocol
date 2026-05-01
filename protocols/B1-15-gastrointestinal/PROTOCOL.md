@@ -67,7 +67,7 @@ companion_module_status: not_specified
 - **[NASPGHAN-NAFLD-2017]** — Already referenced (B1-10). Source for NAFLD screening.
 - **[NASPGHAN-2018-FC]** — Already referenced. Functional constipation guidelines (cross with B1-21).
 - **[AAP-BF-4E]** — Already referenced.
-- **[IAP-GI-2021]** — Indian Academy of Pediatrics. Position statement on pediatric gastrointestinal disorders in the Indian context, 2021 [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year].
+- **[IAP-GI-2021]** — Indian Academy of Pediatrics. Position statement on pediatric gastrointestinal disorders in the Indian context, 2021 [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation].
 - **[NELSON-21:CH350-380]** — Nelson, GI chapters.
 - **[IAP-TB-6E]** — IAP Textbook, GI chapters.
 

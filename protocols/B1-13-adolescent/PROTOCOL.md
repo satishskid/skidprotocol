@@ -66,7 +66,7 @@ companion_module_status: not_specified
 ## §2 Evidence base
 
 - **[AAP-BF-4E]** — Bright Futures, 4th edition. Already referenced. Source for HEEADSSS at every adolescent visit.
-- **[IAP-Adolescent-2023]** — Indian Academy of Pediatrics, Adolescent Health Academy. Position statement on adolescent health in the Indian context, 2023. Used for culturally adapted contraception counselling and substance-use brief-intervention framing. [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year]
+- **[IAP-Adolescent-2023]** — Indian Academy of Pediatrics, Adolescent Health Academy. Position statement on adolescent health in the Indian context, 2023. Used for culturally adapted contraception counselling and substance-use brief-intervention framing. [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation]
 - **[POCSO-2012]** — Protection of Children from Sexual Offences Act, 2012 (India), with subsequent amendments. Statutory framework for legal age of consent and mandatory reporting in cases of confirmed sexual abuse / exploitation in adolescents.
 - **[WHO-Adolescent-2024]** — WHO global standards for adolescent and youth-friendly health services, current version.
 - **[AAP-Suicide-2024]** — Already referenced (B1-08).

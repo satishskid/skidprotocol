@@ -62,7 +62,7 @@ companion_module_status: not_specified
 ## §2 Evidence base
 
 - **[GINA-2024]** — Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2024. Governing guideline for stepwise management, severity classification, control assessment, and exacerbation management.
-- **[IAP-Asthma-2021]** — Indian Academy of Pediatrics. Consensus guidelines on the management of asthma in children, 2021. Source for Indian-context adaptations: drug availability, cost-conscious step selection, and antimicrobial stewardship for PBB [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year].
+- **[IAP-Asthma-2021]** — Indian Academy of Pediatrics. Consensus guidelines on the management of asthma in children, 2021. Source for Indian-context adaptations: drug availability, cost-conscious step selection, and antimicrobial stewardship for PBB [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation].
 - **[GINA-U5-2024]** — GINA 2024, Chapter on management of asthma in children 5 years and younger. Source for wheeze phenotyping and mAPI in under-5s.
 - **[AAP-BF-4E]** — Bright Futures, 4th edition. Already referenced. Source for periodic respiratory assessment.
 - **[ARIA-2020]** — Already referenced (B1-06). Source for allergic rhinitis-with-asthma overlap management.

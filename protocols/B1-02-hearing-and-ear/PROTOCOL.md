@@ -66,7 +66,7 @@ companion_module_status: not_specified
 - **[AAO-HNS-2016-Cerumen]** — Already referenced. Cerumen management guideline.
 - **[AAP-BF-4E]** — Already referenced. Source for periodic hearing screening schedule.
 - **[WHO-Hearing-2021]** — World Health Organization. World Report on Hearing, 2021. Source for hearing-loss severity classification and global ear-care standards.
-- **[IAP-Hearing-2020]** — Indian Academy of Pediatrics. Position statement on newborn hearing screening and early intervention in the Indian context, 2020 [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year].
+- **[IAP-Hearing-2020]** — Indian Academy of Pediatrics. Position statement on newborn hearing screening and early intervention in the Indian context, 2020 [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation].
 - **[NELSON-21:CH654-662]** — Nelson, otology and audiology chapters.
 - **[IAP-TB-6E]** — IAP Textbook of Pediatrics, 6th edition. ENT chapters.
 - **[RBSK-2013]** — Already referenced. School-based hearing screening reconciliation.

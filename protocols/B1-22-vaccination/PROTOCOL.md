@@ -60,7 +60,7 @@ companion_module_status: not_specified
 - **[IAP-IIS-2024]** — Indian Academy of Pediatrics. IAP Immunisation Schedule 2024-25. Governing source for all routine and recommended vaccine timing, dosing, route, and catch-up rules.
 - **[CDC-IZ-2024]** — CDC Recommended Child and Adolescent Immunization Schedule, 2024. Reference for catch-up scheduling logic and special-population guidance where IAP IIS does not specify.
 - **[WHO-AEFI-2019]** — WHO. Causality assessment of an adverse event following immunization (AEFI): user manual, 2nd edition, 2019. Source for AEFI classification and reporting.
-- **[IAP-AEFI-2020]** — Indian Academy of Pediatrics. Position statement on AEFI surveillance and management, 2020. Source for Indian AEFI reporting pathway [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year].
+- **[IAP-AEFI-2020]** — Indian Academy of Pediatrics. Position statement on AEFI surveillance and management, 2020. Source for Indian AEFI reporting pathway [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation].
 - **[AAP-BF-4E]** — Bright Futures, 4th edition. Already referenced. Source for vaccination at preventive visits.
 - **[IAP-IIS-HPV]** — IAP position on HPV vaccination in boys and girls, per IIS 2024-25 update. 9–14 years: 2-dose schedule (0, 6–12 months); ≥ 15 years: 3-dose schedule (0, 1–2, 6 months) [IAP-IIS-2024].
 - **[WHO-HPV-2022]** — WHO position paper on HPV vaccines, 2022 update. Source for single-dose and two-dose schedule evidence.

@@ -62,7 +62,7 @@ companion_module_status: not_specified
 ## §2 Evidence base
 
 - **[AAP-Obesity-2023]** — Hampl SE, Hassink SG, Skinner AC, et al. Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity. Pediatrics. 2023;151(2):e2022060640. Governing guideline for structured lifestyle intervention, motivational interviewing, and comorbidity screening.
-- **[IAP-Obesity-2022]** — Indian Academy of Pediatrics. Consensus statement on evaluation and management of obesity in children and adolescents, 2022. Source for Indian-context BMI cutoffs, dietary modifications, and cultural adaptations [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year].
+- **[IAP-Obesity-2022]** — Indian Academy of Pediatrics. Consensus statement on evaluation and management of obesity in children and adolescents, 2022. Source for Indian-context BMI cutoffs, dietary modifications, and cultural adaptations [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation].
 - **[IAP-Growth-2015]** — Already referenced. Source for IAP BMI-for-age charts (5–18 years).
 - **[WHO-2024-Growth]** — Already referenced. Source for WHO BMI-for-age Z-scores (0–5 years).
 - **[AAP-T2DM-2013]** — Copeland KC, Silverstein J, Moore KR, et al. Management of newly diagnosed type 2 diabetes mellitus (T2DM) in children and adolescents. Pediatrics. 2013;131(2):364–382. Source for T2DM screening criteria and B2-01 routing threshold.

@@ -65,7 +65,7 @@ This protocol governs primary-care pediatric sleep management at SKIDS clinics. 
 - **[AAP-2012-OSA]** — Already referenced from A1 §4. Marcus CL, Brooks LJ, Draper KA, et al. Diagnosis and management of childhood obstructive sleep apnea syndrome. *Pediatrics.* 2012;130(3):576–584. Governing source for OSA screening and routing.
 - **[AASM-OSA-2012]** — American Academy of Sleep Medicine. Practice parameters for the respiratory indications for polysomnography in children, 2012. Used alongside AAP-2012-OSA.
 - **[Owens-2005-BEARS]** — Owens JA, Dalzell V. Use of the BEARS sleep screening tool. Already in citations.bib via A1.
-- **[IAP-Sleep-2020]** — Indian Academy of Pediatrics, Adolescent Health Academy + Pediatric Sleep Medicine Chapter. Position statement on pediatric sleep in the Indian context, 2020 (with subsequent updates). [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year]
+- **[IAP-Sleep-2020]** — Indian Academy of Pediatrics, Adolescent Health Academy + Pediatric Sleep Medicine Chapter. Position statement on pediatric sleep in the Indian context, 2020 (with subsequent updates). [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation]
 - **[AAP-Melatonin-2022]** — American Academy of Pediatrics. Health Advisory on Melatonin Use in Children, 2022. Used for the cautious-use framing in §6.
 - **[Mindell-Sleep-2017]** — Mindell JA, Williamson AA. Benefits of a bedtime routine in young children. *Sleep Med Rev.* 2018;40:93–108. Cited for behavioural-sleep evidence.
 - **[NELSON-21:CH31]** — Nelson Textbook of Pediatrics, 21st edition, sleep chapter.

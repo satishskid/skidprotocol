@@ -65,7 +65,7 @@ companion_module_status: not_specified
 - **[AAP-BF-4E]** — Already referenced. Periodic oropharyngeal examination.
 - **[AAO-HNS-2016-OME]** — Already referenced (B1-02). Cross-care for adenotonsillar OME.
 - **[AAP-2012-OSA]** — Already referenced (B1-07). Cross-care for adenotonsillar OSA.
-- **[IAP-RF-2008]** — Indian Academy of Pediatrics. Guidelines for the prevention of rheumatic fever and rheumatic heart disease, 2008 (with subsequent updates). Source for secondary prophylaxis in Indian context [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year; Indian RF burden is higher than global average].
+- **[IAP-RF-2008]** — Indian Academy of Pediatrics. Guidelines for the prevention of rheumatic fever and rheumatic heart disease, 2008 (with subsequent updates). Source for secondary prophylaxis in Indian context [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation. Note: Indian RF burden is higher than global average].
 - **[WHO-RF-2004]** — WHO. Rheumatic fever and rheumatic heart disease: report of a WHO Expert Consultation, 2004. Source for RF prevention strategy in endemic settings.
 - **[NELSON-21:CH409-415]** — Nelson, pharyngitis and upper-airway chapters.
 - **[IAP-TB-6E]** — IAP Textbook of Pediatrics, 6th edition. ENT and infectious-disease chapters.

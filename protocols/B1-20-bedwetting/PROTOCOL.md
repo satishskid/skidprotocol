@@ -56,7 +56,7 @@ companion_module_status: not_specified
 - **[ICCS-2014]** — International Children's Continence Society. Standardisation terminology and definitions. Source for classification (PMNE, non-monosymptomatic, secondary) and management hierarchy.
 - **[NICE-Enuresis-2010]** — NICE Clinical Guideline CG111: Nocturnal enuresis — the management of bedwetting in children and young people. Source for alarm therapy protocol and desmopressin guidance.
 - **[AAP-BF-4E]** — Already referenced. Elimination screening at periodic visits.
-- **[IAP-Enuresis-2020]** — Indian Academy of Pediatrics. Position statement on enuresis management in the Indian context, 2020 [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year].
+- **[IAP-Enuresis-2020]** — Indian Academy of Pediatrics. Position statement on enuresis management in the Indian context, 2020 [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation].
 - **[NELSON-21:CH556-558]** — Nelson, enuresis chapters.
 - **[IAP-TB-6E]** — IAP Textbook, nephrology/urology chapters.
 

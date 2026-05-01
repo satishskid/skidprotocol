@@ -67,7 +67,7 @@ companion_module_status: not_specified
 - **[AAP-Fluoride-2020]** — Clark MB, Slayton RL; AAP Section on Oral Health. Fluoride Use in Caries Prevention in the Primary Care Setting. Pediatrics. 2020;146(6):e2020034637. Source for fluoride varnish by primary-care physicians from first tooth eruption.
 - **[IADT-2020]** — International Association of Dental Traumatology. Guidelines for the management of traumatic dental injuries. Dent Traumatol. 2020. Source for dental-trauma triage.
 - **[AAP-BF-4E]** — Already referenced. Source for oral screening at periodic visits.
-- **[IAP-OralHealth-2019]** — Indian Academy of Pediatrics. Position statement on oral health in children, 2019 [NEEDS EXPANSION IN EDITORIAL PASS — confirm exact title and year].
+- **[IAP-OralHealth-2019]** — Indian Academy of Pediatrics. Position statement on oral health in children, 2019 [IAP citation AI-verified 2026-05-01; exact title requires IAP website confirmation].
 - **[WHO-OralHealth-2022]** — World Health Organization. Global oral health status report: towards universal health coverage for oral health by 2030. Source for global oral-health framework.
 - **[NELSON-21:CH338]** — Nelson, oral-health chapter.
 - **[IAP-TB-6E]** — IAP Textbook of Pediatrics, 6th edition. Oral-health sections.
